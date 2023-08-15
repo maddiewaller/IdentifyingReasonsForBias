@@ -1,0 +1,7 @@
+age,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+>60, State-gov, 7th-8th, Widowed, Other-service, Not-in-family, Black, Female,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, Assoc-acdm, Married-civ-spouse, Craft-repair, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+>60, Private, 7th-8th, Widowed, Other-service, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, Some-college, Divorced, Adm-clerical, Unmarried, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, 11th, Never-married, Exec-managerial, Not-in-family, Black, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60, Private, Masters, Never-married, Prof-specialty, Not-in-family, White, Male,≤5000,≤40,40-60, United-States, <=50K

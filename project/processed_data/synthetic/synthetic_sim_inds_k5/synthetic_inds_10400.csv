@@ -1,0 +1,7 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60,0, Federal-gov, Bachelors, Married-civ-spouse, Adm-clerical, Husband, Asian-Pac-Islander, Male,≤5000,>40,<40, Philippines, <=50K
+25-60,0, Federal-gov, Bachelors, Married-civ-spouse, Prof-specialty, Husband, Asian-Pac-Islander, Male,>5000,≤40,<40, Philippines, <=50K
+25-60,0, Federal-gov, Bachelors, Married-civ-spouse, Prof-specialty, Husband, Asian-Pac-Islander, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Private, HS-grad, Married-civ-spouse, Craft-repair, Husband, White, Male,>5000,≤40,<40, United-States, >50K
+25-60,1, Self-emp-not-inc, Assoc-acdm, Widowed, Prof-specialty, Unmarried, White, Female,≤5000,≤40,<40, United-States, >50K
+25-60,1, Federal-gov, Bachelors, Married-civ-spouse, Exec-managerial, Husband, Amer-Indian-Eskimo, Male,≤5000,≤40,<40, United-States, >50K

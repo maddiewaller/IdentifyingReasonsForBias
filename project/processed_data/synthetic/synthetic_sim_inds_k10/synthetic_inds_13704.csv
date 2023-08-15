@@ -1,0 +1,12 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60,0, Private, Some-college, Married-civ-spouse, Tech-support, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Some-college, Married-civ-spouse, Tech-support, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Some-college, Married-civ-spouse, Tech-support, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+<25,0, Private, HS-grad, Separated, Adm-clerical, Other-relative, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Private, Some-college, Married-civ-spouse, Tech-support, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+<25,1, Private, Some-college, Never-married, Adm-clerical, Own-child, White, Female,≤5000,≤40,<40, United-States, >50K
+25-60,0, Private, Some-college, Married-civ-spouse, Tech-support, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Federal-gov, Some-college, Married-civ-spouse, Tech-support, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Some-college, Married-civ-spouse, Adm-clerical, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Some-college, Married-civ-spouse, Adm-clerical, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Some-college, Married-civ-spouse, Adm-clerical, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K

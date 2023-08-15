@@ -1,0 +1,7 @@
+workclass,education,race,Probability
+Local-gov, Bachelors, Black,<=50K
+Private, Bachelors, White,>50K
+Local-gov, HS-grad, White,>50K
+Local-gov, Bachelors, White,>50K
+Private, Masters, White,>50K
+Local-gov, Masters, White,>50K

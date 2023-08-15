@@ -1,0 +1,7 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+>60,0, Private, 12th, Married-civ-spouse, Craft-repair, Wife, Black, Female,≤5000,≤40,<40, United-States, <=50K
+>60,0, Private, HS-grad, Married-civ-spouse, Craft-repair, Husband, Black, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Federal-gov, Bachelors, Married-civ-spouse, Exec-managerial, Wife, Other, Female,≤5000,≤40,<40, United-States, >50K
+25-60,0, State-gov, Bachelors, Married-civ-spouse, Prof-specialty, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Masters, Divorced, Exec-managerial, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Private, Some-college, Married-civ-spouse, Prof-specialty, Wife, White, Female,≤5000,≤40,<40, United-States, >50K

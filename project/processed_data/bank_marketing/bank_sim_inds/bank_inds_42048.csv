@@ -1,0 +1,7 @@
+age,job,marital,education,default,balance,housing,loan,contact,day,month,duration,campaign,pdays,previous,poutcome,y
+MidAge,blue-collar,married,primary,no,>0,no,no,cellular,>15,oct,121-600,≤1,≤30,0,unknown,yes
+MidAge,management,single,tertiary,no,>0,yes,no,cellular,>15,oct,121-600,≤1,31-180,1-5,success,yes
+MidAge,blue-collar,married,secondary,no,>0,no,no,cellular,>15,oct,121-600,≤1,≤30,0,unknown,yes
+MidAge,blue-collar,married,tertiary,no,>0,no,no,cellular,>15,oct,≤120,≤1,≤30,0,unknown,no
+MidAge,blue-collar,married,secondary,no,>0,no,no,cellular,>15,oct,≤120,≤1,≤30,0,unknown,no
+MidAge,blue-collar,married,primary,no,>0,no,no,cellular,>15,oct,≤120,2-5,≤30,0,unknown,no

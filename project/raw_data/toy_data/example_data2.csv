@@ -1,0 +1,7 @@
+age,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+40-49, Private, HS-grad, Never-married, Farming-fishing, Not-in-family, Other, Male,0.0,0.0,40-49, Puerto-Rico, <=50K
+50-59, Private, HS-grad, Divorced, Adm-clerical, Not-in-family, White, Female,0.0,0.0,40-49, Canada, <=50K
+10-19, Private, 10th, Never-married, Sales, Own-child, White, Female,0.0,0.0,10-19, United-States, <=50K
+40-49, Self-emp-not-inc, Some-college, Married-civ-spouse, Craft-repair, Husband, White, Male,0.0,0.0,40-49, United-States, <=50K
+40-49, Federal-gov, Bachelors, Married-civ-spouse, Prof-specialty, Husband, White, Male,0.0,0.0,40-49, United-States, >50K
+60-69, Self-emp-not-inc, HS-grad, Widowed, Tech-support, Not-in-family, White, Female,0.0,0.0,40-49, United-States, <=50K

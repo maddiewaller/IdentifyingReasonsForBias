@@ -1,0 +1,7 @@
+age,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60, Private, 5th-6th, Separated, Machine-op-inspct, Other-relative, White, Female,≤5000,≤40,<40, Ecuador, <=50K
+25-60, Private, 5th-6th, Separated, Other-service, Other-relative, White, Female,≤5000,≤40,<40, El-Salvador, <=50K
+25-60, Private, Assoc-acdm, Separated, Sales, Not-in-family, Black, Female,≤5000,≤40,<40, United-States, <=50K
+<25, Private, 11th, Never-married, Craft-repair, Other-relative, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, Assoc-voc, Married-civ-spouse, Craft-repair, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, 10th, Divorced, Machine-op-inspct, Unmarried, White, Female,≤5000,≤40,<40, United-States, <=50K

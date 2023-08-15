@@ -1,0 +1,7 @@
+age,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60, Local-gov, HS-grad, Married-civ-spouse, Transport-moving, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60, Local-gov, HS-grad, Married-civ-spouse, Transport-moving, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+<25, Private, HS-grad, Never-married, Other-service, Own-child, Black, Male,≤5000,≤40,<40, United-States, <=50K
+<25, Private, 7th-8th, Never-married, Other-service, Own-child, Black, Male,≤5000,≤40,<40, United-States, <=50K
+25-60, State-gov, Doctorate, Divorced, Exec-managerial, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, Bachelors, Married-civ-spouse, Prof-specialty, Husband, White, Male,≤5000,>40,<40, United-States, >50K

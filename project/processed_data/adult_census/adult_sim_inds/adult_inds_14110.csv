@@ -1,0 +1,7 @@
+age,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60, Self-emp-not-inc, Some-college, Never-married, Exec-managerial, Unmarried, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60, Self-emp-not-inc, Some-college, Never-married, Craft-repair, Unmarried, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60, Federal-gov, Some-college, Never-married, Exec-managerial, Unmarried, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60, Self-emp-not-inc, Some-college, Married-civ-spouse, Exec-managerial, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, Some-college, Never-married, Exec-managerial, Unmarried, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60, Self-emp-not-inc, Some-college, Married-civ-spouse, Exec-managerial, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K

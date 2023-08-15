@@ -1,0 +1,12 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60,0, Private, Some-college, Never-married, Adm-clerical, Other-relative, Other, Male,≤5000,≤40,<40, India, <=50K
+<25,0, Private, 10th, Never-married, Other-service, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, 1st-4th, Never-married, Transport-moving, Other-relative, Other, Male,≤5000,≤40,<40, El-Salvador, <=50K
+25-60,1, Private, Some-college, Never-married, Adm-clerical, Other-relative, Black, Male,≤5000,≤40,<40, United-States, >50K
+25-60,0, Private, Some-college, Never-married, Tech-support, Other-relative, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, 11th, Married-civ-spouse, Machine-op-inspct, Husband, White, Male,>5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Some-college, Never-married, Sales, Other-relative, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Assoc-acdm, Never-married, Adm-clerical, Other-relative, White, Male,≤5000,≤40,<40, United-States, <=50K
+<25,0, Private, 12th, Never-married, Other-service, Other-relative, Other, Male,≤5000,≤40,<40, Dominican-Republic, <=50K
+25-60,0, Private, Some-college, Never-married, Adm-clerical, Own-child, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Some-college, Divorced, Adm-clerical, Other-relative, White, Female,≤5000,≤40,<40, United-States, <=50K

@@ -1,0 +1,17 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60,0, Self-emp-inc, Bachelors, Married-civ-spouse, Handlers-cleaners, Husband, White, Male,>5000,≤40,>60, United-States, <=50K
+25-60,0, Private, Some-college, Married-civ-spouse, Adm-clerical, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Self-emp-inc, Bachelors, Married-civ-spouse, Exec-managerial, Husband, White, Male,>5000,≤40,>60, United-States, <=50K
+25-60,0, State-gov, Some-college, Never-married, Prof-specialty, Not-in-family, Black, Female,≤5000,>40,<40, United-States, <=50K
+25-60,0, Self-emp-inc, Assoc-voc, Divorced, Exec-managerial, Not-in-family, White, Female,>5000,≤40,>60, United-States, <=50K
+25-60,1, State-gov, Assoc-acdm, Divorced, Adm-clerical, Not-in-family, White, Male,≤5000,≤40,<40, United-States, >50K
+25-60,1, Private, Some-college, Married-civ-spouse, Exec-managerial, Husband, White, Male,≤5000,>40,40-60, United-States, >50K
+25-60,0, Self-emp-inc, Bachelors, Married-civ-spouse, Tech-support, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Private, HS-grad, Never-married, Handlers-cleaners, Own-child, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Bachelors, Married-civ-spouse, Adm-clerical, Wife, White, Female,≤5000,>40,<40, United-States, <=50K
+25-60,0, Private, Bachelors, Married-civ-spouse, Sales, Husband, White, Male,>5000,≤40,>60, United-States, <=50K
+<25,1, Private, HS-grad, Never-married, Other-service, Own-child, Black, Male,≤5000,≤40,<40, United-States, >50K
+<25,0, Private, Some-college, Divorced, Tech-support, Other-relative, White, Female,≤5000,≤40,<40, United-States, <=50K
+<25,1, Private, Assoc-voc, Divorced, Tech-support, Not-in-family, White, Female,≤5000,≤40,<40, United-States, >50K
+25-60,0, Self-emp-inc, Bachelors, Divorced, Exec-managerial, Not-in-family, White, Male,>5000,≤40,>60, United-States, <=50K
+25-60,1, Private, HS-grad, Married-civ-spouse, Adm-clerical, Husband, White, Male,≤5000,≤40,<40, United-States, >50K

@@ -1,0 +1,12 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60,0, Private, 11th, Married-civ-spouse, Machine-op-inspct, Husband, Black, Male,>5000,≤40,40-60, United-States, <=50K
+25-60,0, Private, 10th, Married-civ-spouse, Machine-op-inspct, Husband, Black, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Private, Some-college, Never-married, Adm-clerical, Other-relative, White, Female,≤5000,≤40,<40, United-States, >50K
+25-60,1, Self-emp-not-inc, Prof-school, Married-civ-spouse, Prof-specialty, Husband, White, Male,≤5000,≤40,40-60, United-States, >50K
+25-60,0, Private, 12th, Married-civ-spouse, Machine-op-inspct, Husband, Black, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Masters, Married-civ-spouse, Exec-managerial, Husband, Black, Male,>5000,≤40,40-60, United-States, <=50K
+25-60,0, Private, 11th, Married-civ-spouse, Machine-op-inspct, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, 11th, Married-civ-spouse, Transport-moving, Husband, White, Male,>5000,≤40,40-60, United-States, <=50K
+25-60,0, Private, Assoc-voc, Married-civ-spouse, Machine-op-inspct, Husband, Black, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, 11th, Married-civ-spouse, Machine-op-inspct, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Married-civ-spouse, Machine-op-inspct, Husband, Black, Male,≤5000,≤40,<40, United-States, <=50K

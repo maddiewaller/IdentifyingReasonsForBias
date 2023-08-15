@@ -1,0 +1,12 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60,0, Private, Some-college, Married-civ-spouse, Prof-specialty, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Self-emp-not-inc, HS-grad, Separated, Farming-fishing, Not-in-family, White, Male,≤5000,≤40,40-60, United-States, >50K
+25-60,0, Self-emp-inc, Assoc-voc, Married-civ-spouse, Exec-managerial, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,1, Private, HS-grad, Never-married, Protective-serv, Unmarried, White, Male,≤5000,≤40,<40, United-States, >50K
+25-60,0, Private, Bachelors, Never-married, Other-service, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Married-civ-spouse, Craft-repair, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Private, HS-grad, Never-married, Protective-serv, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Self-emp-not-inc, Some-college, Married-civ-spouse, Other-service, Wife, White, Female,≤5000,≤40,40-60, United-States, >50K
+25-60,0, Private, Some-college, Divorced, Handlers-cleaners, Own-child, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Self-emp-inc, Bachelors, Never-married, Sales, Not-in-family, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,1, Private, HS-grad, Married-civ-spouse, Sales, Husband, White, Male,≤5000,≤40,40-60, United-States, >50K

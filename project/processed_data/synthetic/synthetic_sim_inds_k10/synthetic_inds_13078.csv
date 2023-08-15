@@ -1,0 +1,12 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60,0, Self-emp-inc, Bachelors, Married-civ-spouse, Prof-specialty, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Self-emp-inc, Bachelors, Married-civ-spouse, Prof-specialty, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Self-emp-inc, Bachelors, Married-civ-spouse, Prof-specialty, Husband, White, Male,≤5000,>40,40-60, United-States, <=50K
+25-60,1, Private, 9th, Never-married, Farming-fishing, Other-relative, White, Male,≤5000,≤40,<40, Mexico, >50K
+25-60,1, Self-emp-inc, Bachelors, Married-civ-spouse, Prof-specialty, Husband, White, Male,≤5000,≤40,40-60, United-States, >50K
+25-60,0, Self-emp-inc, Prof-school, Married-civ-spouse, Prof-specialty, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Private, Bachelors, Married-civ-spouse, Prof-specialty, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Self-emp-inc, Bachelors, Married-civ-spouse, Tech-support, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Local-gov, Bachelors, Married-civ-spouse, Prof-specialty, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Private, Bachelors, Married-civ-spouse, Prof-specialty, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Self-emp-inc, Bachelors, Married-civ-spouse, Craft-repair, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K

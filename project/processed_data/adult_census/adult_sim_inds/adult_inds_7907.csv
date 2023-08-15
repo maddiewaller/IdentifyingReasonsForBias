@@ -1,0 +1,7 @@
+age,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60, Private, HS-grad, Never-married, Handlers-cleaners, Other-relative, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60, Self-emp-inc, Bachelors, Married-civ-spouse, Exec-managerial, Husband, White, Male,>5000,≤40,40-60, Germany, >50K
+>60, Private, HS-grad, Widowed, Exec-managerial, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, Masters, Married-civ-spouse, Exec-managerial, Wife, White, Female,≤5000,≤40,<40, United-States, >50K
+25-60, Private, HS-grad, Never-married, Handlers-cleaners, Unmarried, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, HS-grad, Never-married, Handlers-cleaners, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K

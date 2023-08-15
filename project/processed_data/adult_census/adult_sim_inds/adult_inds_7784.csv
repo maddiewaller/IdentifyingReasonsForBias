@@ -1,0 +1,7 @@
+age,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60, State-gov, Bachelors, Divorced, Prof-specialty, Not-in-family, Other, Female,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, Bachelors, Married-civ-spouse, Craft-repair, Husband, Asian-Pac-Islander, Male,≤5000,≤40,<40, Philippines, >50K
+25-60, Private, 7th-8th, Married-civ-spouse, Machine-op-inspct, Wife, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60, State-gov, Bachelors, Divorced, Adm-clerical, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, HS-grad, Married-spouse-absent, Craft-repair, Not-in-family, White, Male,≤5000,>40,<40, United-States, <=50K
+25-60, Private, 7th-8th, Divorced, Tech-support, Not-in-family, White, Female,≤5000,≤40,40-60, United-States, <=50K

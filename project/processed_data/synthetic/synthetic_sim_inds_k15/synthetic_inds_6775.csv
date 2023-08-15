@@ -1,0 +1,17 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60,0, Private, Some-college, Divorced, Sales, Not-in-family, White, Male,>5000,≤40,40-60, United-States, <=50K
+25-60,1, Private, HS-grad, Never-married, Other-service, Not-in-family, White, Male,≤5000,≤40,<40, United-States, >50K
+<25,1, State-gov, Assoc-voc, Married-civ-spouse, Protective-serv, Husband, White, Male,≤5000,≤40,<40, United-States, >50K
+25-60,1, Private, HS-grad, Never-married, Sales, Other-relative, White, Male,≤5000,≤40,40-60, United-States, >50K
+<25,0, Private, 10th, Never-married, Machine-op-inspct, Own-child, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Some-college, Married-civ-spouse, Machine-op-inspct, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Self-emp-not-inc, 10th, Married-civ-spouse, Craft-repair, Husband, White, Male,≤5000,≤40,<40, United-States, >50K
+25-60,0, Private, Some-college, Separated, Transport-moving, Unmarried, White, Male,≤5000,≤40,40-60, United-States, <=50K
+>60,0, Private, Prof-school, Widowed, Prof-specialty, Unmarried, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Private, 10th, Never-married, Handlers-cleaners, Unmarried, White, Male,≤5000,≤40,<40, Mexico, <=50K
+25-60,0, Self-emp-not-inc, HS-grad, Married-civ-spouse, Transport-moving, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Private, 9th, Married-civ-spouse, Craft-repair, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Private, Some-college, Divorced, Sales, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+<25,1, Private, Some-college, Never-married, Sales, Own-child, White, Female,≤5000,≤40,<40, United-States, >50K
+25-60,1, Private, Bachelors, Married-civ-spouse, Sales, Husband, White, Male,≤5000,≤40,<40, United-States, >50K
+25-60,0, Private, HS-grad, Never-married, Craft-repair, Unmarried, White, Male,≤5000,≤40,<40, Mexico, <=50K

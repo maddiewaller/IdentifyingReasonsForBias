@@ -1,0 +1,17 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60,0, Private, Bachelors, Never-married, Exec-managerial, Not-in-family, Asian-Pac-Islander, Male,≤5000,≤40,<40, Philippines, <=50K
+25-60,0, Private, Bachelors, Never-married, Prof-specialty, Not-in-family, Asian-Pac-Islander, Male,≤5000,≤40,<40, Philippines, <=50K
+25-60,1, Private, Bachelors, Never-married, Adm-clerical, Not-in-family, Asian-Pac-Islander, Female,≤5000,≤40,<40, Philippines, >50K
+25-60,1, Private, Some-college, Divorced, Other-service, Not-in-family, White, Female,≤5000,≤40,<40, United-States, >50K
+25-60,0, Private, Bachelors, Never-married, Adm-clerical, Unmarried, Asian-Pac-Islander, Female,≤5000,≤40,<40, Philippines, <=50K
+25-60,1, Private, Bachelors, Never-married, Handlers-cleaners, Not-in-family, White, Male,≤5000,≤40,<40, United-States, >50K
+25-60,1, Private, Bachelors, Never-married, Exec-managerial, Own-child, White, Female,≤5000,≤40,<40, United-States, >50K
+25-60,0, Private, Some-college, Divorced, Other-service, Unmarried, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Bachelors, Never-married, Prof-specialty, Not-in-family, Asian-Pac-Islander, Male,≤5000,≤40,<40, Japan, <=50K
+25-60,1, Private, Bachelors, Never-married, Prof-specialty, Not-in-family, Asian-Pac-Islander, Female,≤5000,≤40,<40, Philippines, >50K
+25-60,0, Private, Bachelors, Divorced, Prof-specialty, Not-in-family, Asian-Pac-Islander, Female,≤5000,≤40,<40, Philippines, <=50K
+25-60,0, Private, Bachelors, Never-married, Exec-managerial, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Private, Bachelors, Divorced, Adm-clerical, Not-in-family, Asian-Pac-Islander, Female,≤5000,≤40,<40, Philippines, >50K
+25-60,0, Private, Bachelors, Divorced, Exec-managerial, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Some-college, Never-married, Craft-repair, Not-in-family, Asian-Pac-Islander, Male,≤5000,≤40,40-60, Philippines, <=50K
+25-60,0, Private, Bachelors, Married-civ-spouse, Adm-clerical, Husband, Asian-Pac-Islander, Male,≤5000,≤40,40-60, Philippines, <=50K

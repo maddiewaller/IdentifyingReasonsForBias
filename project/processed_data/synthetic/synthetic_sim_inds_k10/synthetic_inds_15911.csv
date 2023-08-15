@@ -1,0 +1,12 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60,0, Local-gov, Assoc-acdm, Married-civ-spouse, Other-service, Husband, White, Male,≤5000,≤40,>60, United-States, <=50K
+25-60,0, Local-gov, Assoc-acdm, Married-civ-spouse, Tech-support, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Local-gov, 10th, Married-civ-spouse, Other-service, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Local-gov, Assoc-acdm, Married-civ-spouse, Other-service, Husband, White, Male,≤5000,≤40,<40, United-States, >50K
+25-60,0, Local-gov, Assoc-acdm, Married-civ-spouse, Adm-clerical, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Assoc-acdm, Married-civ-spouse, Other-service, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Local-gov, HS-grad, Married-civ-spouse, Tech-support, Husband, White, Male,≤5000,≤40,>60, United-States, <=50K
+25-60,0, Local-gov, Some-college, Married-civ-spouse, Exec-managerial, Husband, White, Male,≤5000,≤40,>60, United-States, <=50K
+25-60,0, Local-gov, Some-college, Married-civ-spouse, Other-service, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Local-gov, Assoc-acdm, Married-civ-spouse, Craft-repair, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Local-gov, HS-grad, Married-civ-spouse, Other-service, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K

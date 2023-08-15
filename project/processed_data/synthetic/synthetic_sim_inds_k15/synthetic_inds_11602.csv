@@ -1,0 +1,17 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60,0, Self-emp-inc, Doctorate, Married-civ-spouse, Craft-repair, Husband, White, Male,≤5000,>40,40-60, United-States, <=50K
+25-60,1, Private, Some-college, Married-civ-spouse, Transport-moving, Husband, White, Male,≤5000,≤40,40-60, United-States, >50K
+25-60,0, State-gov, Some-college, Married-civ-spouse, Adm-clerical, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Self-emp-inc, HS-grad, Married-civ-spouse, Craft-repair, Husband, White, Male,≤5000,>40,<40, United-States, <=50K
+25-60,0, Self-emp-inc, Some-college, Married-civ-spouse, Exec-managerial, Husband, White, Male,≤5000,>40,40-60, United-States, <=50K
+25-60,0, Self-emp-inc, HS-grad, Married-civ-spouse, Craft-repair, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,1, State-gov, Masters, Widowed, Prof-specialty, Unmarried, White, Female,≤5000,≤40,40-60, United-States, >50K
+<25,0, Private, 12th, Married-civ-spouse, Other-service, Husband, Black, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Bachelors, Married-civ-spouse, Prof-specialty, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,1, Self-emp-not-inc, Assoc-voc, Married-civ-spouse, Exec-managerial, Husband, White, Male,≤5000,≤40,<40, United-States, >50K
+25-60,0, Self-emp-inc, Prof-school, Married-civ-spouse, Prof-specialty, Husband, White, Male,≤5000,>40,40-60, United-States, <=50K
+25-60,0, Private, HS-grad, Married-civ-spouse, Craft-repair, Husband, White, Male,≤5000,>40,40-60, United-States, <=50K
+25-60,1, Private, HS-grad, Married-civ-spouse, Craft-repair, Husband, White, Male,≤5000,≤40,<40, United-States, >50K
+25-60,1, Private, Bachelors, Never-married, Craft-repair, Not-in-family, White, Male,≤5000,≤40,<40, United-States, >50K
+25-60,0, Self-emp-inc, HS-grad, Married-civ-spouse, Craft-repair, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Self-emp-inc, HS-grad, Married-civ-spouse, Craft-repair, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K

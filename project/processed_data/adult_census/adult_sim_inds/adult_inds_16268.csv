@@ -1,0 +1,7 @@
+age,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60, Private, Assoc-voc, Never-married, Adm-clerical, Unmarried, Black, Female,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, Assoc-voc, Never-married, Adm-clerical, Unmarried, Black, Female,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, Assoc-voc, Never-married, Exec-managerial, Unmarried, Black, Female,≤5000,≤40,<40, United-States, <=50K
+25-60, Federal-gov, Assoc-voc, Never-married, Adm-clerical, Unmarried, Black, Female,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, 10th, Never-married, Other-service, Unmarried, Black, Female,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, 10th, Never-married, Farming-fishing, Unmarried, Black, Female,≤5000,≤40,<40, United-States, <=50K

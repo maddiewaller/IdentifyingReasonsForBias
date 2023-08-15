@@ -1,0 +1,17 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60,0, Without-pay, HS-grad, Married-civ-spouse, Machine-op-inspct, Own-child, White, Female,≤5000,>40,<40, United-States, <=50K
+25-60,0, Private, Bachelors, Married-civ-spouse, Tech-support, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Divorced, Machine-op-inspct, Own-child, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Private, Bachelors, Never-married, Prof-specialty, Not-in-family, Asian-Pac-Islander, Male,≤5000,≤40,<40, United-States, >50K
+25-60,0, Private, HS-grad, Divorced, Exec-managerial, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Private, Bachelors, Never-married, Sales, Own-child, White, Male,≤5000,≤40,<40, United-States, >50K
+25-60,1, Private, HS-grad, Married-civ-spouse, Craft-repair, Husband, White, Male,≤5000,≤40,<40, United-States, >50K
+<25,0, Private, HS-grad, Never-married, Handlers-cleaners, Other-relative, White, Male,≤5000,≤40,<40, Mexico, <=50K
+25-60,1, Private, HS-grad, Married-civ-spouse, Craft-repair, Husband, White, Male,≤5000,≤40,40-60, United-States, >50K
+25-60,1, Private, 9th, Married-civ-spouse, Other-service, Wife, Asian-Pac-Islander, Female,≤5000,≤40,<40, Hong, >50K
+25-60,1, Local-gov, Bachelors, Married-civ-spouse, Exec-managerial, Husband, Black, Male,≤5000,≤40,<40, United-States, >50K
+25-60,0, Self-emp-not-inc, Bachelors, Married-civ-spouse, Sales, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,1, Private, HS-grad, Divorced, Other-service, Not-in-family, White, Male,≤5000,≤40,<40, United-States, >50K
+25-60,1, Private, Bachelors, Married-civ-spouse, Craft-repair, Husband, White, Male,≤5000,≤40,<40, United-States, >50K
+25-60,0, Private, Assoc-voc, Married-civ-spouse, Craft-repair, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K
+<25,1, Private, 11th, Never-married, Other-service, Own-child, White, Female,≤5000,≤40,<40, United-States, >50K

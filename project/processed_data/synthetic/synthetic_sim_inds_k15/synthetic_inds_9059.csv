@@ -1,0 +1,17 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+<25,0, Private, Bachelors, Never-married, Other-service, Not-in-family, White, Female,≤5000,≤40,40-60, United-States, <=50K
+<25,0, Private, Bachelors, Never-married, Other-service, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Divorced, Other-service, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+<25,0, Private, Bachelors, Never-married, Adm-clerical, Not-in-family, White, Female,≤5000,≤40,40-60, United-States, <=50K
+<25,1, Private, Bachelors, Never-married, Other-service, Not-in-family, White, Female,≤5000,≤40,40-60, United-States, >50K
+25-60,1, Self-emp-not-inc, Bachelors, Divorced, Sales, Unmarried, Asian-Pac-Islander, Female,≤5000,≤40,<40, South, >50K
+25-60,0, Private, Some-college, Married-civ-spouse, Craft-repair, Husband, White, Male,>5000,≤40,40-60, Mexico, <=50K
+25-60,1, Private, Assoc-acdm, Married-civ-spouse, Adm-clerical, Other-relative, Asian-Pac-Islander, Female,>5000,≤40,<40, United-States, >50K
+25-60,1, Self-emp-not-inc, HS-grad, Divorced, Craft-repair, Unmarried, White, Male,≤5000,≤40,40-60, United-States, >50K
+25-60,0, Self-emp-inc, Some-college, Married-civ-spouse, Sales, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Local-gov, Some-college, Married-civ-spouse, Prof-specialty, Husband, Other, Male,≤5000,≤40,<40, United-States, <=50K
+<25,0, Private, 10th, Never-married, Other-service, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, 11th, Never-married, Other-service, Unmarried, Black, Female,≤5000,≤40,<40, United-States, <=50K
+<25,0, Private, HS-grad, Divorced, Craft-repair, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Local-gov, HS-grad, Married-civ-spouse, Protective-serv, Husband, White, Male,≤5000,≤40,<40, United-States, >50K
+<25,0, Private, Bachelors, Never-married, Sales, Not-in-family, White, Female,≤5000,≤40,40-60, United-States, <=50K

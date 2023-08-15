@@ -1,0 +1,7 @@
+age,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60, Local-gov, HS-grad, Never-married, Farming-fishing, Own-child, Amer-Indian-Eskimo, Male,≤5000,≤40,40-60, United-States, <=50K
+<25, Private, Assoc-acdm, Never-married, Handlers-cleaners, Own-child, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, HS-grad, Married-civ-spouse, Adm-clerical, Wife, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60, Local-gov, HS-grad, Married-civ-spouse, Craft-repair, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, HS-grad, Married-civ-spouse, Sales, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60, Private, Some-college, Divorced, Other-service, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K

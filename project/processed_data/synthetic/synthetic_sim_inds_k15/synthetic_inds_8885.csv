@@ -1,0 +1,17 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+>60,0, State-gov, Bachelors, Divorced, Exec-managerial, Unmarried, Black, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Divorced, Sales, Unmarried, White, Male,≤5000,≤40,<40, United-States, <=50K
+<25,1, Private, 11th, Never-married, Sales, Own-child, White, Female,≤5000,≤40,<40, United-States, >50K
+25-60,0, State-gov, Bachelors, Never-married, Exec-managerial, Unmarried, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,1, State-gov, Bachelors, Never-married, Adm-clerical, Unmarried, Black, Female,≤5000,≤40,<40, United-States, >50K
+25-60,0, State-gov, Assoc-acdm, Divorced, Adm-clerical, Unmarried, Black, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Bachelors, Divorced, Exec-managerial, Unmarried, White, Female,≤5000,≤40,<40, United-States, <=50K
+<25,0, Private, 11th, Never-married, Sales, Own-child, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Bachelors, Divorced, Exec-managerial, Unmarried, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Married-civ-spouse, Machine-op-inspct, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Self-emp-not-inc, Some-college, Never-married, Other-service, Unmarried, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Federal-gov, Some-college, Never-married, Adm-clerical, Not-in-family, White, Female,≤5000,>40,<40, United-States, >50K
+25-60,0, Private, Bachelors, Divorced, Exec-managerial, Unmarried, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, 10th, Divorced, Exec-managerial, Unmarried, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Local-gov, Some-college, Divorced, Adm-clerical, Unmarried, Black, Female,≤5000,≤40,<40, United-States, <=50K
+<25,1, Private, Assoc-acdm, Never-married, Prof-specialty, Not-in-family, Asian-Pac-Islander, Female,≤5000,≤40,<40, Vietnam, >50K

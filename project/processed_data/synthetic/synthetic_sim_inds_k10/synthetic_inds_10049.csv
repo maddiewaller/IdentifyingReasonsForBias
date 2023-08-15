@@ -1,0 +1,12 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60,0, Private, Bachelors, Divorced, Other-service, Unmarried, Asian-Pac-Islander, Female,≤5000,≤40,<40, Philippines, <=50K
+25-60,0, Private, Bachelors, Never-married, Adm-clerical, Unmarried, Asian-Pac-Islander, Female,≤5000,≤40,<40, Philippines, <=50K
+25-60,0, Private, Bachelors, Divorced, Adm-clerical, Not-in-family, Asian-Pac-Islander, Female,≤5000,≤40,<40, Philippines, <=50K
+25-60,0, Private, HS-grad, Divorced, Other-service, Unmarried, Asian-Pac-Islander, Male,>5000,≤40,<40, Philippines, <=50K
+25-60,0, Private, Bachelors, Divorced, Sales, Unmarried, Asian-Pac-Islander, Female,≤5000,≤40,<40, China, <=50K
+25-60,0, Private, Some-college, Divorced, Other-service, Unmarried, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Private, HS-grad, Widowed, Other-service, Unmarried, Asian-Pac-Islander, Female,≤5000,≤40,<40, Philippines, >50K
+25-60,0, Private, Assoc-voc, Divorced, Other-service, Unmarried, Amer-Indian-Eskimo, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Local-gov, Masters, Separated, Prof-specialty, Not-in-family, White, Male,≤5000,>40,40-60, United-States, >50K
+25-60,1, Self-emp-not-inc, Assoc-acdm, Widowed, Prof-specialty, Unmarried, White, Female,≤5000,≤40,<40, United-States, >50K
+25-60,0, Private, Bachelors, Divorced, Adm-clerical, Unmarried, White, Female,≤5000,≤40,<40, United-States, <=50K

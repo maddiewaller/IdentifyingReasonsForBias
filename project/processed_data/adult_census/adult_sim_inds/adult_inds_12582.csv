@@ -1,0 +1,7 @@
+age,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60, Private, 5th-6th, Never-married, Transport-moving, Not-in-family, Black, Male,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, Bachelors, Separated, Other-service, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, Some-college, Never-married, Transport-moving, Not-in-family, Black, Male,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, HS-grad, Never-married, Transport-moving, Not-in-family, Black, Male,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, 11th, Never-married, Transport-moving, Not-in-family, Black, Male,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, 10th, Never-married, Transport-moving, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K

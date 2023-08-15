@@ -1,0 +1,7 @@
+age,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60, Private, Some-college, Divorced, Exec-managerial, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, Some-college, Divorced, Exec-managerial, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, HS-grad, Divorced, Transport-moving, Other-relative, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60, Private, Some-college, Divorced, Exec-managerial, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, Some-college, Divorced, Exec-managerial, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, Some-college, Divorced, Adm-clerical, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K

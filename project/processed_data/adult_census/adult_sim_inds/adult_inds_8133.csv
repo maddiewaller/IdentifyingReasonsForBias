@@ -1,0 +1,7 @@
+age,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+>60, Private, Some-college, Divorced, Other-service, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, Some-college, Divorced, Adm-clerical, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+<25, Private, HS-grad, Never-married, Machine-op-inspct, Own-child, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, 10th, Never-married, Farming-fishing, Unmarried, Black, Female,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, HS-grad, Never-married, Exec-managerial, Not-in-family, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60, State-gov, Prof-school, Married-civ-spouse, Prof-specialty, Husband, Asian-Pac-Islander, Male,≤5000,>40,<40, India, >50K

@@ -1,0 +1,7 @@
+age,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60, Self-emp-not-inc, Some-college, Married-civ-spouse, Farming-fishing, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60, Private, Masters, Married-civ-spouse, Prof-specialty, Husband, White, Male,≤5000,>40,40-60, United-States, >50K
+25-60, Private, HS-grad, Married-civ-spouse, Craft-repair, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, HS-grad, Married-civ-spouse, Other-service, Husband, White, Male,≤5000,>40,>60, United-States, <=50K
+25-60, Private, HS-grad, Married-civ-spouse, Sales, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K
+<25, Private, Some-college, Never-married, Other-service, Own-child, White, Male,≤5000,≤40,<40, United-States, <=50K

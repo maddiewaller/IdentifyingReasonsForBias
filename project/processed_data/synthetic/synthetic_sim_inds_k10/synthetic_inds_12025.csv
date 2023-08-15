@@ -1,0 +1,12 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+<25,0, Private, 5th-6th, Never-married, Farming-fishing, Not-in-family, White, Male,≤5000,≤40,<40, Mexico, <=50K
+25-60,0, Local-gov, Bachelors, Married-civ-spouse, Craft-repair, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K
+<25,1, Private, 5th-6th, Never-married, Farming-fishing, Other-relative, White, Male,≤5000,≤40,<40, Mexico, >50K
+>60,1, Private, HS-grad, Married-civ-spouse, Sales, Husband, White, Male,≤5000,≤40,40-60, United-States, >50K
+<25,0, Private, Preschool, Never-married, Farming-fishing, Not-in-family, White, Male,≤5000,≤40,40-60, Mexico, <=50K
+25-60,1, Self-emp-inc, Assoc-acdm, Married-civ-spouse, Exec-managerial, Wife, White, Female,≤5000,≤40,<40, United-States, >50K
+<25,0, Private, 11th, Never-married, Farming-fishing, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Private, Some-college, Married-civ-spouse, Tech-support, Husband, White, Male,≤5000,≤40,<40, Mexico, >50K
+25-60,1, Private, Some-college, Married-civ-spouse, Craft-repair, Husband, White, Male,≤5000,≤40,<40, United-States, >50K
+>60,0, Private, HS-grad, Widowed, Priv-house-serv, Not-in-family, White, Female,≤5000,≤40,<40, England, <=50K
+25-60,0, Private, 5th-6th, Never-married, Other-service, Not-in-family, White, Female,≤5000,≤40,<40, Mexico, <=50K

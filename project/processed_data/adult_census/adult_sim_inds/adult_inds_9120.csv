@@ -1,0 +1,7 @@
+age,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60, Self-emp-not-inc, Bachelors, Divorced, Craft-repair, Not-in-family, White, Male,≤5000,>40,40-60, United-States, <=50K
+25-60, Self-emp-not-inc, Bachelors, Divorced, Craft-repair, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60, Self-emp-not-inc, Bachelors, Divorced, Craft-repair, Not-in-family, White, Male,≤5000,≤40,>60, United-States, <=50K
+<25, Private, Masters, Never-married, Other-service, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60, Self-emp-not-inc, Bachelors, Divorced, Sales, Not-in-family, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60, Self-emp-not-inc, 11th, Divorced, Craft-repair, Not-in-family, White, Male,≤5000,≤40,40-60, United-States, <=50K

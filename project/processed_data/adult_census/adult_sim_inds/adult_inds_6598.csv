@@ -1,0 +1,7 @@
+age,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+<25, Private, Some-college, Never-married, Sales, Own-child, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, Assoc-voc, Widowed, Machine-op-inspct, Not-in-family, White, Female,≤5000,≤40,40-60, Poland, <=50K
+25-60, Self-emp-inc, Bachelors, Married-civ-spouse, Exec-managerial, Husband, White, Male,≤5000,≤40,<40, United-States, >50K
+25-60, Local-gov, Some-college, Married-civ-spouse, Protective-serv, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, HS-grad, Married-civ-spouse, Handlers-cleaners, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60, Private, Assoc-acdm, Never-married, Prof-specialty, Not-in-family, White, Female,≤5000,≤40,40-60, United-States, <=50K

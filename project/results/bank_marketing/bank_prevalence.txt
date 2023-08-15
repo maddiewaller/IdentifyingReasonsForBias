@@ -1,0 +1,6 @@
+Prevalence of individuals in each protected group in the Bank Marketing dataset
+MidAge: Negative: 4580, Positive: 38634, Negative Percentage: 10.60%
+YoungOrOld: Negative: 709, Positive: 1288, Negative Percentage: 35.50%
+married: Negative: 2755, Positive: 24459, Negative Percentage: 10.12%
+single: Negative: 1912, Positive: 10878, Negative Percentage: 14.95%
+divorced: Negative: 622, Positive: 4585, Negative Percentage: 11.95%

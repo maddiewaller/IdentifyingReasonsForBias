@@ -1,0 +1,17 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60,0, Private, HS-grad, Separated, Craft-repair, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Separated, Craft-repair, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Separated, Craft-repair, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Separated, Craft-repair, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+>60,1, Local-gov, Assoc-acdm, Widowed, Adm-clerical, Unmarried, White, Female,≤5000,≤40,<40, United-States, >50K
+25-60,0, Private, HS-grad, Separated, Craft-repair, Not-in-family, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Private, Bachelors, Married-civ-spouse, Sales, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Private, HS-grad, Divorced, Craft-repair, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Divorced, Craft-repair, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Private, HS-grad, Divorced, Machine-op-inspct, Not-in-family, White, Female,≤5000,≤40,<40, United-States, >50K
+25-60,0, Private, HS-grad, Divorced, Craft-repair, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Private, 5th-6th, Married-civ-spouse, Craft-repair, Husband, Other, Male,≤5000,≤40,<40, Mexico, >50K
+25-60,1, Private, Some-college, Divorced, Machine-op-inspct, Not-in-family, White, Female,≤5000,≤40,<40, United-States, >50K
+25-60,1, Private, Bachelors, Married-civ-spouse, Prof-specialty, Husband, White, Male,≤5000,>40,<40, United-States, >50K
+>60,1, State-gov, HS-grad, Married-civ-spouse, Exec-managerial, Husband, White, Male,≤5000,≤40,40-60, United-States, >50K
+25-60,0, Private, HS-grad, Divorced, Craft-repair, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K

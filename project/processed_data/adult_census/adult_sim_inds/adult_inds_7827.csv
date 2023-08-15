@@ -1,0 +1,7 @@
+age,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60, Self-emp-not-inc, HS-grad, Married-civ-spouse, Machine-op-inspct, Own-child, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60, Federal-gov, 10th, Divorced, Adm-clerical, Unmarried, White, Female,≤5000,>40,40-60, United-States, <=50K
+25-60, Private, Assoc-voc, Divorced, Tech-support, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60, Self-emp-not-inc, HS-grad, Married-civ-spouse, Machine-op-inspct, Husband, White, Male,≤5000,≤40,>60, United-States, <=50K
+25-60, Self-emp-not-inc, HS-grad, Divorced, Machine-op-inspct, Unmarried, White, Male,≤5000,≤40,<40, United-States, <=50K
+>60, Self-emp-not-inc, HS-grad, Married-civ-spouse, Machine-op-inspct, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K

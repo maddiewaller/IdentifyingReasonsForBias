@@ -1,0 +1,17 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60,0, Private, HS-grad, Married-civ-spouse, Transport-moving, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Married-civ-spouse, Transport-moving, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+>60,0, Private, Bachelors, Married-civ-spouse, Exec-managerial, Husband, White, Male,>5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Married-civ-spouse, Transport-moving, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Bachelors, Divorced, Sales, Not-in-family, White, Female,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Private, HS-grad, Married-civ-spouse, Transport-moving, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Married-civ-spouse, Transport-moving, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Married-civ-spouse, Machine-op-inspct, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Married-civ-spouse, Transport-moving, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Married-civ-spouse, Transport-moving, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Married-civ-spouse, Transport-moving, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Married-civ-spouse, Transport-moving, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Married-civ-spouse, Transport-moving, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Married-civ-spouse, Transport-moving, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Married-civ-spouse, Transport-moving, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Married-civ-spouse, Craft-repair, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K

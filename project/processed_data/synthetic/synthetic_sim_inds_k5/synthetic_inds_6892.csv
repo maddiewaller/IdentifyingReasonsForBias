@@ -1,0 +1,7 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+>60,0, Local-gov, Some-college, Divorced, Prof-specialty, Not-in-family, Amer-Indian-Eskimo, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Private, Prof-school, Divorced, Tech-support, Unmarried, White, Male,≤5000,≤40,<40, United-States, >50K
+<25,1, Private, Some-college, Never-married, Handlers-cleaners, Own-child, White, Male,≤5000,≤40,<40, United-States, >50K
+25-60,1, State-gov, Masters, Never-married, Prof-specialty, Not-in-family, White, Male,≤5000,≤40,40-60, United-States, >50K
+25-60,0, Self-emp-not-inc, HS-grad, Never-married, Exec-managerial, Not-in-family, Other, Male,≤5000,≤40,<40, Iran, <=50K
+25-60,1, Self-emp-not-inc, Bachelors, Never-married, Prof-specialty, Own-child, White, Male,≤5000,≤40,<40, United-States, >50K

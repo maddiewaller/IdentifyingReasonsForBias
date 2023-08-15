@@ -1,0 +1,12 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60,0, Local-gov, HS-grad, Never-married, Protective-serv, Unmarried, Black, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Local-gov, HS-grad, Divorced, Protective-serv, Unmarried, Black, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Bachelors, Married-civ-spouse, Prof-specialty, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K
+<25,0, Private, 7th-8th, Never-married, Craft-repair, Own-child, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Local-gov, HS-grad, Never-married, Other-service, Unmarried, Black, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Never-married, Transport-moving, Unmarried, Black, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Never-married, Other-service, Unmarried, Black, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Never-married, Other-service, Unmarried, Black, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Never-married, Adm-clerical, Unmarried, Black, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Local-gov, HS-grad, Divorced, Adm-clerical, Not-in-family, Black, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Divorced, Adm-clerical, Unmarried, Black, Male,≤5000,≤40,<40, United-States, <=50K

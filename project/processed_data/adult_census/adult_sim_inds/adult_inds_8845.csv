@@ -1,0 +1,7 @@
+age,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60, Self-emp-not-inc, Masters, Divorced, Sales, Not-in-family, Asian-Pac-Islander, Male,≤5000,≤40,40-60, South, <=50K
+<25, Self-emp-inc, Bachelors, Never-married, Handlers-cleaners, Own-child, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60, Self-emp-not-inc, HS-grad, Married-civ-spouse, Craft-repair, Husband, White, Male,≤5000,≤40,<40, Hungary, <=50K
+<25, Private, Some-college, Never-married, Sales, Own-child, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60, Self-emp-not-inc, Bachelors, Divorced, Sales, Not-in-family, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60, Self-emp-not-inc, Masters, Married-civ-spouse, Sales, Husband, White, Male,≤5000,≤40,40-60, United-States, >50K

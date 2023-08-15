@@ -1,0 +1,17 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60,0, Private, Assoc-voc, Separated, Tech-support, Own-child, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Married-spouse-absent, Transport-moving, Not-in-family, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Private, Assoc-voc, Separated, Tech-support, Own-child, White, Male,≤5000,>40,<40, United-States, <=50K
+25-60,0, Private, Assoc-voc, Divorced, Machine-op-inspct, Own-child, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Self-emp-inc, Doctorate, Married-civ-spouse, Sales, Husband, Asian-Pac-Islander, Male,≤5000,≤40,<40, India, <=50K
+25-60,1, Private, HS-grad, Married-civ-spouse, Craft-repair, Husband, Black, Male,≤5000,≤40,<40, United-States, >50K
+<25,1, Private, Some-college, Never-married, Adm-clerical, Own-child, White, Female,≤5000,≤40,<40, United-States, >50K
+25-60,1, Private, Some-college, Married-civ-spouse, Handlers-cleaners, Husband, White, Male,≤5000,≤40,<40, United-States, >50K
+25-60,0, Private, Assoc-voc, Married-civ-spouse, Tech-support, Other-relative, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Some-college, Divorced, Adm-clerical, Own-child, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Assoc-voc, Divorced, Adm-clerical, Unmarried, White, Female,≤5000,≤40,<40, United-States, <=50K
+>60,0, Private, HS-grad, Married-civ-spouse, Adm-clerical, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Private, Prof-school, Never-married, Farming-fishing, Other-relative, White, Male,≤5000,≤40,40-60, United-States, >50K
+25-60,1, Local-gov, Masters, Married-civ-spouse, Prof-specialty, Husband, White, Male,≤5000,≤40,<40, United-States, >50K
+25-60,0, Private, Assoc-voc, Married-civ-spouse, Tech-support, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Private, 9th, Married-civ-spouse, Other-service, Wife, Asian-Pac-Islander, Female,≤5000,≤40,<40, Hong, >50K

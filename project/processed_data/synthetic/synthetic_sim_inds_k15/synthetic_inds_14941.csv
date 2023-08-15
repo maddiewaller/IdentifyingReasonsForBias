@@ -1,0 +1,17 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60,0, Self-emp-inc, HS-grad, Married-civ-spouse, Sales, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Self-emp-inc, HS-grad, Married-civ-spouse, Sales, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Self-emp-inc, HS-grad, Married-civ-spouse, Sales, Husband, White, Male,≤5000,≤40,>60, United-States, <=50K
+25-60,0, Self-emp-inc, HS-grad, Married-civ-spouse, Sales, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Self-emp-inc, HS-grad, Married-civ-spouse, Sales, Husband, White, Male,≤5000,≤40,>60, United-States, <=50K
+>60,0, Self-emp-inc, HS-grad, Married-civ-spouse, Sales, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,1, Self-emp-inc, HS-grad, Married-civ-spouse, Sales, Husband, White, Male,≤5000,≤40,40-60, United-States, >50K
+25-60,0, Self-emp-inc, HS-grad, Married-civ-spouse, Sales, Husband, White, Male,≤5000,≤40,>60, United-States, <=50K
+25-60,1, Self-emp-inc, HS-grad, Married-civ-spouse, Sales, Husband, White, Male,≤5000,≤40,40-60, United-States, >50K
+25-60,0, Private, HS-grad, Married-civ-spouse, Sales, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Private, HS-grad, Married-civ-spouse, Sales, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Self-emp-inc, HS-grad, Married-civ-spouse, Exec-managerial, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Self-emp-inc, Bachelors, Married-civ-spouse, Sales, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Private, HS-grad, Married-civ-spouse, Sales, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Self-emp-not-inc, HS-grad, Married-civ-spouse, Sales, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Self-emp-inc, HS-grad, Married-civ-spouse, Exec-managerial, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K

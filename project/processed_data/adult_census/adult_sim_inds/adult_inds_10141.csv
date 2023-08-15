@@ -1,0 +1,7 @@
+age,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60, State-gov, Masters, Never-married, Adm-clerical, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60, State-gov, Masters, Never-married, Prof-specialty, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60, State-gov, Masters, Never-married, Prof-specialty, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60, State-gov, Masters, Never-married, Protective-serv, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60, State-gov, Assoc-acdm, Never-married, Adm-clerical, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60, State-gov, Some-college, Never-married, Adm-clerical, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K

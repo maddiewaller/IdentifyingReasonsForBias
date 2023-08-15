@@ -1,0 +1,17 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60,0, Private, HS-grad, Married-civ-spouse, Sales, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Married-civ-spouse, Sales, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Married-civ-spouse, Sales, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Married-civ-spouse, Sales, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Private, HS-grad, Married-civ-spouse, Craft-repair, Husband, White, Male,≤5000,≤40,<40, United-States, >50K
+25-60,0, Private, HS-grad, Married-civ-spouse, Sales, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Federal-gov, Bachelors, Married-civ-spouse, Adm-clerical, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Married-civ-spouse, Sales, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Married-civ-spouse, Sales, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Married-civ-spouse, Sales, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Married-civ-spouse, Sales, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Private, HS-grad, Never-married, Craft-repair, Not-in-family, Black, Male,≤5000,≤40,<40, United-States, >50K
+25-60,1, Private, Prof-school, Married-civ-spouse, Prof-specialty, Husband, Asian-Pac-Islander, Male,≤5000,≤40,<40, India, >50K
+25-60,0, Private, HS-grad, Married-civ-spouse, Adm-clerical, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Married-civ-spouse, Sales, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Private, HS-grad, Married-civ-spouse, Sales, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K

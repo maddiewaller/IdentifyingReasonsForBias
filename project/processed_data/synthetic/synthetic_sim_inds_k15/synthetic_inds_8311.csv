@@ -1,0 +1,17 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60,0, Private, Assoc-voc, Divorced, Adm-clerical, Unmarried, White, Female,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Private, Assoc-voc, Divorced, Adm-clerical, Unmarried, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Married-civ-spouse, Craft-repair, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K
+<25,1, Private, Some-college, Never-married, Adm-clerical, Own-child, White, Female,≤5000,≤40,<40, United-States, >50K
+25-60,0, Self-emp-not-inc, Bachelors, Divorced, Prof-specialty, Not-in-family, White, Female,≤5000,>40,40-60, United-States, <=50K
+<25,0, Private, 12th, Never-married, Machine-op-inspct, Own-child, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,1, State-gov, HS-grad, Married-civ-spouse, Protective-serv, Husband, Black, Male,≤5000,≤40,<40, United-States, >50K
+25-60,1, Private, HS-grad, Divorced, Adm-clerical, Not-in-family, White, Female,≤5000,≤40,40-60, United-States, >50K
+25-60,0, Private, Some-college, Divorced, Other-service, Unmarried, White, Female,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Private, HS-grad, Divorced, Sales, Unmarried, White, Female,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Private, Assoc-voc, Married-civ-spouse, Adm-clerical, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Private, 10th, Divorced, Exec-managerial, Unmarried, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Some-college, Divorced, Adm-clerical, Unmarried, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, 10th, Divorced, Sales, Unmarried, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Bachelors, Divorced, Prof-specialty, Unmarried, White, Female,≤5000,≤40,40-60, United-States, <=50K
+25-60,1, Private, Bachelors, Divorced, Machine-op-inspct, Unmarried, White, Female,≤5000,≤40,<40, United-States, >50K

@@ -1,0 +1,7 @@
+age,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+>60, Self-emp-not-inc, 7th-8th, Never-married, Adm-clerical, Not-in-family, White, Female,≤5000,≤40,>60, United-States, <=50K
+25-60, Self-emp-inc, Bachelors, Married-spouse-absent, Sales, Unmarried, White, Female,≤5000,≤40,40-60, United-States, <=50K
+25-60, Private, Some-college, Married-civ-spouse, Craft-repair, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+<25, State-gov, HS-grad, Never-married, Tech-support, Own-child, White, Female,≤5000,≤40,<40, United-States, <=50K
+>60, Self-emp-not-inc, HS-grad, Widowed, Sales, Not-in-family, White, Female,≤5000,≤40,>60, United-States, <=50K
+>60, Self-emp-not-inc, Assoc-voc, Divorced, Prof-specialty, Not-in-family, White, Female,>5000,≤40,40-60, United-States, >50K

@@ -1,0 +1,7 @@
+age,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60, State-gov, Assoc-voc, Married-civ-spouse, Protective-serv, Husband, White, Male,≤5000,≤40,<40, Poland, <=50K
+25-60, Private, 1st-4th, Never-married, Machine-op-inspct, Other-relative, White, Female,≤5000,≤40,<40, Mexico, <=50K
+25-60, State-gov, HS-grad, Married-civ-spouse, Protective-serv, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60, Federal-gov, Assoc-voc, Married-civ-spouse, Adm-clerical, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60, State-gov, HS-grad, Married-civ-spouse, Protective-serv, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60, State-gov, Some-college, Married-civ-spouse, Protective-serv, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K

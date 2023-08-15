@@ -1,0 +1,7 @@
+age,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60, Self-emp-not-inc, Some-college, Divorced, Prof-specialty, Own-child, White, Male,≤5000,≤40,<40, United-States, <=50K
+<25, Private, Bachelors, Never-married, Tech-support, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, Some-college, Never-married, Tech-support, Own-child, White, Male,≤5000,≤40,<40, El-Salvador, <=50K
+25-60, Private, HS-grad, Married-civ-spouse, Protective-serv, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60, Self-emp-inc, Assoc-voc, Married-civ-spouse, Exec-managerial, Husband, White, Male,>5000,≤40,40-60, United-States, >50K
+25-60, Self-emp-not-inc, Some-college, Married-civ-spouse, Prof-specialty, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K

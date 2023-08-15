@@ -1,0 +1,7 @@
+age,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+<25, Private, HS-grad, Never-married, Other-service, Not-in-family, Black, Female,≤5000,≤40,40-60, United-States, <=50K
+<25, Private, HS-grad, Never-married, Other-service, Not-in-family, Black, Female,≤5000,≤40,40-60, United-States, <=50K
+<25, Private, HS-grad, Never-married, Other-service, Not-in-family, Black, Female,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, 7th-8th, Never-married, Transport-moving, Not-in-family, Other, Male,≤5000,≤40,40-60, Puerto-Rico, <=50K
+<25, Private, HS-grad, Never-married, Other-service, Not-in-family, White, Female,≤5000,≤40,40-60, United-States, <=50K
+25-60, Private, HS-grad, Married-civ-spouse, Machine-op-inspct, Husband, Black, Male,≤5000,≤40,40-60, Trinadad&Tobago, <=50K

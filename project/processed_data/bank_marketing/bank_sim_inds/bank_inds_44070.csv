@@ -1,0 +1,7 @@
+age,job,marital,education,default,balance,housing,loan,contact,day,month,duration,campaign,pdays,previous,poutcome,y
+MidAge,student,single,secondary,no,>0,no,no,cellular,≤15,jul,>600,≤1,≤30,0,unknown,yes
+YoungOrOld,student,single,primary,no,>0,no,no,cellular,≤15,jul,121-600,2-5,31-180,>5,other,no
+MidAge,admin.,single,secondary,no,>0,no,no,cellular,≤15,jul,121-600,≤1,≤30,0,unknown,no
+MidAge,admin.,single,secondary,no,>0,no,no,cellular,≤15,jul,>600,2-5,≤30,0,unknown,yes
+MidAge,admin.,single,secondary,no,>0,no,no,cellular,≤15,jul,121-600,≤1,≤30,0,unknown,no
+MidAge,student,single,secondary,no,>0,no,no,cellular,≤15,jul,121-600,2-5,≤30,0,unknown,no

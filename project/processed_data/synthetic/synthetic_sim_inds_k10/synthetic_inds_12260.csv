@@ -1,0 +1,12 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60,0, Private, Bachelors, Never-married, Craft-repair, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Private, HS-grad, Divorced, Farming-fishing, Not-in-family, White, Male,≤5000,≤40,<40, United-States, >50K
+25-60,0, Private, Bachelors, Never-married, Craft-repair, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Bachelors, Never-married, Craft-repair, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Bachelors, Never-married, Craft-repair, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Bachelors, Never-married, Craft-repair, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Bachelors, Never-married, Craft-repair, Not-in-family, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,1, Private, HS-grad, Married-civ-spouse, Craft-repair, Husband, White, Male,≤5000,≤40,<40, United-States, >50K
+25-60,0, Private, Bachelors, Never-married, Adm-clerical, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Some-college, Never-married, Craft-repair, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Bachelors, Never-married, Adm-clerical, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K

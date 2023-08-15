@@ -1,0 +1,7 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60,0, Private, Bachelors, Married-civ-spouse, Prof-specialty, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Private, Bachelors, Married-civ-spouse, Prof-specialty, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Private, HS-grad, Divorced, Craft-repair, Unmarried, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Private, Bachelors, Married-civ-spouse, Prof-specialty, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Private, Bachelors, Married-civ-spouse, Prof-specialty, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K
+<25,0, Private, Assoc-acdm, Never-married, Sales, Own-child, White, Female,≤5000,≤40,<40, United-States, <=50K

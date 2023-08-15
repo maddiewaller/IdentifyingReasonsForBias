@@ -1,0 +1,12 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60,0, Private, Assoc-acdm, Separated, Machine-op-inspct, Not-in-family, White, Male,≤5000,≤40,<40, Outlying-US(Guam-USVI-etc), <=50K
+25-60,0, Private, 10th, Divorced, Machine-op-inspct, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Private, Assoc-acdm, Separated, Adm-clerical, Not-in-family, White, Male,≤5000,≤40,<40, United-States, >50K
+25-60,0, Private, Assoc-acdm, Divorced, Sales, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Some-college, Divorced, Machine-op-inspct, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, 1st-4th, Divorced, Machine-op-inspct, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Divorced, Machine-op-inspct, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Assoc-acdm, Divorced, Craft-repair, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Some-college, Divorced, Machine-op-inspct, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, 10th, Separated, Machine-op-inspct, Own-child, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Some-college, Divorced, Machine-op-inspct, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K

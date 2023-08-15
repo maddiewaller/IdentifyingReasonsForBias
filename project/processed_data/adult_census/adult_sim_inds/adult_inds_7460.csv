@@ -1,0 +1,7 @@
+age,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60, Private, HS-grad, Married-civ-spouse, Adm-clerical, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, 9th, Married-civ-spouse, Machine-op-inspct, Wife, Other, Female,≤5000,≤40,<40, Portugal, <=50K
+25-60, Private, Some-college, Married-civ-spouse, Machine-op-inspct, Wife, White, Female,≤5000,≤40,40-60, United-States, <=50K
+25-60, Local-gov, Some-college, Married-civ-spouse, Protective-serv, Husband, White, Male,≤5000,>40,>60, United-States, >50K
+25-60, Private, HS-grad, Married-civ-spouse, Adm-clerical, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, 5th-6th, Separated, Machine-op-inspct, Other-relative, White, Female,≤5000,≤40,<40, Ecuador, <=50K

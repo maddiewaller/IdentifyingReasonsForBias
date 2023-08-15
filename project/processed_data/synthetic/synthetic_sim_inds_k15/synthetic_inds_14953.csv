@@ -1,0 +1,17 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60,0, Private, Assoc-voc, Married-civ-spouse, Prof-specialty, Husband, Asian-Pac-Islander, Male,≤5000,≤40,<40, Vietnam, <=50K
+25-60,0, Private, Masters, Married-civ-spouse, Prof-specialty, Husband, Asian-Pac-Islander, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Assoc-voc, Married-civ-spouse, Prof-specialty, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Bachelors, Married-civ-spouse, Prof-specialty, Husband, Asian-Pac-Islander, Male,≤5000,≤40,<40, India, <=50K
+25-60,0, Private, Bachelors, Never-married, Adm-clerical, Own-child, Asian-Pac-Islander, Female,≤5000,≤40,<40, Philippines, <=50K
+25-60,0, Private, Bachelors, Married-civ-spouse, Prof-specialty, Husband, Asian-Pac-Islander, Male,≤5000,≤40,<40, China, <=50K
+25-60,0, Private, Assoc-voc, Married-civ-spouse, Prof-specialty, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+<25,0, Private, Some-college, Never-married, Transport-moving, Unmarried, Black, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Masters, Married-civ-spouse, Prof-specialty, Husband, Asian-Pac-Islander, Male,≤5000,≤40,<40, China, <=50K
+25-60,0, Private, HS-grad, Married-civ-spouse, Machine-op-inspct, Husband, Asian-Pac-Islander, Male,≤5000,≤40,<40, Vietnam, <=50K
+25-60,0, Private, Assoc-voc, Married-civ-spouse, Craft-repair, Husband, Asian-Pac-Islander, Male,≤5000,≤40,<40, Laos, <=50K
+25-60,0, Private, Some-college, Married-civ-spouse, Adm-clerical, Husband, Asian-Pac-Islander, Male,≤5000,≤40,<40, Outlying-US(Guam-USVI-etc), <=50K
+25-60,0, Private, Assoc-voc, Married-civ-spouse, Adm-clerical, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Married-civ-spouse, Handlers-cleaners, Husband, Asian-Pac-Islander, Male,≤5000,>40,<40, Vietnam, <=50K
+25-60,0, Private, Assoc-voc, Married-civ-spouse, Prof-specialty, Husband, White, Male,≤5000,>40,<40, United-States, <=50K
+25-60,0, Private, Bachelors, Married-civ-spouse, Prof-specialty, Husband, Asian-Pac-Islander, Male,≤5000,≤40,40-60, China, <=50K

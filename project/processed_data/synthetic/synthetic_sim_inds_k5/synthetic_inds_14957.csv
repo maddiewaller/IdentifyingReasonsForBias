@@ -1,0 +1,7 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+<25,0, Private, Some-college, Never-married, Other-service, Not-in-family, Black, Female,≤5000,≤40,<40, United-States, <=50K
+<25,0, Private, Some-college, Never-married, Other-service, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+<25,0, Private, Some-college, Never-married, Other-service, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+<25,0, Private, HS-grad, Never-married, Other-service, Not-in-family, Black, Female,≤5000,≤40,<40, United-States, <=50K
+<25,0, Private, Some-college, Never-married, Other-service, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+<25,0, Private, Some-college, Never-married, Other-service, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K

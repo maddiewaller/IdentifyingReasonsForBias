@@ -1,0 +1,7 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60,0, Private, Some-college, Never-married, Machine-op-inspct, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Some-college, Divorced, Machine-op-inspct, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Federal-gov, Bachelors, Married-civ-spouse, Adm-clerical, Husband, White, Male,≤5000,≤40,40-60, United-States, >50K
+25-60,1, Private, Assoc-acdm, Married-civ-spouse, Craft-repair, Husband, White, Male,≤5000,≤40,<40, Canada, >50K
+25-60,0, Private, Some-college, Never-married, Adm-clerical, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Private, Bachelors, Divorced, Sales, Not-in-family, White, Male,>5000,≤40,<40, United-States, >50K

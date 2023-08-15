@@ -1,0 +1,7 @@
+age,job,marital,education,default,balance,housing,loan,contact,day,month,duration,campaign,pdays,previous,poutcome,y
+YoungOrOld,housemaid,married,primary,no,>0,no,no,cellular,>15,apr,>600,≤1,>180,1-5,other,yes
+YoungOrOld,housemaid,married,primary,no,0,no,no,cellular,>15,feb,>600,≤1,>180,1-5,failure,yes
+MidAge,housemaid,married,primary,no,>0,no,no,cellular,>15,oct,>600,≤1,>180,1-5,failure,yes
+YoungOrOld,retired,married,primary,no,>0,no,no,cellular,>15,feb,>600,≤1,>180,1-5,failure,yes
+YoungOrOld,retired,married,primary,no,>0,no,no,cellular,>15,oct,>600,≤1,>180,1-5,failure,yes
+YoungOrOld,retired,married,primary,no,>0,no,no,cellular,>15,apr,>600,≤1,>180,1-5,success,yes

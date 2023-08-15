@@ -1,0 +1,17 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+<25,0, State-gov, Bachelors, Married-spouse-absent, Handlers-cleaners, Not-in-family, White, Female,≤5000,>40,<40, United-States, <=50K
+25-60,0, State-gov, Bachelors, Divorced, Tech-support, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,1, State-gov, Bachelors, Divorced, Adm-clerical, Not-in-family, White, Female,≤5000,≤40,<40, United-States, >50K
+25-60,0, State-gov, Bachelors, Never-married, Adm-clerical, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Bachelors, Divorced, Adm-clerical, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+<25,0, State-gov, Bachelors, Never-married, Prof-specialty, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, State-gov, Bachelors, Never-married, Prof-specialty, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, State-gov, HS-grad, Divorced, Adm-clerical, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+<25,0, State-gov, Some-college, Never-married, Adm-clerical, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+<25,0, Private, Bachelors, Never-married, Adm-clerical, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Local-gov, HS-grad, Married-civ-spouse, Protective-serv, Husband, White, Male,≤5000,≤40,<40, United-States, >50K
+25-60,0, Private, Bachelors, Divorced, Handlers-cleaners, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+<25,0, State-gov, Some-college, Never-married, Adm-clerical, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Bachelors, Divorced, Adm-clerical, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, State-gov, Assoc-acdm, Divorced, Adm-clerical, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Bachelors, Married-spouse-absent, Exec-managerial, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K

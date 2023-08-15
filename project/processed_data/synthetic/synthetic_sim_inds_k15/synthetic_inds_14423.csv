@@ -1,0 +1,17 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60,0, Self-emp-inc, Masters, Widowed, Adm-clerical, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Masters, Divorced, Exec-managerial, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Federal-gov, Some-college, Divorced, Adm-clerical, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+>60,0, Self-emp-inc, Some-college, Widowed, Exec-managerial, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Self-emp-not-inc, Masters, Divorced, Prof-specialty, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Self-emp-inc, Masters, Never-married, Exec-managerial, Not-in-family, White, Female,>5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Masters, Divorced, Sales, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Self-emp-not-inc, Masters, Divorced, Tech-support, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Masters, Never-married, Adm-clerical, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, 10th, Widowed, Other-service, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Local-gov, Masters, Divorced, Prof-specialty, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, State-gov, Masters, Never-married, Adm-clerical, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Masters, Divorced, Adm-clerical, Not-in-family, Amer-Indian-Eskimo, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Self-emp-inc, Some-college, Divorced, Exec-managerial, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Federal-gov, HS-grad, Divorced, Adm-clerical, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Masters, Divorced, Exec-managerial, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K

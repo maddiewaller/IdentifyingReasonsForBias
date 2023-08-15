@@ -1,0 +1,7 @@
+age,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+>60, Local-gov, Assoc-acdm, Divorced, Prof-specialty, Unmarried, Black, Female,≤5000,≤40,<40, United-States, <=50K
+25-60, Federal-gov, Assoc-acdm, Divorced, Prof-specialty, Unmarried, Black, Female,≤5000,≤40,<40, United-States, <=50K
+25-60, Local-gov, Assoc-voc, Divorced, Prof-specialty, Unmarried, Black, Female,≤5000,≤40,<40, United-States, <=50K
+25-60, Local-gov, Assoc-acdm, Separated, Adm-clerical, Unmarried, Black, Female,≤5000,≤40,<40, United-States, <=50K
+>60, Local-gov, Masters, Widowed, Prof-specialty, Unmarried, Black, Female,≤5000,≤40,<40, United-States, <=50K
+25-60, Local-gov, Assoc-acdm, Divorced, Adm-clerical, Unmarried, White, Female,≤5000,≤40,<40, United-States, <=50K

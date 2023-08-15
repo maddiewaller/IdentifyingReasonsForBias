@@ -1,0 +1,7 @@
+age,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+<25, Private, 10th, Divorced, Craft-repair, Not-in-family, Amer-Indian-Eskimo, Male,≤5000,≤40,<40, United-States, <=50K
+>60, Self-emp-not-inc, Assoc-acdm, Married-civ-spouse, Exec-managerial, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60, Federal-gov, HS-grad, Married-civ-spouse, Prof-specialty, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+<25, Private, 10th, Married-civ-spouse, Craft-repair, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+<25, Private, Assoc-voc, Never-married, Craft-repair, Not-in-family, Other, Male,≤5000,≤40,<40, United-States, <=50K
+<25, Private, Some-college, Never-married, Craft-repair, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K

@@ -1,0 +1,7 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60,0, Private, 9th, Widowed, Exec-managerial, Unmarried, White, Female,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Private, HS-grad, Divorced, Exec-managerial, Unmarried, White, Female,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Private, Assoc-voc, Divorced, Exec-managerial, Unmarried, White, Female,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Private, 9th, Divorced, Adm-clerical, Unmarried, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Bachelors, Widowed, Exec-managerial, Unmarried, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Some-college, Divorced, Exec-managerial, Unmarried, White, Female,≤5000,≤40,<40, United-States, <=50K

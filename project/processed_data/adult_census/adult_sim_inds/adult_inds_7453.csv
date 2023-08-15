@@ -1,0 +1,7 @@
+age,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60, Private, Assoc-voc, Divorced, Craft-repair, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, Assoc-voc, Never-married, Adm-clerical, Not-in-family, White, Female,≤5000,>40,<40, United-States, <=50K
+25-60, Private, HS-grad, Married-civ-spouse, Craft-repair, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+<25, Private, HS-grad, Never-married, Handlers-cleaners, Own-child, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, Some-college, Never-married, Sales, Not-in-family, Black, Male,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, HS-grad, Never-married, Craft-repair, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K

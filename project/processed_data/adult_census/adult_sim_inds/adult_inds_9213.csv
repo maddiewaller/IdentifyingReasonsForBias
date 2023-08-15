@@ -1,0 +1,7 @@
+age,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60, Private, Some-college, Married-civ-spouse, Handlers-cleaners, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, Some-college, Married-civ-spouse, Handlers-cleaners, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+<25, Private, Some-college, Never-married, Adm-clerical, Own-child, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60, Self-emp-not-inc, Bachelors, Divorced, Exec-managerial, Not-in-family, White, Male,≤5000,≤40,40-60, United-States, <=50K
+>60, Self-emp-not-inc, 11th, Widowed, Exec-managerial, Not-in-family, White, Female,≤5000,≤40,>60, United-States, <=50K
+25-60, Self-emp-not-inc, Prof-school, Married-civ-spouse, Prof-specialty, Husband, White, Male,≤5000,≤40,<40, Cuba, >50K

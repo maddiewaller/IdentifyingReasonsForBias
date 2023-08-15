@@ -1,0 +1,7 @@
+age,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+<25, Private, HS-grad, Married-civ-spouse, Tech-support, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+<25, Private, HS-grad, Married-civ-spouse, Tech-support, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+<25, Private, HS-grad, Married-civ-spouse, Adm-clerical, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+<25, Private, HS-grad, Married-civ-spouse, Adm-clerical, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+<25, Private, HS-grad, Married-civ-spouse, Adm-clerical, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+<25, Private, HS-grad, Married-civ-spouse, Other-service, Husband, Asian-Pac-Islander, Male,≤5000,≤40,<40, Vietnam, <=50K

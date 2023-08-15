@@ -1,0 +1,7 @@
+age,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60, Self-emp-not-inc, Bachelors, Separated, Other-service, Unmarried, White, Female,≤5000,≤40,40-60, Nicaragua, <=50K
+25-60, Self-emp-not-inc, Bachelors, Divorced, Other-service, Unmarried, White, Female,≤5000,≤40,40-60, United-States, <=50K
+25-60, Self-emp-not-inc, Bachelors, Divorced, Other-service, Unmarried, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60, Self-emp-not-inc, 5th-6th, Separated, Other-service, Unmarried, White, Female,≤5000,≤40,<40, Cuba, <=50K
+25-60, Self-emp-not-inc, Some-college, Separated, Adm-clerical, Unmarried, White, Female,≤5000,≤40,40-60, United-States, <=50K
+25-60, Self-emp-not-inc, HS-grad, Separated, Other-service, Unmarried, White, Female,≤5000,≤40,<40, United-States, <=50K

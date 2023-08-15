@@ -1,0 +1,7 @@
+age,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+>60, Private, Bachelors, Divorced, Farming-fishing, Other-relative, White, Female,≤5000,≤40,<40, United-States, <=50K
+>60, Private, HS-grad, Divorced, Adm-clerical, Other-relative, White, Female,≤5000,≤40,<40, United-States, <=50K
+<25, Private, Some-college, Never-married, Exec-managerial, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, Doctorate, Married-civ-spouse, Prof-specialty, Husband, White, Male,>5000,≤40,40-60, England, >50K
+25-60, Private, HS-grad, Married-civ-spouse, Adm-clerical, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60, Private, Bachelors, Never-married, Sales, Not-in-family, White, Female,>5000,≤40,40-60, United-States, >50K

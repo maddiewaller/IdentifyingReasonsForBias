@@ -1,0 +1,7 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60,0, Local-gov, Masters, Married-civ-spouse, Exec-managerial, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Local-gov, Masters, Married-civ-spouse, Exec-managerial, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Private, Assoc-voc, Married-civ-spouse, Transport-moving, Husband, White, Male,≤5000,≤40,<40, United-States, >50K
+<25,1, State-gov, Some-college, Never-married, Prof-specialty, Own-child, White, Male,≤5000,≤40,<40, United-States, >50K
+25-60,0, Self-emp-inc, Masters, Separated, Exec-managerial, Unmarried, Asian-Pac-Islander, Male,≤5000,≤40,40-60, China, <=50K
+25-60,0, Local-gov, Masters, Married-civ-spouse, Adm-clerical, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K

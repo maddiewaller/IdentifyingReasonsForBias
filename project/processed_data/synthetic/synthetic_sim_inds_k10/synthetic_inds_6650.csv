@@ -1,0 +1,12 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60,0, Private, HS-grad, Divorced, Other-service, Own-child, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Private, Some-college, Never-married, Machine-op-inspct, Not-in-family, White, Female,≤5000,≤40,<40, United-States, >50K
+25-60,0, Local-gov, HS-grad, Married-civ-spouse, Adm-clerical, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, 9th, Married-civ-spouse, Other-service, Wife, Asian-Pac-Islander, Female,≤5000,≤40,<40, Hong, <=50K
+25-60,0, Private, HS-grad, Divorced, Machine-op-inspct, Not-in-family, White, Female,≤5000,≤40,40-60, United-States, <=50K
+25-60,1, Private, HS-grad, Married-spouse-absent, Prof-specialty, Unmarried, White, Female,≤5000,≤40,<40, United-States, >50K
+25-60,0, Private, 11th, Never-married, Handlers-cleaners, Own-child, Black, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Self-emp-not-inc, Masters, Married-civ-spouse, Sales, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Private, HS-grad, Married-civ-spouse, Machine-op-inspct, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+<25,1, Private, HS-grad, Never-married, Machine-op-inspct, Not-in-family, White, Female,≤5000,≤40,<40, United-States, >50K
+>60,0, Private, Masters, Married-civ-spouse, Exec-managerial, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K

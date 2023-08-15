@@ -1,0 +1,17 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+>60,0, Local-gov, 1st-4th, Widowed, Farming-fishing, Not-in-family, Asian-Pac-Islander, Male,≤5000,≤40,<40, Philippines, <=50K
+<25,1, Private, HS-grad, Never-married, Other-service, Own-child, Black, Male,≤5000,≤40,<40, United-States, >50K
+>60,0, Local-gov, 5th-6th, Widowed, Other-service, Other-relative, Asian-Pac-Islander, Female,≤5000,≤40,<40, Philippines, <=50K
+>60,0, Local-gov, Some-college, Divorced, Prof-specialty, Not-in-family, Amer-Indian-Eskimo, Male,≤5000,≤40,<40, United-States, <=50K
+>60,0, Local-gov, Some-college, Widowed, Adm-clerical, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Private, Bachelors, Married-civ-spouse, Sales, Husband, White, Male,≤5000,≤40,<40, United-States, >50K
+>60,0, Local-gov, HS-grad, Widowed, Adm-clerical, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+>60,0, Local-gov, Some-college, Widowed, Prof-specialty, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, 7th-8th, Married-civ-spouse, Transport-moving, Husband, Black, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Married-civ-spouse, Transport-moving, Husband, Black, Male,≤5000,≤40,<40, United-States, <=50K
+>60,0, Federal-gov, Some-college, Widowed, Adm-clerical, Not-in-family, White, Male,≤5000,>40,<40, Poland, <=50K
+25-60,0, Local-gov, Prof-school, Married-civ-spouse, Prof-specialty, Husband, Asian-Pac-Islander, Male,>5000,≤40,<40, Philippines, <=50K
+>60,0, Local-gov, HS-grad, Widowed, Tech-support, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Federal-gov, Assoc-voc, Never-married, Adm-clerical, Unmarried, White, Male,≤5000,≤40,40-60, United-States, <=50K
+>60,0, Private, Some-college, Divorced, Farming-fishing, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, 10th, Separated, Other-service, Unmarried, Black, Female,≤5000,≤40,<40, United-States, <=50K

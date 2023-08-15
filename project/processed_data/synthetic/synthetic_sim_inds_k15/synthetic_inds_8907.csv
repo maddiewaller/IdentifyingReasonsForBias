@@ -1,0 +1,17 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+<25,0, Private, HS-grad, Never-married, Adm-clerical, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Private, Bachelors, Married-civ-spouse, Protective-serv, Husband, Black, Male,≤5000,≤40,<40, United-States, >50K
+25-60,0, Private, Masters, Divorced, Other-service, Not-in-family, White, Female,≤5000,≤40,40-60, United-States, <=50K
+25-60,1, Private, 10th, Married-civ-spouse, Machine-op-inspct, Wife, Black, Female,≤5000,≤40,<40, United-States, >50K
+25-60,1, Self-emp-inc, Bachelors, Married-civ-spouse, Prof-specialty, Husband, White, Male,≤5000,≤40,40-60, United-States, >50K
+25-60,1, Private, Bachelors, Married-civ-spouse, Sales, Husband, White, Male,>5000,≤40,40-60, United-States, >50K
+25-60,0, Private, HS-grad, Never-married, Adm-clerical, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Never-married, Adm-clerical, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Self-emp-not-inc, Bachelors, Divorced, Prof-specialty, Unmarried, White, Female,≤5000,≤40,<40, United-States, >50K
+<25,0, Private, Some-college, Never-married, Other-service, Own-child, White, Female,≤5000,≤40,<40, United-States, <=50K
+<25,0, Private, HS-grad, Never-married, Machine-op-inspct, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Private, Some-college, Divorced, Machine-op-inspct, Not-in-family, White, Female,≤5000,≤40,<40, United-States, >50K
+25-60,1, Private, Some-college, Married-civ-spouse, Sales, Husband, White, Male,≤5000,≤40,<40, United-States, >50K
+25-60,0, Private, HS-grad, Never-married, Adm-clerical, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Some-college, Divorced, Other-service, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Never-married, Adm-clerical, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K

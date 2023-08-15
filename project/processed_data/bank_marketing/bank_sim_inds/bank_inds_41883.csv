@@ -1,0 +1,7 @@
+age,job,marital,education,default,balance,housing,loan,contact,day,month,duration,campaign,pdays,previous,poutcome,y
+MidAge,housemaid,single,primary,no,>0,no,no,cellular,>15,oct,121-600,2-5,≤30,0,unknown,yes
+MidAge,student,single,unknown,no,>0,no,no,telephone,>15,apr,>600,2-5,≤30,0,unknown,yes
+MidAge,housemaid,single,primary,no,>0,no,no,cellular,≤15,oct,121-600,≤1,≤30,0,unknown,yes
+MidAge,admin.,single,secondary,no,>0,no,no,cellular,>15,oct,≤120,2-5,≤30,0,unknown,no
+MidAge,admin.,single,secondary,no,>0,no,no,cellular,≤15,oct,121-600,2-5,≤30,0,unknown,yes
+MidAge,student,single,tertiary,no,>0,no,no,cellular,>15,oct,121-600,≤1,≤30,0,unknown,yes

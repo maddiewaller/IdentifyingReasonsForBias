@@ -1,0 +1,7 @@
+age,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60, Private, 10th, Separated, Machine-op-inspct, Own-child, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, HS-grad, Divorced, Machine-op-inspct, Own-child, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, 11th, Never-married, Farming-fishing, Unmarried, White, Male,≤5000,≤40,40-60, United-States, <=50K
+<25, Self-emp-not-inc, 11th, Never-married, Adm-clerical, Own-child, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, HS-grad, Divorced, Machine-op-inspct, Own-child, White, Male,≤5000,≤40,<40, United-States, <=50K
+<25, Private, HS-grad, Never-married, Handlers-cleaners, Other-relative, White, Male,≤5000,≤40,<40, Mexico, <=50K

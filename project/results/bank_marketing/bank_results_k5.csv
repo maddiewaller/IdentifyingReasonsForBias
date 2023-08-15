@@ -1,0 +1,73 @@
+Experiment: Bank Marketing
+Number of similar individuals: 5
+
+Arguments representing sensitive attributes:
+marital=single count: 68 percentage: 5.43
+consistent count: 258 percentage: 20.59
+age=YoungOrOld count: 112 percentage: 8.94
+marital=divorced count: 51 percentage: 4.07
+marital=married count: 59 percentage: 4.71
+age=MidAge count: 14 percentage: 1.12
+
+All weakest arguments and their counts :
+Arguments, Weakest count
+job=management,53
+pdays=31-180,94
+previous=1-5,69
+poutcome=success,135
+job=admin.,38
+campaign=≤1,47
+month=apr,21
+campaign=>5,9
+pdays=>180,41
+marital=single,68
+duration=>600,435
+consistent,258
+job=retired,85
+age=YoungOrOld,112
+marital=divorced,51
+education=primary,64
+balance=>0,16
+contact=telephone,72
+duration=121-600,111
+campaign=2-5,60
+pdays=≤30,41
+previous=0,39
+poutcome=unknown,41
+marital=married,59
+education=tertiary,55
+contact=cellular,24
+loan=yes,17
+job=technician,43
+housing=no,64
+job=services,10
+day=≤15,16
+job=student,27
+education=unknown,18
+poutcome=other,25
+previous=>5,29
+education=secondary,53
+month=oct,174
+job=housemaid,13
+month=mar,72
+job=blue-collar,18
+job=unemployed,21
+balance=0,30
+month=jul,2
+poutcome=failure,33
+month=sep,5
+loan=no,18
+day=>15,23
+housing=yes,23
+job=self-employed,14
+duration=≤120,2
+job=unknown,6
+job=entrepreneur,7
+age=MidAge,14
+month=may,3
+month=jun,2
+contact=unknown,1
+month=dec,2
+default=yes,1
+month=jan,1
+month=feb,1

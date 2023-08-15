@@ -1,0 +1,7 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60,0, Private, Assoc-voc, Divorced, Adm-clerical, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Assoc-voc, Divorced, Adm-clerical, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Assoc-voc, Never-married, Adm-clerical, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Assoc-voc, Divorced, Tech-support, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Self-emp-inc, Doctorate, Married-civ-spouse, Sales, Husband, Asian-Pac-Islander, Male,≤5000,≤40,<40, India, >50K
+25-60,0, Private, Assoc-voc, Divorced, Prof-specialty, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K

@@ -1,0 +1,7 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60,0, Local-gov, Assoc-voc, Divorced, Exec-managerial, Not-in-family, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Private, HS-grad, Married-civ-spouse, Other-service, Other-relative, Black, Female,≤5000,≤40,<40, Jamaica, <=50K
+25-60,0, Local-gov, Assoc-voc, Married-civ-spouse, Exec-managerial, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,1, Private, Some-college, Divorced, Tech-support, Not-in-family, White, Female,≤5000,≤40,<40, United-States, >50K
+25-60,1, Private, Bachelors, Married-civ-spouse, Prof-specialty, Wife, White, Female,≤5000,≤40,<40, United-States, >50K
+25-60,0, Private, HS-grad, Married-civ-spouse, Craft-repair, Wife, White, Female,≤5000,≤40,<40, United-States, <=50K

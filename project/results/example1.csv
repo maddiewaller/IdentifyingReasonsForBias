@@ -1,0 +1,11 @@
+Argument, Weight
+workclass=Local-gov,0.48
+workclass=Private,1.0
+education= Bachelors,0.39
+education= HS-grad,1.0
+education= Masters,1.0
+race= Black,0.29
+race= White,1.0
+
+Weakest arguments
+race= Black

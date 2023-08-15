@@ -1,0 +1,7 @@
+age,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60, Private, Assoc-acdm, Married-spouse-absent, Craft-repair, Not-in-family, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60, Private, HS-grad, Married-civ-spouse, Craft-repair, Husband, White, Male,≤5000,≤40,<40, El-Salvador, <=50K
+25-60, Private, 9th, Divorced, Machine-op-inspct, Unmarried, White, Female,≤5000,≤40,<40, Cuba, <=50K
+25-60, Private, Bachelors, Married-civ-spouse, Prof-specialty, Husband, Asian-Pac-Islander, Male,≤5000,≤40,<40, United-States, >50K
+25-60, Private, Assoc-acdm, Never-married, Craft-repair, Not-in-family, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60, Private, Assoc-acdm, Divorced, Craft-repair, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K

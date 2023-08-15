@@ -1,0 +1,12 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+>60,0, Private, 11th, Divorced, Machine-op-inspct, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, 11th, Divorced, Adm-clerical, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+>60,0, Private, 10th, Widowed, Machine-op-inspct, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+>60,1, Private, 11th, Widowed, Machine-op-inspct, Not-in-family, White, Female,≤5000,≤40,<40, United-States, >50K
+25-60,0, Private, HS-grad, Divorced, Machine-op-inspct, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Some-college, Divorced, Machine-op-inspct, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, 10th, Divorced, Machine-op-inspct, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Some-college, Divorced, Machine-op-inspct, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, 11th, Never-married, Machine-op-inspct, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+>60,0, Private, Some-college, Widowed, Machine-op-inspct, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+>60,0, Private, HS-grad, Divorced, Adm-clerical, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K

@@ -1,0 +1,17 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+>60,0, Private, HS-grad, Divorced, Adm-clerical, Unmarried, Black, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Local-gov, HS-grad, Separated, Adm-clerical, Unmarried, White, Female,≤5000,≤40,<40, Puerto-Rico, >50K
+>60,0, Private, HS-grad, Divorced, Priv-house-serv, Unmarried, Black, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Divorced, Adm-clerical, Unmarried, Black, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Widowed, Adm-clerical, Unmarried, Black, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Bachelors, Married-civ-spouse, Exec-managerial, Husband, White, Male,>5000,≤40,<40, United-States, <=50K
+<25,1, Private, HS-grad, Never-married, Sales, Own-child, White, Male,≤5000,≤40,<40, United-States, >50K
+25-60,1, Private, Bachelors, Married-civ-spouse, Sales, Husband, White, Male,≤5000,>40,>60, United-States, >50K
+25-60,1, State-gov, HS-grad, Divorced, Adm-clerical, Not-in-family, White, Male,≤5000,≤40,<40, United-States, >50K
+25-60,1, Private, HS-grad, Divorced, Adm-clerical, Unmarried, Black, Female,≤5000,≤40,<40, United-States, >50K
+25-60,1, Private, HS-grad, Divorced, Adm-clerical, Unmarried, Black, Female,≤5000,≤40,<40, United-States, >50K
+25-60,1, Private, Some-college, Divorced, Exec-managerial, Unmarried, White, Male,≤5000,>40,40-60, United-States, >50K
+25-60,0, Private, HS-grad, Divorced, Priv-house-serv, Unmarried, Black, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Divorced, Other-service, Unmarried, Black, Female,≤5000,≤40,<40, United-States, <=50K
+>60,0, Private, HS-grad, Never-married, Adm-clerical, Unmarried, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, 10th, Divorced, Tech-support, Unmarried, Black, Female,≤5000,≤40,<40, United-States, <=50K

@@ -1,0 +1,12 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60,0, Private, 12th, Married-spouse-absent, Transport-moving, Unmarried, White, Male,≤5000,≤40,<40, Mexico, <=50K
+25-60,1, Private, 12th, Married-civ-spouse, Craft-repair, Husband, White, Male,≤5000,≤40,<40, United-States, >50K
+25-60,0, Private, 12th, Never-married, Handlers-cleaners, Unmarried, White, Male,≤5000,≤40,<40, Mexico, <=50K
+25-60,1, Private, Some-college, Married-spouse-absent, Transport-moving, Unmarried, White, Male,≤5000,≤40,<40, United-States, >50K
+>60,1, Private, HS-grad, Widowed, Transport-moving, Not-in-family, White, Male,≤5000,≤40,<40, United-States, >50K
+25-60,1, Private, Some-college, Married-spouse-absent, Transport-moving, Unmarried, White, Male,≤5000,≤40,<40, United-States, >50K
+25-60,0, Private, HS-grad, Married-spouse-absent, Adm-clerical, Unmarried, White, Female,≤5000,≤40,<40, Ecuador, <=50K
+25-60,0, Private, HS-grad, Married-spouse-absent, Transport-moving, Own-child, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Married-spouse-absent, Craft-repair, Unmarried, White, Male,≤5000,≤40,<40, Columbia, <=50K
+25-60,0, Private, 10th, Married-civ-spouse, Craft-repair, Husband, White, Male,≤5000,≤40,<40, Mexico, <=50K
+25-60,0, Private, 12th, Never-married, Handlers-cleaners, Other-relative, White, Male,≤5000,≤40,<40, Mexico, <=50K

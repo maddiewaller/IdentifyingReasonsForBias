@@ -1,0 +1,17 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+<25,0, Private, Bachelors, Never-married, Adm-clerical, Own-child, Black, Female,≤5000,≤40,<40, United-States, <=50K
+<25,0, Private, Some-college, Never-married, Adm-clerical, Own-child, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Bachelors, Divorced, Adm-clerical, Unmarried, White, Female,≤5000,≤40,<40, United-States, <=50K
+<25,0, Private, Some-college, Never-married, Adm-clerical, Own-child, Black, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Private, 11th, Never-married, Craft-repair, Not-in-family, White, Female,≤5000,≤40,<40, United-States, >50K
+25-60,1, Private, HS-grad, Divorced, Craft-repair, Not-in-family, White, Female,≤5000,≤40,<40, United-States, >50K
+25-60,1, Private, Bachelors, Married-civ-spouse, Exec-managerial, Husband, White, Male,≤5000,≤40,40-60, United-States, >50K
+25-60,0, Private, Doctorate, Married-civ-spouse, Sales, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K
+<25,0, Private, HS-grad, Never-married, Adm-clerical, Own-child, Black, Female,≤5000,≤40,<40, United-States, <=50K
+<25,0, Private, Some-college, Never-married, Handlers-cleaners, Own-child, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Bachelors, Never-married, Prof-specialty, Own-child, Black, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Divorced, Prof-specialty, Unmarried, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Some-college, Married-civ-spouse, Adm-clerical, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+>60,1, Private, 7th-8th, Widowed, Priv-house-serv, Unmarried, Black, Female,≤5000,≤40,<40, United-States, >50K
+<25,0, Federal-gov, Assoc-acdm, Never-married, Adm-clerical, Own-child, Black, Male,≤5000,≤40,<40, United-States, <=50K
+<25,0, Private, HS-grad, Never-married, Sales, Own-child, Black, Female,≤5000,≤40,<40, United-States, <=50K

@@ -1,0 +1,7 @@
+age,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60, Private, Assoc-voc, Never-married, Transport-moving, Own-child, Black, Male,≤5000,≤40,<40, Cambodia, <=50K
+<25, Private, HS-grad, Married-civ-spouse, Adm-clerical, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, Assoc-voc, Never-married, Adm-clerical, Other-relative, Black, Female,≤5000,>40,<40, United-States, <=50K
+25-60, Private, HS-grad, Married-civ-spouse, Craft-repair, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, Some-college, Never-married, Craft-repair, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, Some-college, Married-civ-spouse, Craft-repair, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K

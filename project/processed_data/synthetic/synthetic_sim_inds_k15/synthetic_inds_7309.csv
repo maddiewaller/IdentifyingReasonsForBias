@@ -1,0 +1,17 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60,0, Self-emp-not-inc, HS-grad, Married-civ-spouse, Craft-repair, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+<25,0, Private, HS-grad, Never-married, Other-service, Own-child, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Bachelors, Married-civ-spouse, Exec-managerial, Husband, Black, Male,≤5000,>40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Married-civ-spouse, Sales, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Private, Some-college, Never-married, Sales, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Married-civ-spouse, Craft-repair, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Self-emp-not-inc, HS-grad, Married-civ-spouse, Craft-repair, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Self-emp-inc, Assoc-voc, Divorced, Exec-managerial, Unmarried, White, Male,≤5000,≤40,<40, United-States, >50K
+25-60,0, Self-emp-not-inc, HS-grad, Married-civ-spouse, Craft-repair, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Bachelors, Married-civ-spouse, Prof-specialty, Husband, White, Male,>5000,≤40,<40, United-States, <=50K
+25-60,0, Self-emp-not-inc, Some-college, Divorced, Other-service, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Private, HS-grad, Divorced, Farming-fishing, Not-in-family, White, Male,≤5000,≤40,<40, United-States, >50K
+>60,1, Self-emp-not-inc, Some-college, Married-civ-spouse, Exec-managerial, Husband, White, Male,≤5000,>40,<40, United-States, >50K
+25-60,0, Private, Some-college, Married-civ-spouse, Transport-moving, Wife, White, Female,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Self-emp-not-inc, 10th, Married-civ-spouse, Craft-repair, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Self-emp-not-inc, HS-grad, Married-civ-spouse, Transport-moving, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K

@@ -1,0 +1,7 @@
+age,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60, Private, HS-grad, Widowed, Craft-repair, Other-relative, Asian-Pac-Islander, Female,≤5000,≤40,<40, Cambodia, <=50K
+25-60, Private, HS-grad, Widowed, Adm-clerical, Other-relative, Black, Female,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, HS-grad, Widowed, Craft-repair, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, HS-grad, Divorced, Craft-repair, Other-relative, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, HS-grad, Widowed, Other-service, Unmarried, Asian-Pac-Islander, Female,≤5000,≤40,<40, Philippines, <=50K
+25-60, Private, HS-grad, Married-civ-spouse, Other-service, Other-relative, Asian-Pac-Islander, Female,≤5000,≤40,<40, Taiwan, <=50K

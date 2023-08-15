@@ -1,0 +1,17 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60,0, Local-gov, Assoc-acdm, Divorced, Protective-serv, Not-in-family, Asian-Pac-Islander, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Local-gov, Assoc-acdm, Divorced, Protective-serv, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Local-gov, Assoc-voc, Never-married, Protective-serv, Not-in-family, Asian-Pac-Islander, Female,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Local-gov, Some-college, Never-married, Protective-serv, Not-in-family, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Local-gov, Assoc-voc, Divorced, Exec-managerial, Not-in-family, Amer-Indian-Eskimo, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Local-gov, Some-college, Married-civ-spouse, Protective-serv, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Local-gov, HS-grad, Married-civ-spouse, Protective-serv, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Local-gov, HS-grad, Married-civ-spouse, Protective-serv, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Local-gov, Assoc-voc, Married-civ-spouse, Protective-serv, Husband, Amer-Indian-Eskimo, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Local-gov, HS-grad, Divorced, Adm-clerical, Not-in-family, Black, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Local-gov, Bachelors, Married-civ-spouse, Protective-serv, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Local-gov, HS-grad, Never-married, Protective-serv, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Local-gov, HS-grad, Married-civ-spouse, Protective-serv, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Local-gov, Assoc-acdm, Divorced, Other-service, Unmarried, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Local-gov, Bachelors, Never-married, Protective-serv, Not-in-family, White, Female,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Local-gov, Some-college, Married-civ-spouse, Protective-serv, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K

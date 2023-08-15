@@ -1,0 +1,7 @@
+age,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+<25, Private, Bachelors, Married-civ-spouse, Sales, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, Masters, Married-civ-spouse, Sales, Husband, White, Male,≤5000,≤40,<40, United-States, >50K
+25-60, Self-emp-not-inc, Some-college, Separated, Prof-specialty, Unmarried, Black, Female,≤5000,≤40,<40, United-States, <=50K
+<25, Private, Bachelors, Married-civ-spouse, Sales, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, HS-grad, Divorced, Handlers-cleaners, Unmarried, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, Bachelors, Separated, Sales, Not-in-family, White, Male,≤5000,≤40,40-60, United-States, <=50K

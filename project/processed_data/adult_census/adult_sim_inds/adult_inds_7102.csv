@@ -1,0 +1,7 @@
+age,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60, Private, HS-grad, Never-married, Transport-moving, Unmarried, Black, Male,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, HS-grad, Divorced, Sales, Unmarried, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60, Local-gov, Bachelors, Divorced, Adm-clerical, Not-in-family, White, Female,≤5000,≤40,40-60, United-States, <=50K
+<25, Private, Some-college, Never-married, Transport-moving, Own-child, White, Male,≤5000,>40,<40, United-States, <=50K
+25-60, Private, HS-grad, Never-married, Handlers-cleaners, Own-child, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, 1st-4th, Married-civ-spouse, Machine-op-inspct, Husband, White, Male,≤5000,≤40,<40, Mexico, <=50K

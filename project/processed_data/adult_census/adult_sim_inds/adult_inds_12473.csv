@@ -1,0 +1,7 @@
+age,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+>60, Self-emp-not-inc, Masters, Divorced, Sales, Not-in-family, Other, Male,≤5000,≤40,<40, United-States, <=50K
+>60, Self-emp-not-inc, Masters, Married-civ-spouse, Sales, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60, Self-emp-inc, Doctorate, Married-civ-spouse, Sales, Husband, Asian-Pac-Islander, Male,≤5000,≤40,<40, Taiwan, >50K
+>60, Self-emp-not-inc, Bachelors, Divorced, Sales, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+>60, Self-emp-not-inc, Masters, Separated, Farming-fishing, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+>60, Self-emp-not-inc, Some-college, Widowed, Sales, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K

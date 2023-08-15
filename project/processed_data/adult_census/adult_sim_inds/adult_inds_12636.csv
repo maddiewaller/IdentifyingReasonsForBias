@@ -1,0 +1,7 @@
+age,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60, Local-gov, Some-college, Widowed, Adm-clerical, Other-relative, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60, Federal-gov, Assoc-voc, Divorced, Adm-clerical, Own-child, Black, Female,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, 12th, Married-civ-spouse, Transport-moving, Husband, Black, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60, Local-gov, Some-college, Widowed, Adm-clerical, Unmarried, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60, Local-gov, Some-college, Divorced, Adm-clerical, Unmarried, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60, Local-gov, Some-college, Widowed, Other-service, Unmarried, White, Female,≤5000,≤40,<40, United-States, <=50K

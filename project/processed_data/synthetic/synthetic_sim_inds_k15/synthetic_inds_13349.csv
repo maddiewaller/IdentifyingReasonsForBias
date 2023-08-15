@@ -1,0 +1,17 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+<25,0, Private, HS-grad, Never-married, Other-service, Other-relative, Amer-Indian-Eskimo, Male,≤5000,≤40,<40, Mexico, <=50K
+<25,0, Private, HS-grad, Never-married, Handlers-cleaners, Other-relative, White, Male,≤5000,≤40,<40, Mexico, <=50K
+25-60,0, Self-emp-inc, HS-grad, Married-civ-spouse, Exec-managerial, Husband, White, Male,≤5000,≤40,40-60, Canada, <=50K
+25-60,0, Private, HS-grad, Separated, Transport-moving, Own-child, White, Female,≤5000,≤40,<40, United-States, <=50K
+<25,0, Private, HS-grad, Never-married, Other-service, Other-relative, Black, Female,≤5000,≤40,<40, United-States, <=50K
+<25,0, Private, HS-grad, Never-married, Adm-clerical, Other-relative, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Married-spouse-absent, Other-service, Other-relative, Other, Male,≤5000,≤40,<40, Mexico, <=50K
+<25,0, Private, HS-grad, Never-married, Other-service, Other-relative, White, Female,≤5000,≤40,<40, United-States, <=50K
+<25,0, Local-gov, Bachelors, Never-married, Exec-managerial, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+<25,1, Private, HS-grad, Never-married, Other-service, Other-relative, White, Male,≤5000,≤40,<40, United-States, >50K
+<25,1, Private, HS-grad, Never-married, Other-service, Other-relative, White, Male,≤5000,≤40,<40, United-States, >50K
+<25,0, Private, HS-grad, Never-married, Other-service, Other-relative, White, Female,≤5000,≤40,<40, United-States, <=50K
+<25,1, Private, HS-grad, Never-married, Other-service, Other-relative, White, Male,≤5000,≤40,<40, United-States, >50K
+<25,0, Private, 12th, Never-married, Other-service, Other-relative, White, Male,≤5000,≤40,<40, United-States, <=50K
+<25,0, Private, 5th-6th, Never-married, Machine-op-inspct, Other-relative, White, Male,≤5000,≤40,<40, Mexico, <=50K
+<25,0, Private, Assoc-acdm, Never-married, Other-service, Other-relative, White, Male,≤5000,≤40,<40, United-States, <=50K

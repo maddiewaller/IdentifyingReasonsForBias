@@ -1,0 +1,7 @@
+age,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+>60, Self-emp-not-inc, 10th, Widowed, Craft-repair, Other-relative, White, Male,≤5000,≤40,<40, Mexico, <=50K
+25-60, Local-gov, HS-grad, Married-civ-spouse, Transport-moving, Husband, White, Male,≤5000,≤40,<40, Puerto-Rico, <=50K
+<25, Private, 10th, Never-married, Other-service, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+<25, Private, 9th, Never-married, Handlers-cleaners, Not-in-family, White, Female,≤5000,≤40,<40, El-Salvador, <=50K
+25-60, Private, HS-grad, Married-civ-spouse, Transport-moving, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, HS-grad, Married-civ-spouse, Other-service, Husband, White, Male,≤5000,≤40,40-60, Puerto-Rico, <=50K

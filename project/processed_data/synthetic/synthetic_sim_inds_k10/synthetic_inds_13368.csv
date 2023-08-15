@@ -1,0 +1,12 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60,0, Federal-gov, Some-college, Married-spouse-absent, Exec-managerial, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,1, State-gov, Some-college, Never-married, Exec-managerial, Not-in-family, White, Male,≤5000,≤40,<40, United-States, >50K
+25-60,0, Private, Some-college, Divorced, Machine-op-inspct, Own-child, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Federal-gov, Masters, Married-civ-spouse, Other-service, Husband, Black, Male,≤5000,≤40,<40, Trinadad&Tobago, >50K
+25-60,0, Local-gov, Some-college, Divorced, Exec-managerial, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Some-college, Divorced, Exec-managerial, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Private, HS-grad, Married-civ-spouse, Machine-op-inspct, Husband, White, Male,≤5000,≤40,<40, Ireland, >50K
+25-60,0, Private, Some-college, Never-married, Exec-managerial, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Some-college, Divorced, Exec-managerial, Not-in-family, White, Female,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Federal-gov, Some-college, Divorced, Exec-managerial, Not-in-family, Amer-Indian-Eskimo, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Some-college, Divorced, Adm-clerical, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K

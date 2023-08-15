@@ -1,0 +1,7 @@
+age,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60, Private, 12th, Widowed, Handlers-cleaners, Not-in-family, Asian-Pac-Islander, Male,≤5000,≤40,<40, Guatemala, <=50K
+25-60, Private, 12th, Divorced, Handlers-cleaners, Not-in-family, Black, Male,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, HS-grad, Divorced, Handlers-cleaners, Not-in-family, Asian-Pac-Islander, Male,≤5000,≤40,<40, Vietnam, <=50K
+25-60, Private, Some-college, Divorced, Handlers-cleaners, Not-in-family, Amer-Indian-Eskimo, Male,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, HS-grad, Married-civ-spouse, Handlers-cleaners, Husband, Asian-Pac-Islander, Male,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, 12th, Divorced, Farming-fishing, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K

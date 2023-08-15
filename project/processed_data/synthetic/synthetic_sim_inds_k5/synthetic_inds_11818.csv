@@ -1,0 +1,7 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+>60,0, Local-gov, 9th, Married-civ-spouse, Other-service, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+>60,0, Local-gov, HS-grad, Married-civ-spouse, Other-service, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Local-gov, HS-grad, Married-civ-spouse, Other-service, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+<25,0, Private, Assoc-voc, Married-civ-spouse, Craft-repair, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Local-gov, 9th, Married-civ-spouse, Transport-moving, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Local-gov, Assoc-acdm, Married-civ-spouse, Other-service, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K

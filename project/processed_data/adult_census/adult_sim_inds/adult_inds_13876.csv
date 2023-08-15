@@ -1,0 +1,7 @@
+age,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60, Private, 5th-6th, Divorced, Sales, Other-relative, White, Female,≤5000,≤40,<40, Mexico, <=50K
+25-60, Private, 5th-6th, Married-civ-spouse, Handlers-cleaners, Other-relative, White, Male,≤5000,≤40,<40, Mexico, <=50K
+25-60, State-gov, HS-grad, Married-civ-spouse, Craft-repair, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, 10th, Divorced, Machine-op-inspct, Unmarried, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, HS-grad, Divorced, Sales, Other-relative, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, HS-grad, Divorced, Sales, Other-relative, White, Female,≤5000,≤40,<40, United-States, <=50K

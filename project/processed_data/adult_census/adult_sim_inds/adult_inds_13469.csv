@@ -1,0 +1,7 @@
+age,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+>60, Private, 9th, Widowed, Machine-op-inspct, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+>60, Private, 10th, Widowed, Machine-op-inspct, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, HS-grad, Married-civ-spouse, Transport-moving, Husband, Black, Male,≤5000,≤40,<40, United-States, <=50K
+>60, Private, 11th, Widowed, Machine-op-inspct, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+>60, Private, 7th-8th, Widowed, Machine-op-inspct, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+>60, Private, 9th, Widowed, Sales, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K

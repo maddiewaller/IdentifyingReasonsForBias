@@ -1,0 +1,17 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60,0, Self-emp-not-inc, 10th, Divorced, Other-service, Own-child, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Self-emp-not-inc, HS-grad, Never-married, Other-service, Own-child, White, Female,≤5000,≤40,<40, United-States, >50K
+25-60,0, Private, HS-grad, Divorced, Other-service, Own-child, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Self-emp-not-inc, Bachelors, Never-married, Other-service, Own-child, White, Female,≤5000,≤40,<40, United-States, >50K
+25-60,0, Local-gov, HS-grad, Divorced, Other-service, Own-child, White, Female,≤5000,≤40,<40, United-States, <=50K
+<25,0, Self-emp-not-inc, Some-college, Never-married, Other-service, Own-child, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Bachelors, Divorced, Other-service, Own-child, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Self-emp-not-inc, Some-college, Divorced, Other-service, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Self-emp-not-inc, Bachelors, Divorced, Other-service, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Divorced, Other-service, Own-child, White, Female,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Private, HS-grad, Never-married, Other-service, Own-child, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Self-emp-not-inc, HS-grad, Divorced, Craft-repair, Own-child, White, Male,≤5000,≤40,<40, United-States, <=50K
+>60,0, Private, 10th, Never-married, Other-service, Own-child, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Some-college, Divorced, Adm-clerical, Own-child, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, State-gov, Assoc-voc, Divorced, Adm-clerical, Own-child, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Self-emp-not-inc, Assoc-acdm, Never-married, Farming-fishing, Own-child, White, Female,≤5000,≤40,<40, United-States, <=50K

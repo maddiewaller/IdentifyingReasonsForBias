@@ -1,0 +1,7 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60,0, Private, Some-college, Married-civ-spouse, Craft-repair, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,1, Self-emp-not-inc, Masters, Married-civ-spouse, Exec-managerial, Husband, White, Male,≤5000,≤40,<40, United-States, >50K
+25-60,1, Private, Bachelors, Divorced, Exec-managerial, Not-in-family, White, Female,≤5000,≤40,<40, United-States, >50K
+25-60,1, Local-gov, HS-grad, Widowed, Adm-clerical, Not-in-family, White, Female,≤5000,≤40,<40, United-States, >50K
+25-60,0, Private, Some-college, Married-civ-spouse, Craft-repair, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,1, Local-gov, HS-grad, Married-civ-spouse, Other-service, Husband, Amer-Indian-Eskimo, Male,≤5000,≤40,<40, United-States, >50K

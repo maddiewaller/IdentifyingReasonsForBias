@@ -1,0 +1,17 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+<25,0, Private, HS-grad, Never-married, Craft-repair, Unmarried, White, Male,≤5000,≤40,<40, United-States, <=50K
+<25,0, Self-emp-inc, Bachelors, Married-civ-spouse, Sales, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,1, Private, Bachelors, Married-civ-spouse, Exec-managerial, Husband, White, Male,≤5000,>40,40-60, United-States, >50K
+25-60,1, Private, Some-college, Married-civ-spouse, Sales, Husband, White, Male,>5000,≤40,<40, United-States, >50K
+25-60,1, Private, Assoc-voc, Never-married, Handlers-cleaners, Not-in-family, White, Male,≤5000,≤40,<40, United-States, >50K
+<25,1, Private, 12th, Never-married, Sales, Own-child, White, Female,≤5000,≤40,<40, United-States, >50K
+25-60,0, Federal-gov, Bachelors, Never-married, Tech-support, Own-child, Black, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Private, Assoc-acdm, Widowed, Adm-clerical, Unmarried, Black, Female,≤5000,≤40,<40, United-States, >50K
+<25,0, Private, HS-grad, Never-married, Craft-repair, Own-child, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Private, HS-grad, Divorced, Transport-moving, Not-in-family, White, Male,≤5000,≤40,40-60, United-States, >50K
+<25,0, Private, HS-grad, Never-married, Craft-repair, Own-child, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Private, Assoc-acdm, Never-married, Craft-repair, Not-in-family, White, Male,≤5000,≤40,<40, United-States, >50K
+<25,0, Private, 11th, Never-married, Handlers-cleaners, Own-child, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,1, State-gov, Some-college, Never-married, Farming-fishing, Not-in-family, Black, Male,≤5000,≤40,<40, United-States, >50K
+<25,1, Private, Some-college, Never-married, Machine-op-inspct, Own-child, Black, Male,≤5000,≤40,<40, United-States, >50K
+<25,0, Federal-gov, 9th, Never-married, Adm-clerical, Other-relative, Black, Male,≤5000,≤40,<40, United-States, <=50K

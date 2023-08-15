@@ -1,0 +1,12 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+>60,0, Private, Bachelors, Widowed, Exec-managerial, Other-relative, White, Female,≤5000,≤40,<40, United-States, <=50K
+>60,0, Private, Bachelors, Divorced, Exec-managerial, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+<25,1, Private, 11th, Never-married, Sales, Own-child, White, Female,≤5000,≤40,<40, United-States, >50K
+25-60,0, Private, Bachelors, Divorced, Exec-managerial, Unmarried, White, Female,≤5000,≤40,<40, United-States, <=50K
+>60,0, Private, Masters, Widowed, Exec-managerial, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+>60,0, Private, HS-grad, Widowed, Exec-managerial, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Bachelors, Divorced, Exec-managerial, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+>60,0, Private, 7th-8th, Widowed, Exec-managerial, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Bachelors, Divorced, Exec-managerial, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+>60,0, Private, HS-grad, Widowed, Handlers-cleaners, Other-relative, White, Female,≤5000,≤40,<40, United-States, <=50K
+>60,0, Private, 9th, Divorced, Adm-clerical, Other-relative, White, Female,≤5000,≤40,<40, United-States, <=50K

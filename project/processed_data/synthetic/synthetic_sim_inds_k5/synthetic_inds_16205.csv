@@ -1,0 +1,7 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60,0, Private, Assoc-voc, Divorced, Other-service, Other-relative, Asian-Pac-Islander, Female,≤5000,≤40,<40, Outlying-US(Guam-USVI-etc), <=50K
+25-60,0, Private, Masters, Divorced, Exec-managerial, Other-relative, Asian-Pac-Islander, Female,≤5000,≤40,<40, South, <=50K
+25-60,1, Private, HS-grad, Married-civ-spouse, Other-service, Other-relative, Asian-Pac-Islander, Female,≤5000,≤40,<40, Taiwan, >50K
+25-60,1, Private, Assoc-voc, Divorced, Other-service, Unmarried, Amer-Indian-Eskimo, Female,≤5000,≤40,<40, United-States, >50K
+25-60,0, Private, Assoc-voc, Divorced, Other-service, Unmarried, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, 11th, Never-married, Other-service, Other-relative, Asian-Pac-Islander, Male,≤5000,≤40,<40, United-States, <=50K

@@ -1,0 +1,7 @@
+age,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+<25, Private, Masters, Never-married, Adm-clerical, Own-child, White, Male,≤5000,≤40,<40, United-States, <=50K
+<25, Private, 10th, Never-married, Farming-fishing, Own-child, White, Male,≤5000,≤40,<40, United-States, <=50K
+<25, Private, 10th, Never-married, Transport-moving, Own-child, White, Male,≤5000,≤40,<40, United-States, <=50K
+<25, Private, HS-grad, Never-married, Adm-clerical, Own-child, White, Male,≤5000,≤40,<40, United-States, <=50K
+<25, Private, Masters, Never-married, Prof-specialty, Own-child, White, Female,≤5000,≤40,<40, United-States, <=50K
+<25, Private, Bachelors, Never-married, Adm-clerical, Own-child, White, Male,≤5000,≤40,<40, United-States, <=50K

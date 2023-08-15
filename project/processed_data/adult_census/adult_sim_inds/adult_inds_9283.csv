@@ -1,0 +1,7 @@
+age,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+>60, Private, HS-grad, Divorced, Priv-house-serv, Unmarried, Black, Female,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, Masters, Married-civ-spouse, Exec-managerial, Husband, White, Male,≤5000,≤40,40-60, United-States, >50K
+25-60, State-gov, HS-grad, Married-civ-spouse, Protective-serv, Husband, Amer-Indian-Eskimo, Male,≤5000,≤40,>60, United-States, <=50K
+<25, Private, 11th, Never-married, Sales, Own-child, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60, Local-gov, HS-grad, Separated, Adm-clerical, Unmarried, White, Female,≤5000,≤40,<40, Puerto-Rico, <=50K
+25-60, Private, HS-grad, Divorced, Adm-clerical, Unmarried, Black, Female,≤5000,≤40,<40, United-States, <=50K

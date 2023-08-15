@@ -1,0 +1,17 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+>60,0, Private, Some-college, Separated, Machine-op-inspct, Other-relative, Black, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Some-college, Divorced, Machine-op-inspct, Unmarried, Black, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Some-college, Divorced, Machine-op-inspct, Unmarried, Black, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Some-college, Separated, Adm-clerical, Unmarried, Black, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Some-college, Divorced, Machine-op-inspct, Not-in-family, Black, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Private, Some-college, Separated, Tech-support, Other-relative, Black, Female,≤5000,≤40,<40, United-States, >50K
+25-60,0, Private, Some-college, Divorced, Adm-clerical, Other-relative, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Some-college, Never-married, Machine-op-inspct, Not-in-family, Black, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Some-college, Divorced, Machine-op-inspct, Not-in-family, Black, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Separated, Machine-op-inspct, Unmarried, Black, Female,≤5000,≤40,<40, United-States, <=50K
+>60,0, Private, 11th, Divorced, Machine-op-inspct, Not-in-family, Black, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Some-college, Divorced, Machine-op-inspct, Not-in-family, Black, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Federal-gov, Some-college, Separated, Adm-clerical, Not-in-family, Black, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Separated, Other-service, Other-relative, Black, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Some-college, Divorced, Machine-op-inspct, Own-child, Black, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Some-college, Never-married, Adm-clerical, Other-relative, Black, Male,≤5000,≤40,<40, United-States, <=50K

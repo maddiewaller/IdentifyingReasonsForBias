@@ -1,0 +1,7 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60,0, Local-gov, Some-college, Never-married, Craft-repair, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Divorced, Handlers-cleaners, Not-in-family, White, Male,≤5000,≤40,<40, Mexico, <=50K
+25-60,1, Private, Some-college, Married-civ-spouse, Craft-repair, Husband, White, Male,≤5000,≤40,<40, United-States, >50K
+25-60,0, Self-emp-not-inc, Some-college, Never-married, Craft-repair, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Some-college, Never-married, Craft-repair, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Local-gov, Some-college, Never-married, Tech-support, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K

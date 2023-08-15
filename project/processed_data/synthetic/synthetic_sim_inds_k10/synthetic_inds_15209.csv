@@ -1,0 +1,12 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60,0, Private, Prof-school, Married-civ-spouse, Prof-specialty, Husband, Asian-Pac-Islander, Male,≤5000,≤40,<40, Taiwan, <=50K
+25-60,1, Private, Bachelors, Never-married, Adm-clerical, Own-child, Asian-Pac-Islander, Female,≤5000,≤40,<40, Philippines, >50K
+<25,1, Private, Some-college, Never-married, Transport-moving, Unmarried, Black, Male,≤5000,≤40,<40, United-States, >50K
+25-60,1, Private, Prof-school, Married-civ-spouse, Prof-specialty, Husband, Asian-Pac-Islander, Male,≤5000,≤40,<40, Japan, >50K
+25-60,0, Private, Doctorate, Married-civ-spouse, Prof-specialty, Husband, Asian-Pac-Islander, Male,>5000,≤40,<40, Taiwan, <=50K
+<25,0, Private, Some-college, Never-married, Sales, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Prof-school, Married-civ-spouse, Prof-specialty, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Prof-school, Married-civ-spouse, Prof-specialty, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Prof-school, Married-civ-spouse, Prof-specialty, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+<25,0, Private, HS-grad, Married-civ-spouse, Machine-op-inspct, Wife, Black, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Prof-school, Married-civ-spouse, Exec-managerial, Husband, Asian-Pac-Islander, Male,≤5000,≤40,<40, India, <=50K

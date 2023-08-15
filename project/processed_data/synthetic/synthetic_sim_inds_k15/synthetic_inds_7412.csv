@@ -1,0 +1,17 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+<25,0, Private, HS-grad, Never-married, Sales, Other-relative, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Never-married, Adm-clerical, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Private, HS-grad, Married-civ-spouse, Craft-repair, Husband, White, Male,≤5000,≤40,40-60, United-States, >50K
+<25,0, Private, Some-college, Married-civ-spouse, Other-service, Husband, Amer-Indian-Eskimo, Male,≤5000,≤40,<40, United-States, <=50K
+<25,1, Private, Some-college, Never-married, Machine-op-inspct, Own-child, Black, Male,≤5000,≤40,<40, United-States, >50K
+25-60,1, State-gov, Bachelors, Never-married, Prof-specialty, Unmarried, White, Male,≤5000,>40,<40, United-States, >50K
+25-60,0, Private, 12th, Married-spouse-absent, Transport-moving, Unmarried, White, Male,≤5000,≤40,<40, Mexico, <=50K
+25-60,0, Local-gov, Bachelors, Married-civ-spouse, Prof-specialty, Wife, White, Female,>5000,≤40,<40, United-States, <=50K
+25-60,1, Private, HS-grad, Married-civ-spouse, Machine-op-inspct, Husband, White, Male,≤5000,≤40,<40, United-States, >50K
+<25,0, Federal-gov, 9th, Never-married, Adm-clerical, Other-relative, Black, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Self-emp-not-inc, Some-college, Divorced, Sales, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+<25,0, Private, HS-grad, Never-married, Adm-clerical, Own-child, White, Male,≤5000,≤40,<40, United-States, <=50K
+<25,0, Private, Bachelors, Never-married, Prof-specialty, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+>60,0, Private, HS-grad, Widowed, Other-service, Not-in-family, White, Female,≤5000,≤40,40-60, United-States, <=50K
+>60,1, Self-emp-not-inc, 7th-8th, Widowed, Farming-fishing, Not-in-family, White, Male,≤5000,≤40,<40, United-States, >50K
+25-60,1, Private, 10th, Married-civ-spouse, Machine-op-inspct, Wife, Black, Female,≤5000,≤40,<40, United-States, >50K

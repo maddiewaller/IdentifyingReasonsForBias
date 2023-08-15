@@ -1,0 +1,12 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+<25,0, Private, 7th-8th, Never-married, Machine-op-inspct, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+<25,0, Private, 10th, Never-married, Machine-op-inspct, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Self-emp-inc, Prof-school, Married-civ-spouse, Prof-specialty, Husband, White, Male,≤5000,>40,40-60, United-States, >50K
+<25,0, Private, Some-college, Never-married, Machine-op-inspct, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, 7th-8th, Never-married, Machine-op-inspct, Not-in-family, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Private, HS-grad, Never-married, Adm-clerical, Own-child, Black, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Widowed, Transport-moving, Not-in-family, White, Female,>5000,≤40,40-60, United-States, <=50K
+25-60,0, Private, Some-college, Divorced, Machine-op-inspct, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+<25,0, Private, HS-grad, Never-married, Machine-op-inspct, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+<25,0, Private, Some-college, Never-married, Machine-op-inspct, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Private, 10th, Married-civ-spouse, Transport-moving, Husband, White, Male,≤5000,≤40,>60, United-States, >50K

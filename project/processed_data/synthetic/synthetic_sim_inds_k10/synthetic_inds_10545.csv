@@ -1,0 +1,12 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+<25,0, Private, Bachelors, Never-married, Exec-managerial, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Private, HS-grad, Never-married, Craft-repair, Not-in-family, White, Female,≤5000,≤40,40-60, United-States, >50K
+25-60,0, Private, Some-college, Married-civ-spouse, Sales, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Private, Preschool, Married-civ-spouse, Craft-repair, Husband, White, Male,≤5000,≤40,<40, Mexico, <=50K
+25-60,0, Private, Bachelors, Never-married, Exec-managerial, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Never-married, Craft-repair, Not-in-family, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Private, HS-grad, Married-civ-spouse, Craft-repair, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+<25,0, Private, Bachelors, Never-married, Exec-managerial, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+<25,0, Private, Bachelors, Never-married, Adm-clerical, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Local-gov, HS-grad, Married-civ-spouse, Protective-serv, Husband, White, Male,≤5000,≤40,<40, United-States, >50K
+<25,1, Private, Bachelors, Never-married, Prof-specialty, Not-in-family, White, Female,≤5000,≤40,40-60, United-States, >50K

@@ -1,0 +1,7 @@
+age,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60, Private, Assoc-voc, Married-civ-spouse, Sales, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, Assoc-voc, Married-civ-spouse, Sales, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+<25, Private, HS-grad, Never-married, Machine-op-inspct, Own-child, White, Female,≤5000,≤40,<40, United-States, <=50K
+>60, Private, 7th-8th, Widowed, Priv-house-serv, Not-in-family, White, Female,≤5000,>40,40-60, Puerto-Rico, <=50K
+25-60, Private, Assoc-voc, Married-civ-spouse, Adm-clerical, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, 10th, Married-civ-spouse, Sales, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K

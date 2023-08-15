@@ -1,0 +1,7 @@
+age,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60, Self-emp-not-inc, 9th, Never-married, Craft-repair, Unmarried, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60, Self-emp-not-inc, HS-grad, Divorced, Craft-repair, Unmarried, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60, Self-emp-not-inc, Some-college, Divorced, Craft-repair, Unmarried, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60, Self-emp-not-inc, HS-grad, Never-married, Craft-repair, Unmarried, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60, Self-emp-not-inc, Some-college, Never-married, Craft-repair, Unmarried, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60, Federal-gov, Assoc-voc, Never-married, Adm-clerical, Unmarried, White, Male,≤5000,≤40,40-60, United-States, <=50K

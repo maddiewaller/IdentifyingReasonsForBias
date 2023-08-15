@@ -1,0 +1,7 @@
+age,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60, Private, 10th, Separated, Other-service, Unmarried, White, Female,≤5000,≤40,<40, Mexico, <=50K
+25-60, Local-gov, Masters, Never-married, Prof-specialty, Not-in-family, Black, Female,≤5000,>40,<40, United-States, <=50K
+25-60, Private, HS-grad, Married-civ-spouse, Handlers-cleaners, Husband, White, Male,≤5000,≤40,>60, United-States, <=50K
+25-60, Private, Some-college, Married-civ-spouse, Sales, Husband, White, Male,≤5000,≤40,40-60, United-States, >50K
+25-60, Private, HS-grad, Never-married, Transport-moving, Own-child, White, Male,≤5000,≤40,40-60, Portugal, <=50K
+>60, Self-emp-not-inc, Preschool, Widowed, Exec-managerial, Not-in-family, White, Female,≤5000,≤40,40-60, United-States, <=50K

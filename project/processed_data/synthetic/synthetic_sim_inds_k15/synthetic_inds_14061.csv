@@ -1,0 +1,17 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+<25,0, Private, Some-college, Never-married, Protective-serv, Own-child, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Married-civ-spouse, Adm-clerical, Own-child, White, Female,≤5000,≤40,<40, United-States, <=50K
+<25,0, Private, Some-college, Never-married, Adm-clerical, Own-child, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Divorced, Adm-clerical, Unmarried, Black, Female,≤5000,≤40,<40, Jamaica, <=50K
+<25,0, Private, Some-college, Never-married, Adm-clerical, Own-child, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Private, HS-grad, Married-civ-spouse, Other-service, Husband, Asian-Pac-Islander, Male,≤5000,>40,<40, Hong, >50K
+<25,0, Private, Some-college, Never-married, Adm-clerical, Own-child, White, Male,≤5000,≤40,<40, United-States, <=50K
+<25,0, Private, Some-college, Never-married, Adm-clerical, Own-child, White, Male,≤5000,≤40,<40, United-States, <=50K
+<25,1, Private, Some-college, Never-married, Protective-serv, Own-child, White, Male,≤5000,≤40,<40, United-States, >50K
+<25,0, Private, Some-college, Never-married, Adm-clerical, Own-child, White, Male,≤5000,≤40,<40, United-States, <=50K
+<25,0, Private, Some-college, Never-married, Craft-repair, Own-child, White, Male,≤5000,≤40,<40, United-States, <=50K
+<25,0, Private, Some-college, Never-married, Farming-fishing, Own-child, White, Male,≤5000,≤40,<40, United-States, <=50K
+<25,0, Private, Some-college, Never-married, Handlers-cleaners, Own-child, White, Male,≤5000,≤40,<40, United-States, <=50K
+<25,0, Private, Some-college, Never-married, Handlers-cleaners, Own-child, White, Male,≤5000,≤40,<40, United-States, <=50K
+<25,0, Private, Some-college, Never-married, Sales, Own-child, White, Male,≤5000,≤40,<40, United-States, <=50K
+<25,0, Private, Some-college, Never-married, Other-service, Own-child, White, Male,≤5000,≤40,<40, United-States, <=50K

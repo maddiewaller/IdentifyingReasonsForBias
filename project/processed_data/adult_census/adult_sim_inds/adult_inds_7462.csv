@@ -1,0 +1,7 @@
+age,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60, Private, Masters, Never-married, Prof-specialty, Not-in-family, Asian-Pac-Islander, Female,≤5000,≤40,<40, China, <=50K
+25-60, Federal-gov, HS-grad, Never-married, Tech-support, Own-child, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, Some-college, Divorced, Exec-managerial, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, Masters, Never-married, Prof-specialty, Not-in-family, White, Female,≤5000,≤40,<40, England, <=50K
+25-60, Private, Masters, Never-married, Prof-specialty, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, Masters, Never-married, Prof-specialty, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K

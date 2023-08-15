@@ -1,0 +1,17 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60,0, Private, Some-college, Divorced, Adm-clerical, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Never-married, Adm-clerical, Not-in-family, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Private, Some-college, Divorced, Adm-clerical, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Local-gov, Some-college, Married-civ-spouse, Exec-managerial, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Private, Bachelors, Married-civ-spouse, Exec-managerial, Husband, White, Male,≤5000,≤40,<40, United-States, >50K
+25-60,1, Private, 7th-8th, Married-civ-spouse, Craft-repair, Husband, White, Male,≤5000,≤40,<40, United-States, >50K
+25-60,1, Private, Some-college, Married-civ-spouse, Sales, Husband, White, Male,≤5000,≤40,40-60, United-States, >50K
+<25,1, State-gov, Assoc-voc, Never-married, Adm-clerical, Own-child, White, Female,≤5000,≤40,<40, United-States, >50K
+25-60,0, Private, Some-college, Divorced, Machine-op-inspct, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+<25,0, Private, Bachelors, Never-married, Prof-specialty, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Private, HS-grad, Separated, Sales, Unmarried, White, Female,≤5000,≤40,40-60, United-States, >50K
+25-60,0, Private, Some-college, Never-married, Adm-clerical, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Some-college, Divorced, Other-service, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+<25,1, Local-gov, Bachelors, Never-married, Adm-clerical, Own-child, White, Female,≤5000,≤40,<40, United-States, >50K
+25-60,0, Private, HS-grad, Never-married, Exec-managerial, Not-in-family, White, Male,≤5000,≤40,40-60, United-States, <=50K
+<25,0, Self-emp-inc, HS-grad, Divorced, Handlers-cleaners, Own-child, White, Male,≤5000,≤40,<40, United-States, <=50K

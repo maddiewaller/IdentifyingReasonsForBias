@@ -1,0 +1,7 @@
+age,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60, Private, Assoc-voc, Married-civ-spouse, Craft-repair, Husband, Asian-Pac-Islander, Male,≤5000,≤40,<40, Laos, <=50K
+<25, Private, Bachelors, Never-married, Exec-managerial, Own-child, White, Female,≤5000,≤40,<40, United-States, <=50K
+<25, Private, Some-college, Never-married, Adm-clerical, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, Some-college, Married-civ-spouse, Craft-repair, Husband, Asian-Pac-Islander, Male,≤5000,≤40,<40, Cambodia, <=50K
+25-60, Private, HS-grad, Divorced, Protective-serv, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, Bachelors, Separated, Prof-specialty, Not-in-family, Black, Female,≤5000,>40,<40, United-States, <=50K

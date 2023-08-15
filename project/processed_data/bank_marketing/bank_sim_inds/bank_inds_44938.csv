@@ -1,0 +1,7 @@
+age,job,marital,education,default,balance,housing,loan,contact,day,month,duration,campaign,pdays,previous,poutcome,y
+MidAge,housemaid,single,tertiary,no,>0,no,no,telephone,≤15,oct,121-600,≤1,>180,1-5,failure,yes
+MidAge,admin.,single,tertiary,no,>0,no,no,cellular,≤15,oct,121-600,≤1,31-180,1-5,failure,yes
+MidAge,housemaid,single,secondary,no,>0,no,no,telephone,≤15,oct,121-600,≤1,31-180,1-5,failure,yes
+MidAge,housemaid,single,tertiary,no,>0,no,no,telephone,>15,mar,121-600,≤1,>180,1-5,failure,no
+MidAge,admin.,single,secondary,no,>0,no,no,cellular,≤15,oct,121-600,≤1,>180,1-5,failure,yes
+MidAge,unemployed,single,tertiary,no,>0,no,no,cellular,≤15,oct,121-600,≤1,31-180,1-5,failure,yes

@@ -1,0 +1,7 @@
+age,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+<25, Private, Some-college, Never-married, Prof-specialty, Own-child, White, Female,≤5000,≤40,<40, United-States, <=50K
+<25, Private, Some-college, Never-married, Prof-specialty, Own-child, White, Female,≤5000,≤40,<40, United-States, <=50K
+<25, Private, Bachelors, Divorced, Adm-clerical, Not-in-family, White, Female,>5000,≤40,>60, United-States, <=50K
+<25, Private, Some-college, Never-married, Prof-specialty, Own-child, White, Female,≤5000,≤40,<40, United-States, <=50K
+<25, Private, Some-college, Never-married, Prof-specialty, Own-child, White, Male,≤5000,≤40,<40, United-States, <=50K
+<25, Private, Some-college, Never-married, Adm-clerical, Own-child, White, Female,≤5000,≤40,<40, United-States, <=50K

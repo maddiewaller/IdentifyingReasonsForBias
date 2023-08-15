@@ -1,0 +1,7 @@
+age,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60, Private, HS-grad, Never-married, Other-service, Unmarried, White, Female,≤5000,≤40,<40, Puerto-Rico, <=50K
+25-60, Private, Bachelors, Never-married, Adm-clerical, Own-child, Black, Female,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, HS-grad, Divorced, Adm-clerical, Own-child, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, HS-grad, Married-spouse-absent, Craft-repair, Unmarried, Black, Male,≤5000,≤40,<40, United-States, <=50K
+<25, Private, HS-grad, Never-married, Sales, Unmarried, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, HS-grad, Divorced, Other-service, Unmarried, White, Female,≤5000,≤40,<40, United-States, <=50K

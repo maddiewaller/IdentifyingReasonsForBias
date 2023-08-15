@@ -1,0 +1,7 @@
+age,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60, State-gov, Bachelors, Separated, Exec-managerial, Unmarried, Black, Female,≤5000,≤40,<40, United-States, <=50K
+>60, State-gov, Bachelors, Divorced, Exec-managerial, Unmarried, Black, Female,≤5000,≤40,<40, United-States, <=50K
+25-60, Federal-gov, Some-college, Never-married, Adm-clerical, Not-in-family, White, Female,≤5000,>40,<40, United-States, <=50K
+25-60, State-gov, Bachelors, Never-married, Adm-clerical, Unmarried, Black, Female,≤5000,≤40,<40, United-States, <=50K
+25-60, Federal-gov, 10th, Separated, Adm-clerical, Unmarried, Black, Female,≤5000,≤40,<40, United-States, <=50K
+25-60, State-gov, Some-college, Separated, Prof-specialty, Unmarried, Black, Female,≤5000,≤40,<40, United-States, <=50K

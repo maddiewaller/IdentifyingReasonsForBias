@@ -1,0 +1,17 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60,0, Local-gov, Assoc-acdm, Never-married, Prof-specialty, Own-child, Black, Male,≤5000,≤40,<40, United-States, <=50K
+<25,1, Private, Bachelors, Never-married, Adm-clerical, Own-child, White, Female,≤5000,≤40,<40, United-States, >50K
+<25,0, Federal-gov, Assoc-acdm, Never-married, Adm-clerical, Own-child, Black, Male,≤5000,≤40,<40, United-States, <=50K
+<25,1, Private, Bachelors, Never-married, Prof-specialty, Not-in-family, White, Male,≤5000,≤40,<40, United-States, >50K
+<25,0, Private, Assoc-acdm, Divorced, Other-service, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Self-emp-not-inc, Some-college, Married-civ-spouse, Craft-repair, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+<25,0, Private, Some-college, Never-married, Adm-clerical, Own-child, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Federal-gov, Assoc-acdm, Married-civ-spouse, Adm-clerical, Wife, Black, Female,≤5000,≤40,<40, United-States, >50K
+25-60,0, Private, Assoc-voc, Never-married, Adm-clerical, Other-relative, Black, Female,≤5000,>40,<40, United-States, <=50K
+25-60,0, Local-gov, Masters, Separated, Prof-specialty, Unmarried, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Private, Masters, Married-civ-spouse, Exec-managerial, Husband, White, Male,≤5000,≤40,40-60, United-States, >50K
+<25,1, Private, HS-grad, Never-married, Sales, Own-child, White, Male,≤5000,≤40,<40, United-States, >50K
+25-60,1, Private, Assoc-acdm, Married-civ-spouse, Other-service, Husband, Asian-Pac-Islander, Male,≤5000,≤40,<40, Thailand, >50K
+25-60,0, Private, HS-grad, Married-civ-spouse, Machine-op-inspct, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Private, 9th, Married-civ-spouse, Craft-repair, Husband, White, Male,≤5000,≤40,<40, United-States, >50K
+25-60,1, Federal-gov, Some-college, Separated, Exec-managerial, Unmarried, White, Female,≤5000,≤40,40-60, United-States, >50K

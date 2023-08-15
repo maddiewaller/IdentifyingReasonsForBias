@@ -1,0 +1,12 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60,0, Private, Doctorate, Never-married, Craft-repair, Other-relative, Black, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Never-married, Craft-repair, Other-relative, Black, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Private, 9th, Never-married, Craft-repair, Other-relative, Black, Male,≤5000,≤40,<40, United-States, >50K
+25-60,1, Private, Some-college, Never-married, Adm-clerical, Other-relative, Black, Male,≤5000,≤40,<40, United-States, >50K
+25-60,1, Private, HS-grad, Never-married, Adm-clerical, Other-relative, Black, Male,≤5000,≤40,<40, United-States, >50K
+25-60,0, Private, Some-college, Never-married, Craft-repair, Not-in-family, Black, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Some-college, Married-civ-spouse, Tech-support, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Private, Assoc-voc, Married-civ-spouse, Tech-support, Husband, Other, Male,≤5000,≤40,<40, Mexico, >50K
+25-60,0, Private, HS-grad, Never-married, Craft-repair, Other-relative, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, 12th, Never-married, Protective-serv, Other-relative, Black, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Divorced, Craft-repair, Other-relative, White, Male,≤5000,≤40,<40, United-States, <=50K

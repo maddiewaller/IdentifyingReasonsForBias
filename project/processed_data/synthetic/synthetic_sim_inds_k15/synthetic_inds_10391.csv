@@ -1,0 +1,17 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60,0, Private, HS-grad, Married-civ-spouse, Other-service, Wife, Black, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Private, Bachelors, Divorced, Sales, Not-in-family, White, Female,≤5000,≤40,<40, United-States, >50K
+25-60,1, Private, Some-college, Married-civ-spouse, Prof-specialty, Wife, White, Female,≤5000,≤40,<40, United-States, >50K
+25-60,0, Federal-gov, Bachelors, Married-civ-spouse, Exec-managerial, Wife, Other, Female,≤5000,≤40,<40, United-States, <=50K
+<25,0, Private, HS-grad, Never-married, Sales, Own-child, Asian-Pac-Islander, Female,≤5000,≤40,<40, Vietnam, <=50K
+25-60,0, Private, HS-grad, Married-civ-spouse, Tech-support, Wife, Black, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Local-gov, Bachelors, Married-civ-spouse, Prof-specialty, Wife, White, Female,≤5000,≤40,40-60, United-States, >50K
+>60,0, Self-emp-not-inc, HS-grad, Married-civ-spouse, Prof-specialty, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Private, Assoc-acdm, Divorced, Exec-managerial, Unmarried, Black, Female,≤5000,≤40,40-60, Jamaica, <=50K
+25-60,0, Private, Some-college, Married-civ-spouse, Adm-clerical, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Private, HS-grad, Married-civ-spouse, Other-service, Wife, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Private, Bachelors, Divorced, Craft-repair, Not-in-family, White, Male,≤5000,>40,<40, United-States, >50K
+25-60,0, Private, Assoc-acdm, Never-married, Adm-clerical, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Bachelors, Married-civ-spouse, Prof-specialty, Husband, Asian-Pac-Islander, Male,≤5000,≤40,40-60, China, <=50K
+25-60,0, Private, HS-grad, Married-civ-spouse, Sales, Wife, Black, Female,≤5000,>40,<40, United-States, <=50K
+25-60,1, Federal-gov, Bachelors, Married-civ-spouse, Adm-clerical, Husband, White, Male,≤5000,>40,<40, United-States, >50K

@@ -1,0 +1,7 @@
+age,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+<25, Private, Some-college, Never-married, Other-service, Not-in-family, Asian-Pac-Islander, Male,≤5000,≤40,<40, China, <=50K
+25-60, Private, 5th-6th, Never-married, Other-service, Not-in-family, Asian-Pac-Islander, Male,≤5000,≤40,<40, China, <=50K
+<25, Private, Some-college, Never-married, Other-service, Not-in-family, Amer-Indian-Eskimo, Male,≤5000,≤40,<40, United-States, <=50K
+<25, Private, Some-college, Never-married, Transport-moving, Own-child, Asian-Pac-Islander, Male,≤5000,≤40,<40, China, <=50K
+<25, Private, Some-college, Never-married, Other-service, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, Assoc-voc, Separated, Craft-repair, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K

@@ -1,0 +1,12 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60,0, Private, Bachelors, Divorced, Adm-clerical, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Self-emp-inc, HS-grad, Married-civ-spouse, Craft-repair, Husband, White, Male,≤5000,>40,<40, United-States, >50K
+>60,1, Private, HS-grad, Widowed, Priv-house-serv, Not-in-family, White, Female,≤5000,≤40,<40, United-States, >50K
+<25,0, Private, Some-college, Never-married, Machine-op-inspct, Own-child, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, 11th, Married-civ-spouse, Craft-repair, Husband, White, Male,≤5000,≤40,40-60, Mexico, <=50K
+25-60,1, Private, Some-college, Married-civ-spouse, Machine-op-inspct, Husband, White, Male,≤5000,≤40,<40, United-States, >50K
+25-60,1, Private, Some-college, Married-civ-spouse, Craft-repair, Husband, White, Male,≤5000,≤40,<40, United-States, >50K
+25-60,1, Private, Masters, Never-married, Prof-specialty, Own-child, Asian-Pac-Islander, Female,≤5000,≤40,<40, Philippines, >50K
+25-60,0, Self-emp-inc, 7th-8th, Married-civ-spouse, Exec-managerial, Husband, White, Male,≤5000,≤40,40-60, Ireland, <=50K
+<25,0, Private, Some-college, Never-married, Adm-clerical, Own-child, Black, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Never-married, Farming-fishing, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K

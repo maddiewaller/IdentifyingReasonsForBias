@@ -1,0 +1,7 @@
+age,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60, Private, Some-college, Married-civ-spouse, Other-service, Husband, Asian-Pac-Islander, Male,≤5000,≤40,<40, Philippines, <=50K
+25-60, Private, Some-college, Married-civ-spouse, Other-service, Other-relative, Asian-Pac-Islander, Male,≤5000,≤40,<40, Philippines, <=50K
+25-60, Federal-gov, Some-college, Married-civ-spouse, Adm-clerical, Husband, Asian-Pac-Islander, Male,≤5000,≤40,<40, Philippines, >50K
+25-60, Private, Some-college, Married-civ-spouse, Craft-repair, Husband, Asian-Pac-Islander, Male,≤5000,≤40,<40, Cambodia, <=50K
+25-60, Private, Some-college, Married-civ-spouse, Adm-clerical, Husband, Asian-Pac-Islander, Male,≤5000,≤40,<40, Outlying-US(Guam-USVI-etc), <=50K
+25-60, Private, Assoc-acdm, Married-civ-spouse, Other-service, Husband, Asian-Pac-Islander, Male,≤5000,≤40,<40, Thailand, <=50K

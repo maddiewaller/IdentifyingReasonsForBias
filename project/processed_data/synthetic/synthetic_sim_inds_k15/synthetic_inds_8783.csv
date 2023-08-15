@@ -1,0 +1,17 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60,0, Private, Bachelors, Married-civ-spouse, Protective-serv, Husband, White, Male,≤5000,>40,40-60, United-States, <=50K
+25-60,1, Private, HS-grad, Married-civ-spouse, Craft-repair, Husband, White, Male,≤5000,≤40,<40, United-States, >50K
+25-60,1, Private, HS-grad, Married-civ-spouse, Craft-repair, Husband, White, Male,≤5000,≤40,40-60, United-States, >50K
+25-60,0, Private, HS-grad, Married-civ-spouse, Handlers-cleaners, Husband, White, Male,>5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Prof-school, Married-civ-spouse, Prof-specialty, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Private, Bachelors, Married-civ-spouse, Exec-managerial, Husband, White, Male,≤5000,>40,40-60, United-States, <=50K
+25-60,0, Private, Some-college, Divorced, Craft-repair, Own-child, White, Male,≤5000,≤40,<40, United-States, <=50K
+>60,1, Self-emp-not-inc, HS-grad, Married-civ-spouse, Adm-clerical, Wife, White, Female,≤5000,≤40,<40, United-States, >50K
+25-60,1, Private, HS-grad, Married-civ-spouse, Craft-repair, Husband, White, Male,≤5000,>40,>60, United-States, >50K
+25-60,0, Private, Bachelors, Married-civ-spouse, Exec-managerial, Husband, White, Male,≤5000,>40,40-60, United-States, <=50K
+25-60,0, Private, Bachelors, Married-civ-spouse, Exec-managerial, Husband, White, Male,≤5000,>40,40-60, United-States, <=50K
+25-60,0, Private, Some-college, Divorced, Transport-moving, Not-in-family, White, Male,≤5000,>40,>60, United-States, <=50K
+25-60,0, Private, Some-college, Divorced, Exec-managerial, Not-in-family, White, Male,≤5000,>40,40-60, United-States, <=50K
+25-60,0, Private, Bachelors, Married-civ-spouse, Adm-clerical, Husband, White, Male,≤5000,>40,>60, United-States, <=50K
+25-60,0, Private, Assoc-acdm, Divorced, Exec-managerial, Unmarried, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,1, Private, HS-grad, Married-civ-spouse, Prof-specialty, Husband, White, Male,≤5000,≤40,<40, United-States, >50K

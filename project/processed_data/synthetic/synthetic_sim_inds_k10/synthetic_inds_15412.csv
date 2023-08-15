@@ -1,0 +1,12 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60,0, Private, 11th, Separated, Craft-repair, Not-in-family, Black, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, 11th, Separated, Transport-moving, Not-in-family, Black, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Private, 11th, Married-spouse-absent, Craft-repair, Not-in-family, Black, Male,≤5000,≤40,<40, United-States, >50K
+25-60,0, Private, 11th, Divorced, Craft-repair, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Private, 5th-6th, Separated, Craft-repair, Not-in-family, Black, Male,≤5000,≤40,<40, United-States, >50K
+25-60,0, Self-emp-not-inc, 10th, Separated, Craft-repair, Not-in-family, Black, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Divorced, Craft-repair, Not-in-family, Black, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, 10th, Separated, Other-service, Not-in-family, Black, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, 11th, Separated, Other-service, Unmarried, Black, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, 11th, Separated, Sales, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Separated, Craft-repair, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K

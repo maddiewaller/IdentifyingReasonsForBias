@@ -1,0 +1,7 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+<25,0, Private, 11th, Never-married, Other-service, Own-child, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Never-married, Other-service, Own-child, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Private, Assoc-voc, Married-civ-spouse, Exec-managerial, Husband, White, Male,≤5000,≤40,<40, United-States, >50K
+<25,0, Private, HS-grad, Never-married, Tech-support, Own-child, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Private, Bachelors, Married-civ-spouse, Craft-repair, Husband, White, Male,≤5000,≤40,40-60, United-States, >50K
+25-60,0, State-gov, Some-college, Married-civ-spouse, Farming-fishing, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K

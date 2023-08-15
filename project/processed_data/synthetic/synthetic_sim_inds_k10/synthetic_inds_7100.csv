@@ -1,0 +1,12 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60,0, Federal-gov, Some-college, Divorced, Adm-clerical, Unmarried, Black, Male,>5000,≤40,<40, United-States, <=50K
+25-60,0, Private, 7th-8th, Married-civ-spouse, Adm-clerical, Husband, White, Male,≤5000,≤40,<40, Italy, <=50K
+25-60,0, Private, Masters, Never-married, Exec-managerial, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Private, HS-grad, Married-civ-spouse, Machine-op-inspct, Husband, White, Male,≤5000,≤40,<40, United-States, >50K
+25-60,0, Private, HS-grad, Married-civ-spouse, Handlers-cleaners, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K
+<25,1, Private, Assoc-acdm, Never-married, Prof-specialty, Not-in-family, Asian-Pac-Islander, Female,≤5000,≤40,<40, Vietnam, >50K
+25-60,0, Local-gov, Some-college, Divorced, Adm-clerical, Unmarried, Black, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Federal-gov, HS-grad, Never-married, Adm-clerical, Other-relative, Amer-Indian-Eskimo, Male,≤5000,≤40,<40, United-States, <=50K
+<25,0, Self-emp-not-inc, Bachelors, Married-civ-spouse, Prof-specialty, Other-relative, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Private, HS-grad, Married-civ-spouse, Adm-clerical, Husband, Black, Male,≤5000,≤40,40-60, United-States, >50K
+25-60,0, Private, Masters, Married-civ-spouse, Exec-managerial, Husband, White, Male,>5000,≤40,40-60, United-States, <=50K

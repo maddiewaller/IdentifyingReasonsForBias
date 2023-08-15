@@ -1,0 +1,7 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+>60,0, Private, 5th-6th, Married-civ-spouse, Machine-op-inspct, Wife, White, Female,≤5000,≤40,<40, Honduras, <=50K
+25-60,1, Private, 12th, Married-civ-spouse, Craft-repair, Husband, White, Male,≤5000,≤40,<40, United-States, >50K
+25-60,0, Private, 10th, Married-civ-spouse, Craft-repair, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Private, Bachelors, Married-civ-spouse, Sales, Husband, White, Male,≤5000,≤40,40-60, United-States, >50K
+<25,1, Private, 11th, Never-married, Sales, Own-child, Black, Female,≤5000,≤40,<40, United-States, >50K
+25-60,0, Private, HS-grad, Never-married, Exec-managerial, Not-in-family, White, Female,≤5000,≤40,40-60, United-States, <=50K

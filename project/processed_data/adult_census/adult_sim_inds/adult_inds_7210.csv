@@ -1,0 +1,7 @@
+age,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60, Private, 12th, Never-married, Other-service, Unmarried, Black, Female,≤5000,≤40,40-60, Haiti, <=50K
+25-60, Private, HS-grad, Divorced, Craft-repair, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, Bachelors, Never-married, Adm-clerical, Other-relative, White, Female,≤5000,≤40,<40, United-States, <=50K
+>60, Self-emp-inc, Bachelors, Never-married, Exec-managerial, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, Some-college, Married-civ-spouse, Handlers-cleaners, Husband, White, Male,≤5000,≤40,<40, Mexico, <=50K
+<25, Self-emp-not-inc, HS-grad, Never-married, Craft-repair, Unmarried, White, Male,≤5000,≤40,<40, United-States, <=50K

@@ -1,0 +1,7 @@
+age,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60, State-gov, Some-college, Married-civ-spouse, Adm-clerical, Husband, Black, Male,≤5000,≤40,<40, United-States, <=50K
+25-60, Federal-gov, Some-college, Married-civ-spouse, Adm-clerical, Husband, Black, Male,≤5000,≤40,<40, United-States, <=50K
+25-60, State-gov, Some-college, Married-civ-spouse, Other-service, Husband, Black, Male,≤5000,≤40,<40, United-States, <=50K
+>60, Private, Bachelors, Married-civ-spouse, Exec-managerial, Wife, White, Female,≤5000,≤40,<40, England, >50K
+25-60, Private, Some-college, Married-civ-spouse, Adm-clerical, Husband, Black, Male,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, Assoc-voc, Married-civ-spouse, Exec-managerial, Husband, White, Male,≤5000,≤40,40-60, United-States, >50K

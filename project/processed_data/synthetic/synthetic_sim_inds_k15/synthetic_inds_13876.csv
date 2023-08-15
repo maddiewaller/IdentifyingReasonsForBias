@@ -1,0 +1,17 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60,0, Private, 5th-6th, Divorced, Sales, Other-relative, White, Female,≤5000,≤40,<40, Mexico, <=50K
+25-60,1, State-gov, HS-grad, Married-civ-spouse, Craft-repair, Husband, White, Male,≤5000,≤40,<40, United-States, >50K
+25-60,0, Private, HS-grad, Divorced, Sales, Other-relative, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, 5th-6th, Married-civ-spouse, Handlers-cleaners, Other-relative, White, Male,≤5000,≤40,<40, Mexico, <=50K
+25-60,0, Private, 5th-6th, Married-civ-spouse, Handlers-cleaners, Husband, White, Male,≤5000,≤40,<40, Mexico, <=50K
+25-60,0, Private, 10th, Divorced, Sales, Unmarried, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, 1st-4th, Never-married, Machine-op-inspct, Other-relative, White, Female,≤5000,≤40,<40, Mexico, <=50K
+25-60,0, Private, 5th-6th, Married-civ-spouse, Handlers-cleaners, Husband, White, Male,≤5000,≤40,<40, Mexico, <=50K
+25-60,0, Private, 9th, Never-married, Machine-op-inspct, Other-relative, White, Female,≤5000,≤40,<40, Mexico, <=50K
+25-60,0, Private, Bachelors, Never-married, Priv-house-serv, Other-relative, White, Female,≤5000,≤40,<40, Mexico, <=50K
+25-60,0, Private, Some-college, Never-married, Sales, Other-relative, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, 10th, Divorced, Sales, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Bachelors, Never-married, Sales, Other-relative, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Married-civ-spouse, Sales, Husband, White, Male,≤5000,≤40,<40, Mexico, <=50K
+25-60,0, Private, 5th-6th, Married-civ-spouse, Transport-moving, Wife, White, Female,≤5000,≤40,<40, Mexico, <=50K
+25-60,0, Private, 5th-6th, Separated, Machine-op-inspct, Other-relative, White, Female,≤5000,≤40,<40, Ecuador, <=50K

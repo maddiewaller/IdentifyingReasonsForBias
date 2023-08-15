@@ -1,0 +1,7 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60,0, Self-emp-inc, Some-college, Married-civ-spouse, Exec-managerial, Wife, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Self-emp-inc, Some-college, Married-civ-spouse, Exec-managerial, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+<25,0, Private, Assoc-voc, Never-married, Exec-managerial, Not-in-family, Black, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Private, 5th-6th, Never-married, Other-service, Not-in-family, Asian-Pac-Islander, Male,≤5000,≤40,<40, China, >50K
+25-60,0, Self-emp-inc, Some-college, Married-civ-spouse, Sales, Wife, White, Female,≤5000,≤40,<40, United-States, <=50K
+<25,0, Private, 11th, Never-married, Other-service, Own-child, White, Female,≤5000,≤40,<40, United-States, <=50K

@@ -1,0 +1,17 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60,0, Local-gov, 7th-8th, Divorced, Other-service, Unmarried, White, Female,≤5000,≤40,<40, Columbia, <=50K
+25-60,0, Local-gov, Some-college, Divorced, Other-service, Unmarried, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Local-gov, Some-college, Divorced, Adm-clerical, Unmarried, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Local-gov, HS-grad, Never-married, Other-service, Unmarried, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Private, 7th-8th, Divorced, Other-service, Unmarried, White, Female,≤5000,≤40,<40, United-States, >50K
+25-60,0, Local-gov, Some-college, Divorced, Adm-clerical, Unmarried, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Local-gov, Assoc-acdm, Divorced, Adm-clerical, Unmarried, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Local-gov, Bachelors, Divorced, Adm-clerical, Unmarried, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Divorced, Other-service, Unmarried, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Divorced, Other-service, Unmarried, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Local-gov, Bachelors, Divorced, Prof-specialty, Unmarried, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, 7th-8th, Divorced, Other-service, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Masters, Divorced, Other-service, Unmarried, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, 10th, Never-married, Other-service, Unmarried, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Local-gov, Assoc-acdm, Divorced, Other-service, Unmarried, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Self-emp-inc, HS-grad, Divorced, Other-service, Unmarried, White, Female,≤5000,≤40,<40, United-States, <=50K

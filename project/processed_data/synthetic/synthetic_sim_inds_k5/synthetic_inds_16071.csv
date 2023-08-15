@@ -1,0 +1,7 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60,0, Private, 10th, Separated, Handlers-cleaners, Unmarried, Black, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Separated, Handlers-cleaners, Unmarried, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, 12th, Separated, Machine-op-inspct, Unmarried, Black, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, 5th-6th, Separated, Handlers-cleaners, Not-in-family, Black, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Divorced, Handlers-cleaners, Unmarried, Black, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Assoc-voc, Separated, Adm-clerical, Unmarried, Black, Female,≤5000,≤40,<40, United-States, <=50K

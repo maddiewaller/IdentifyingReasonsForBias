@@ -1,0 +1,12 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60,0, Private, Bachelors, Never-married, Protective-serv, Other-relative, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Private, 11th, Married-civ-spouse, Other-service, Husband, White, Male,≤5000,>40,<40, Mexico, <=50K
+<25,0, Private, Bachelors, Never-married, Sales, Other-relative, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Private, Bachelors, Never-married, Sales, Not-in-family, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Private, Bachelors, Never-married, Prof-specialty, Not-in-family, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Private, Bachelors, Never-married, Craft-repair, Not-in-family, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Private, Bachelors, Never-married, Sales, Own-child, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Private, Assoc-acdm, Never-married, Adm-clerical, Other-relative, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Bachelors, Married-civ-spouse, Protective-serv, Husband, White, Male,≤5000,>40,40-60, United-States, <=50K
+25-60,0, Private, Bachelors, Never-married, Prof-specialty, Not-in-family, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Private, Bachelors, Never-married, Exec-managerial, Not-in-family, White, Male,≤5000,≤40,40-60, United-States, <=50K

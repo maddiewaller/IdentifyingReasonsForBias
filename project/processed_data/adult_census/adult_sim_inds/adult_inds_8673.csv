@@ -1,0 +1,7 @@
+age,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60, Private, HS-grad, Widowed, Transport-moving, Unmarried, Black, Male,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, HS-grad, Never-married, Transport-moving, Unmarried, Black, Male,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, HS-grad, Widowed, Adm-clerical, Unmarried, Black, Female,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, Assoc-voc, Divorced, Other-service, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, HS-grad, Divorced, Adm-clerical, Unmarried, Black, Female,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, HS-grad, Widowed, Other-service, Unmarried, Black, Female,≤5000,≤40,<40, United-States, <=50K

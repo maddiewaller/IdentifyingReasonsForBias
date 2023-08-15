@@ -1,0 +1,12 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+<25,0, Federal-gov, 11th, Never-married, Adm-clerical, Own-child, Amer-Indian-Eskimo, Female,≤5000,≤40,<40, United-States, <=50K
+<25,0, Local-gov, 11th, Never-married, Adm-clerical, Own-child, Amer-Indian-Eskimo, Female,≤5000,≤40,<40, United-States, <=50K
+<25,0, Local-gov, 11th, Never-married, Adm-clerical, Own-child, White, Female,≤5000,≤40,<40, United-States, <=50K
+<25,0, Private, 11th, Never-married, Adm-clerical, Own-child, Black, Female,≤5000,≤40,<40, United-States, <=50K
+<25,0, Private, 11th, Never-married, Adm-clerical, Own-child, White, Female,≤5000,≤40,<40, United-States, <=50K
+<25,0, Private, 11th, Never-married, Other-service, Own-child, White, Female,≤5000,≤40,<40, United-States, <=50K
+<25,0, Private, 11th, Never-married, Other-service, Own-child, White, Female,≤5000,≤40,<40, United-States, <=50K
+<25,0, Private, 11th, Never-married, Other-service, Own-child, White, Female,≤5000,≤40,<40, United-States, <=50K
+<25,0, Private, 11th, Never-married, Sales, Own-child, White, Female,≤5000,≤40,<40, United-States, <=50K
+<25,0, Private, 11th, Never-married, Exec-managerial, Own-child, White, Female,≤5000,≤40,<40, United-States, <=50K
+<25,0, Private, 11th, Never-married, Other-service, Own-child, White, Female,≤5000,≤40,<40, United-States, <=50K

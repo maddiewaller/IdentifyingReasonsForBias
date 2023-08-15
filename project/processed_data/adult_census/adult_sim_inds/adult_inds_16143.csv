@@ -1,0 +1,7 @@
+age,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60, Federal-gov, Masters, Married-civ-spouse, Other-service, Husband, Black, Male,≤5000,≤40,<40, Trinadad&Tobago, <=50K
+25-60, Private, Masters, Married-civ-spouse, Adm-clerical, Husband, Black, Male,≤5000,≤40,<40, Haiti, <=50K
+25-60, Local-gov, Masters, Married-civ-spouse, Exec-managerial, Husband, Black, Male,≤5000,≤40,<40, United-States, >50K
+25-60, Private, Bachelors, Married-civ-spouse, Other-service, Husband, Black, Male,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, HS-grad, Married-civ-spouse, Other-service, Husband, Black, Male,≤5000,≤40,<40, United-States, <=50K
+25-60, State-gov, HS-grad, Married-civ-spouse, Other-service, Husband, Black, Male,≤5000,≤40,<40, United-States, <=50K

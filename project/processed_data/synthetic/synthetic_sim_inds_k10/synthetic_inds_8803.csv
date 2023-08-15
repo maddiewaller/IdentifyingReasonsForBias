@@ -1,0 +1,12 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+<25,0, State-gov, Bachelors, Married-civ-spouse, Prof-specialty, Husband, White, Male,≤5000,≤40,<40, England, <=50K
+<25,1, Private, HS-grad, Never-married, Sales, Own-child, White, Male,≤5000,≤40,<40, United-States, >50K
+<25,1, Private, Some-college, Never-married, Other-service, Own-child, White, Female,≤5000,≤40,<40, United-States, >50K
+>60,0, Private, 10th, Divorced, Other-service, Not-in-family, Black, Male,≤5000,≤40,>60, United-States, <=50K
+25-60,1, State-gov, Masters, Never-married, Craft-repair, Not-in-family, White, Male,≤5000,≤40,>60, United-States, >50K
+25-60,1, Local-gov, HS-grad, Never-married, Adm-clerical, Own-child, White, Male,≤5000,≤40,40-60, United-States, >50K
+25-60,0, Private, Assoc-voc, Never-married, Sales, Own-child, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Private, 12th, Married-civ-spouse, Craft-repair, Husband, White, Male,≤5000,≤40,40-60, United-States, >50K
+25-60,0, Local-gov, HS-grad, Never-married, Other-service, Own-child, White, Male,≤5000,≤40,<40, United-States, <=50K
+<25,0, Private, Bachelors, Married-civ-spouse, Prof-specialty, Husband, White, Male,≤5000,≤40,<40, Canada, <=50K
+>60,0, State-gov, Bachelors, Married-civ-spouse, Prof-specialty, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K

@@ -1,0 +1,17 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60,0, Private, Assoc-acdm, Divorced, Sales, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, 10th, Divorced, Sales, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Private, HS-grad, Married-civ-spouse, Craft-repair, Husband, White, Male,≤5000,≤40,40-60, United-States, >50K
+25-60,1, Private, Masters, Married-civ-spouse, Exec-managerial, Husband, White, Male,≤5000,≤40,40-60, United-States, >50K
+25-60,1, Private, Assoc-acdm, Divorced, Sales, Not-in-family, White, Male,≤5000,≤40,<40, United-States, >50K
+25-60,0, Private, Masters, Divorced, Sales, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Assoc-acdm, Never-married, Sales, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Bachelors, Married-civ-spouse, Sales, Husband, White, Male,≤5000,>40,<40, United-States, <=50K
+25-60,1, Private, Some-college, Married-civ-spouse, Adm-clerical, Husband, White, Male,≤5000,≤40,<40, United-States, >50K
+<25,1, Private, Some-college, Never-married, Other-service, Not-in-family, Asian-Pac-Islander, Male,≤5000,≤40,<40, China, >50K
+25-60,0, Private, Assoc-acdm, Divorced, Tech-support, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Assoc-acdm, Divorced, Handlers-cleaners, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Divorced, Sales, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Self-emp-not-inc, HS-grad, Married-civ-spouse, Transport-moving, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,1, Private, HS-grad, Divorced, Protective-serv, Own-child, White, Male,≤5000,≤40,<40, United-States, >50K
+25-60,0, Private, HS-grad, Divorced, Sales, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K

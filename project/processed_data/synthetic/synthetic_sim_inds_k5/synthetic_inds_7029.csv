@@ -1,0 +1,7 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60,0, Private, Assoc-acdm, Divorced, Craft-repair, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+<25,1, Private, Some-college, Never-married, Farming-fishing, Not-in-family, White, Male,≤5000,≤40,>60, United-States, >50K
+25-60,1, Private, 9th, Divorced, Machine-op-inspct, Unmarried, White, Female,≤5000,≤40,<40, Cuba, >50K
+25-60,0, Private, Some-college, Never-married, Adm-clerical, Own-child, White, Female,≤5000,≤40,<40, Nicaragua, <=50K
+25-60,0, Private, HS-grad, Divorced, Craft-repair, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Divorced, Craft-repair, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K

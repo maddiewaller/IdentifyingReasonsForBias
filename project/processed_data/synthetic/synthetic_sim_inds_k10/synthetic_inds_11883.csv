@@ -1,0 +1,12 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+>60,0, Self-emp-inc, Bachelors, Widowed, Farming-fishing, Unmarried, White, Female,≤5000,≤40,<40, United-States, <=50K
+>60,0, Self-emp-inc, Bachelors, Married-civ-spouse, Farming-fishing, Husband, White, Male,>5000,≤40,<40, United-States, <=50K
+25-60,1, State-gov, Some-college, Never-married, Protective-serv, Not-in-family, White, Female,≤5000,≤40,<40, United-States, >50K
+25-60,0, Federal-gov, HS-grad, Widowed, Adm-clerical, Unmarried, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Local-gov, HS-grad, Married-civ-spouse, Protective-serv, Wife, Black, Female,≤5000,≤40,>60, United-States, >50K
+25-60,0, Local-gov, Bachelors, Divorced, Adm-clerical, Unmarried, White, Female,≤5000,≤40,<40, United-States, <=50K
+>60,0, State-gov, HS-grad, Widowed, Adm-clerical, Unmarried, White, Female,≤5000,≤40,<40, United-States, <=50K
+>60,0, Local-gov, HS-grad, Widowed, Adm-clerical, Unmarried, White, Female,≤5000,≤40,<40, United-States, <=50K
+>60,0, Self-emp-not-inc, HS-grad, Widowed, Farming-fishing, Unmarried, White, Male,≤5000,≤40,<40, United-States, <=50K
+>60,0, Self-emp-not-inc, Bachelors, Widowed, Farming-fishing, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Bachelors, Divorced, Adm-clerical, Unmarried, White, Female,≤5000,≤40,<40, United-States, <=50K

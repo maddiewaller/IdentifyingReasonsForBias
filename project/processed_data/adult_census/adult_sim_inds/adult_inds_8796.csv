@@ -1,0 +1,7 @@
+age,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60, Self-emp-not-inc, Assoc-voc, Married-civ-spouse, Farming-fishing, Husband, White, Male,≤5000,≤40,>60, United-States, <=50K
+25-60, Self-emp-not-inc, Assoc-voc, Married-civ-spouse, Farming-fishing, Husband, White, Male,≤5000,≤40,>60, United-States, <=50K
+25-60, Self-emp-not-inc, Assoc-voc, Married-civ-spouse, Farming-fishing, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60, Self-emp-not-inc, Assoc-voc, Married-civ-spouse, Farming-fishing, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K
+<25, Private, HS-grad, Never-married, Handlers-cleaners, Own-child, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60, Self-emp-not-inc, 10th, Married-civ-spouse, Farming-fishing, Husband, White, Male,≤5000,≤40,>60, United-States, <=50K

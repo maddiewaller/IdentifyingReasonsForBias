@@ -1,0 +1,17 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60,0, Local-gov, Some-college, Divorced, Adm-clerical, Unmarried, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Divorced, Adm-clerical, Not-in-family, White, Female,≤5000,≤40,40-60, United-States, <=50K
+<25,0, Private, Some-college, Married-civ-spouse, Handlers-cleaners, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Private, Some-college, Separated, Machine-op-inspct, Not-in-family, White, Male,>5000,≤40,>60, United-States, >50K
+25-60,0, Self-emp-not-inc, Masters, Never-married, Prof-specialty, Own-child, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,1, Federal-gov, Assoc-voc, Divorced, Adm-clerical, Own-child, Black, Female,≤5000,≤40,<40, United-States, >50K
+25-60,0, Private, Some-college, Divorced, Adm-clerical, Unmarried, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Bachelors, Never-married, Prof-specialty, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Private, Bachelors, Never-married, Exec-managerial, Not-in-family, White, Male,≤5000,≤40,<40, United-States, >50K
+>60,1, Private, HS-grad, Married-civ-spouse, Craft-repair, Husband, Black, Male,≤5000,≤40,<40, United-States, >50K
+25-60,0, Private, Bachelors, Divorced, Prof-specialty, Unmarried, Black, Female,≤5000,>40,<40, United-States, <=50K
+25-60,0, Private, Some-college, Divorced, Adm-clerical, Unmarried, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Never-married, Adm-clerical, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Local-gov, Some-college, Divorced, Adm-clerical, Unmarried, Black, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Self-emp-inc, Bachelors, Married-civ-spouse, Exec-managerial, Husband, White, Male,>5000,≤40,>60, United-States, <=50K
+25-60,1, Local-gov, HS-grad, Never-married, Prof-specialty, Not-in-family, White, Female,≤5000,≤40,<40, United-States, >50K

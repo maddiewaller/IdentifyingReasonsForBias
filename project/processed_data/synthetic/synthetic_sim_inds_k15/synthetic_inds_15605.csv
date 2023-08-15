@@ -1,0 +1,17 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+<25,0, Private, Some-college, Never-married, Adm-clerical, Own-child, Black, Female,≤5000,≤40,<40, United-States, <=50K
+<25,0, Private, Some-college, Never-married, Adm-clerical, Own-child, Black, Female,≤5000,≤40,<40, United-States, <=50K
+<25,0, Private, Some-college, Never-married, Adm-clerical, Own-child, Black, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Some-college, Never-married, Adm-clerical, Own-child, Black, Female,≤5000,≤40,<40, United-States, <=50K
+<25,0, Private, Some-college, Never-married, Sales, Own-child, Black, Female,≤5000,≤40,<40, United-States, <=50K
+<25,1, Private, Some-college, Never-married, Adm-clerical, Own-child, Black, Female,≤5000,≤40,<40, United-States, >50K
+<25,0, Private, Some-college, Never-married, Prof-specialty, Own-child, Black, Female,≤5000,≤40,<40, United-States, <=50K
+<25,1, Private, Some-college, Never-married, Adm-clerical, Own-child, Black, Female,≤5000,≤40,<40, United-States, >50K
+<25,0, Private, Some-college, Never-married, Adm-clerical, Unmarried, Black, Female,≤5000,≤40,<40, United-States, <=50K
+<25,0, Private, Some-college, Never-married, Adm-clerical, Own-child, White, Female,≤5000,≤40,<40, United-States, <=50K
+<25,0, Private, Some-college, Never-married, Adm-clerical, Own-child, White, Female,≤5000,≤40,<40, United-States, <=50K
+<25,0, Private, Some-college, Never-married, Machine-op-inspct, Own-child, Black, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Some-college, Never-married, Other-service, Own-child, Black, Female,≤5000,≤40,<40, United-States, <=50K
+<25,0, Private, HS-grad, Never-married, Adm-clerical, Own-child, Black, Female,≤5000,≤40,<40, United-States, <=50K
+<25,0, Private, Some-college, Never-married, Adm-clerical, Own-child, White, Female,≤5000,≤40,<40, United-States, <=50K
+<25,0, Private, HS-grad, Never-married, Adm-clerical, Own-child, Black, Female,≤5000,≤40,<40, United-States, <=50K

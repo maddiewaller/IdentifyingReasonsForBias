@@ -1,0 +1,7 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60,0, Private, Assoc-acdm, Married-civ-spouse, Prof-specialty, Other-relative, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Assoc-acdm, Married-civ-spouse, Transport-moving, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Federal-gov, Assoc-voc, Married-civ-spouse, Adm-clerical, Husband, White, Male,>5000,≤40,40-60, United-States, <=50K
+25-60,0, Self-emp-not-inc, HS-grad, Married-civ-spouse, Sales, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Private, Assoc-acdm, Married-civ-spouse, Prof-specialty, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Private, 5th-6th, Married-civ-spouse, Farming-fishing, Husband, White, Male,≤5000,≤40,>60, Mexico, <=50K

@@ -1,0 +1,17 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+<25,0, Private, 11th, Never-married, Handlers-cleaners, Own-child, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Self-emp-not-inc, Bachelors, Married-civ-spouse, Tech-support, Husband, White, Male,≤5000,≤40,<40, United-States, >50K
+<25,0, Private, 11th, Never-married, Handlers-cleaners, Own-child, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Self-emp-inc, Some-college, Married-civ-spouse, Sales, Husband, White, Male,≤5000,>40,40-60, United-States, >50K
+25-60,1, Private, 7th-8th, Separated, Machine-op-inspct, Unmarried, Black, Female,≤5000,≤40,<40, United-States, >50K
+<25,0, Private, Assoc-voc, Married-civ-spouse, Adm-clerical, Wife, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Private, Masters, Married-civ-spouse, Exec-managerial, Husband, White, Male,>5000,≤40,40-60, United-States, >50K
+>60,0, Self-emp-not-inc, Masters, Married-civ-spouse, Prof-specialty, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Private, HS-grad, Separated, Adm-clerical, Not-in-family, White, Female,≤5000,≤40,<40, United-States, >50K
+<25,1, Private, 11th, Never-married, Handlers-cleaners, Own-child, White, Male,≤5000,≤40,<40, United-States, >50K
+25-60,1, Private, HS-grad, Married-civ-spouse, Other-service, Husband, Black, Male,≤5000,≤40,<40, United-States, >50K
+<25,1, Private, HS-grad, Never-married, Other-service, Own-child, Black, Male,≤5000,≤40,<40, United-States, >50K
+25-60,0, Private, HS-grad, Married-civ-spouse, Craft-repair, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K
+<25,1, Private, 11th, Never-married, Handlers-cleaners, Own-child, White, Male,≤5000,≤40,<40, United-States, >50K
+25-60,0, Self-emp-not-inc, HS-grad, Married-civ-spouse, Exec-managerial, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+<25,1, Private, 11th, Never-married, Handlers-cleaners, Own-child, White, Male,≤5000,≤40,<40, United-States, >50K

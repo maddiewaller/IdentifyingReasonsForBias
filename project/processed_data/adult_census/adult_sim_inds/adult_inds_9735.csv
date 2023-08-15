@@ -1,0 +1,7 @@
+age,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60, Private, Masters, Widowed, Sales, Own-child, Asian-Pac-Islander, Female,≤5000,≤40,40-60, United-States, <=50K
+25-60, Private, Some-college, Married-civ-spouse, Exec-managerial, Husband, White, Male,≤5000,≤40,40-60, United-States, >50K
+<25, Private, Some-college, Never-married, Adm-clerical, Own-child, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, Masters, Never-married, Sales, Own-child, Asian-Pac-Islander, Female,≤5000,≤40,<40, Philippines, <=50K
+<25, Private, HS-grad, Never-married, Machine-op-inspct, Own-child, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60, Private, Masters, Divorced, Adm-clerical, Not-in-family, Amer-Indian-Eskimo, Female,≤5000,≤40,<40, United-States, <=50K

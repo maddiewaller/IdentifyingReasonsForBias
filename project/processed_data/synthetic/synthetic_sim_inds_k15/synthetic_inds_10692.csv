@@ -1,0 +1,17 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60,0, Private, HS-grad, Divorced, Machine-op-inspct, Unmarried, White, Male,≤5000,>40,40-60, United-States, <=50K
+25-60,0, Private, HS-grad, Separated, Machine-op-inspct, Unmarried, Black, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Divorced, Machine-op-inspct, Unmarried, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Federal-gov, Bachelors, Married-civ-spouse, Exec-managerial, Husband, Asian-Pac-Islander, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Private, Assoc-acdm, Never-married, Adm-clerical, Own-child, White, Female,≤5000,≤40,<40, United-States, >50K
+25-60,0, Private, HS-grad, Divorced, Craft-repair, Unmarried, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,1, Private, Masters, Married-civ-spouse, Exec-managerial, Husband, White, Male,≤5000,≤40,40-60, United-States, >50K
+25-60,0, Private, HS-grad, Married-civ-spouse, Machine-op-inspct, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,1, Private, Assoc-voc, Married-civ-spouse, Sales, Husband, White, Male,≤5000,≤40,>60, United-States, >50K
+25-60,0, Local-gov, HS-grad, Married-civ-spouse, Transport-moving, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Married-civ-spouse, Machine-op-inspct, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Private, HS-grad, Married-civ-spouse, Machine-op-inspct, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K
+<25,0, Private, Bachelors, Never-married, Sales, Own-child, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Divorced, Machine-op-inspct, Unmarried, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Private, HS-grad, Married-civ-spouse, Adm-clerical, Husband, White, Male,≤5000,≤40,<40, United-States, >50K
+25-60,0, Private, HS-grad, Married-civ-spouse, Machine-op-inspct, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K

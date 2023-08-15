@@ -1,0 +1,17 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60,0, Self-emp-not-inc, Some-college, Never-married, Craft-repair, Own-child, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Self-emp-not-inc, Some-college, Never-married, Craft-repair, Own-child, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, State-gov, Some-college, Never-married, Craft-repair, Own-child, White, Male,≤5000,≤40,<40, United-States, <=50K
+<25,1, Private, 10th, Never-married, Other-service, Own-child, Amer-Indian-Eskimo, Female,≤5000,≤40,<40, United-States, >50K
+25-60,0, Self-emp-not-inc, Some-college, Never-married, Prof-specialty, Own-child, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Local-gov, Masters, Never-married, Prof-specialty, Not-in-family, White, Female,≤5000,≤40,40-60, United-States, >50K
+25-60,0, Private, Some-college, Never-married, Adm-clerical, Own-child, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Federal-gov, Some-college, Never-married, Machine-op-inspct, Own-child, White, Male,≤5000,≤40,<40, United-States, <=50K
+<25,0, Private, Some-college, Never-married, Craft-repair, Own-child, White, Male,≤5000,≤40,<40, United-States, <=50K
+<25,0, Private, Some-college, Never-married, Craft-repair, Own-child, White, Male,≤5000,≤40,<40, United-States, <=50K
+<25,0, Self-emp-not-inc, Some-college, Never-married, Adm-clerical, Own-child, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Self-emp-not-inc, Some-college, Married-civ-spouse, Craft-repair, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Self-emp-not-inc, Some-college, Married-civ-spouse, Craft-repair, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Self-emp-not-inc, HS-grad, Divorced, Craft-repair, Own-child, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Self-emp-not-inc, Some-college, Divorced, Prof-specialty, Own-child, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Some-college, Divorced, Craft-repair, Own-child, White, Male,≤5000,≤40,<40, United-States, <=50K

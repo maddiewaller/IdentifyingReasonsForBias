@@ -1,0 +1,7 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60,0, Self-emp-not-inc, Assoc-voc, Married-civ-spouse, Other-service, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Private, HS-grad, Married-civ-spouse, Prof-specialty, Husband, Black, Male,≤5000,≤40,40-60, United-States, <=50K
+<25,0, Private, HS-grad, Never-married, Adm-clerical, Own-child, Asian-Pac-Islander, Male,≤5000,≤40,<40, Philippines, <=50K
+25-60,1, Private, Masters, Divorced, Exec-managerial, Not-in-family, White, Male,≤5000,≤40,40-60, Greece, >50K
+25-60,0, Private, HS-grad, Married-spouse-absent, Other-service, Not-in-family, White, Female,≤5000,≤40,<40, El-Salvador, <=50K
+25-60,1, Private, Bachelors, Never-married, Prof-specialty, Not-in-family, Asian-Pac-Islander, Male,≤5000,≤40,<40, Philippines, >50K

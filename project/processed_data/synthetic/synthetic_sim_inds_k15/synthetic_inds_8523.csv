@@ -1,0 +1,17 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+<25,0, Private, HS-grad, Never-married, Transport-moving, Own-child, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Divorced, Other-service, Other-relative, White, Female,≤5000,≤40,<40, Scotland, <=50K
+25-60,1, State-gov, Bachelors, Never-married, Prof-specialty, Own-child, White, Male,≤5000,≤40,<40, United-States, >50K
+25-60,1, Private, Some-college, Married-civ-spouse, Exec-managerial, Husband, White, Male,≤5000,≤40,40-60, United-States, >50K
+<25,0, Private, 10th, Never-married, Craft-repair, Own-child, Other, Female,≤5000,≤40,<40, El-Salvador, <=50K
+25-60,1, Private, HS-grad, Married-civ-spouse, Machine-op-inspct, Husband, White, Male,≤5000,≤40,<40, United-States, >50K
+25-60,0, Private, HS-grad, Married-civ-spouse, Protective-serv, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Married-civ-spouse, Sales, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+<25,0, Private, HS-grad, Never-married, Transport-moving, Own-child, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Married-civ-spouse, Exec-managerial, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K
+<25,0, Private, HS-grad, Never-married, Adm-clerical, Own-child, White, Male,≤5000,≤40,<40, United-States, <=50K
+<25,0, Private, HS-grad, Never-married, Exec-managerial, Own-child, White, Male,≤5000,≤40,<40, United-States, <=50K
+<25,0, Private, HS-grad, Never-married, Sales, Own-child, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Private, 12th, Married-civ-spouse, Transport-moving, Husband, White, Male,≤5000,≤40,<40, United-States, >50K
+<25,0, Private, HS-grad, Never-married, Adm-clerical, Own-child, White, Female,≤5000,≤40,<40, United-States, <=50K
+<25,0, Private, HS-grad, Never-married, Adm-clerical, Own-child, White, Female,≤5000,≤40,<40, United-States, <=50K

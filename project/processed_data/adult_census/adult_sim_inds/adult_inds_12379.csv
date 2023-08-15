@@ -1,0 +1,7 @@
+age,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60, Self-emp-not-inc, Bachelors, Divorced, Sales, Unmarried, Asian-Pac-Islander, Female,≤5000,≤40,<40, South, <=50K
+25-60, Self-emp-not-inc, 12th, Widowed, Sales, Unmarried, Asian-Pac-Islander, Female,≤5000,≤40,<40, South, <=50K
+25-60, Self-emp-not-inc, Bachelors, Divorced, Sales, Unmarried, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, Bachelors, Divorced, Sales, Unmarried, Asian-Pac-Islander, Female,≤5000,≤40,<40, China, <=50K
+25-60, Private, HS-grad, Divorced, Exec-managerial, Unmarried, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, Bachelors, Never-married, Adm-clerical, Unmarried, Asian-Pac-Islander, Female,≤5000,≤40,<40, Philippines, <=50K

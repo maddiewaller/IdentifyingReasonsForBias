@@ -1,0 +1,7 @@
+age,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60, Private, Some-college, Married-civ-spouse, Adm-clerical, Husband, Asian-Pac-Islander, Male,≤5000,≤40,<40, Outlying-US(Guam-USVI-etc), <=50K
+25-60, Private, Some-college, Married-civ-spouse, Craft-repair, Husband, Asian-Pac-Islander, Male,≤5000,≤40,<40, Cambodia, <=50K
+25-60, Private, Bachelors, Never-married, Sales, Unmarried, Black, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60, Private, Bachelors, Married-civ-spouse, Sales, Husband, White, Male,≤5000,≤40,<40, United-States, >50K
+25-60, Private, Some-college, Never-married, Tech-support, Own-child, White, Female,≤5000,≤40,<40, Nicaragua, <=50K
+25-60, Private, Some-college, Never-married, Other-service, Own-child, White, Female,≤5000,≤40,<40, United-States, <=50K

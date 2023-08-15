@@ -1,0 +1,12 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60,0, State-gov, HS-grad, Married-civ-spouse, Craft-repair, Wife, Black, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Private, Some-college, Married-civ-spouse, Adm-clerical, Husband, White, Male,≤5000,≤40,40-60, United-States, >50K
+25-60,1, Private, 9th, Divorced, Transport-moving, Not-in-family, White, Male,≤5000,≤40,<40, United-States, >50K
+25-60,0, State-gov, Masters, Married-civ-spouse, Exec-managerial, Wife, Black, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Local-gov, Some-college, Married-civ-spouse, Protective-serv, Husband, White, Male,≤5000,≤40,<40, United-States, >50K
+25-60,0, State-gov, HS-grad, Married-civ-spouse, Craft-repair, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Married-civ-spouse, Craft-repair, Husband, Black, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Married-civ-spouse, Craft-repair, Husband, Black, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Married-civ-spouse, Craft-repair, Husband, Black, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Federal-gov, HS-grad, Married-civ-spouse, Adm-clerical, Wife, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Private, Assoc-acdm, Divorced, Exec-managerial, Unmarried, Black, Female,≤5000,≤40,40-60, Jamaica, >50K

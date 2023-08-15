@@ -1,0 +1,7 @@
+age,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60, Local-gov, Bachelors, Divorced, Prof-specialty, Other-relative, White, Female,≤5000,≤40,40-60, United-States, <=50K
+25-60, Private, HS-grad, Divorced, Other-service, Unmarried, Black, Female,≤5000,≤40,<40, Jamaica, <=50K
+<25, Private, HS-grad, Never-married, Adm-clerical, Unmarried, Black, Female,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, 12th, Never-married, Protective-serv, Other-relative, Black, Male,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, HS-grad, Separated, Adm-clerical, Unmarried, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60, Self-emp-not-inc, Prof-school, Married-civ-spouse, Prof-specialty, Husband, White, Male,≤5000,≤40,<40, United-States, >50K

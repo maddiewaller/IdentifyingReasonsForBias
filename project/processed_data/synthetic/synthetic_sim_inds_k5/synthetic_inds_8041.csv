@@ -1,0 +1,7 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60,0, Private, 12th, Separated, Adm-clerical, Own-child, White, Male,≤5000,≤40,<40, Mexico, <=50K
+25-60,1, Private, Some-college, Married-civ-spouse, Protective-serv, Husband, Black, Male,≤5000,≤40,40-60, United-States, >50K
+25-60,1, Private, Bachelors, Divorced, Exec-managerial, Not-in-family, White, Male,≤5000,≤40,40-60, United-States, >50K
+25-60,0, Private, HS-grad, Married-spouse-absent, Transport-moving, Not-in-family, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Private, Some-college, Married-civ-spouse, Handlers-cleaners, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+<25,1, Private, 11th, Never-married, Prof-specialty, Own-child, White, Male,≤5000,≤40,<40, United-States, >50K

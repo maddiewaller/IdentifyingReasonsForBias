@@ -1,0 +1,12 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+<25,0, Private, 5th-6th, Married-civ-spouse, Handlers-cleaners, Wife, White, Female,≤5000,≤40,<40, Mexico, <=50K
+25-60,0, Private, 5th-6th, Married-civ-spouse, Transport-moving, Wife, White, Female,≤5000,≤40,<40, Mexico, <=50K
+>60,1, Private, Assoc-acdm, Divorced, Sales, Not-in-family, White, Female,≤5000,≤40,<40, United-States, >50K
+<25,0, Private, 5th-6th, Married-civ-spouse, Other-service, Husband, White, Male,≤5000,≤40,<40, Mexico, <=50K
+25-60,1, Private, 5th-6th, Married-civ-spouse, Handlers-cleaners, Husband, White, Male,≤5000,≤40,<40, Mexico, >50K
+25-60,1, Private, 5th-6th, Married-civ-spouse, Handlers-cleaners, Husband, White, Male,≤5000,≤40,<40, Mexico, >50K
+25-60,0, Private, 5th-6th, Married-civ-spouse, Handlers-cleaners, Other-relative, White, Male,≤5000,≤40,<40, Mexico, <=50K
+25-60,0, Private, 5th-6th, Married-civ-spouse, Adm-clerical, Wife, White, Female,≤5000,≤40,<40, Italy, <=50K
+<25,0, Private, HS-grad, Married-civ-spouse, Adm-clerical, Wife, White, Female,≤5000,≤40,<40, United-States, <=50K
+>60,0, Private, HS-grad, Widowed, Priv-house-serv, Not-in-family, White, Female,≤5000,≤40,<40, England, <=50K
+25-60,0, Private, HS-grad, Married-civ-spouse, Adm-clerical, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K

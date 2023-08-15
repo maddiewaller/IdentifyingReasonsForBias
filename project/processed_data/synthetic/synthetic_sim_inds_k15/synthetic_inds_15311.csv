@@ -1,0 +1,17 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60,0, Self-emp-inc, Masters, Never-married, Sales, Own-child, White, Female,>5000,≤40,<40, United-States, <=50K
+25-60,0, Self-emp-inc, Masters, Never-married, Exec-managerial, Not-in-family, White, Female,>5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Never-married, Sales, Own-child, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Federal-gov, Masters, Never-married, Exec-managerial, Not-in-family, White, Female,>5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Bachelors, Never-married, Sales, Own-child, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Masters, Never-married, Sales, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+<25,0, Private, 10th, Never-married, Sales, Own-child, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Assoc-acdm, Never-married, Sales, Own-child, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Bachelors, Never-married, Sales, Own-child, White, Female,≤5000,≤40,<40, United-States, <=50K
+<25,0, Self-emp-not-inc, 10th, Never-married, Sales, Own-child, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Some-college, Married-civ-spouse, Exec-managerial, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Private, HS-grad, Never-married, Sales, Own-child, White, Female,≤5000,≤40,<40, United-States, <=50K
+<25,0, Self-emp-inc, HS-grad, Never-married, Adm-clerical, Own-child, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Self-emp-inc, Masters, Divorced, Exec-managerial, Unmarried, White, Female,>5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Some-college, Never-married, Sales, Own-child, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Local-gov, HS-grad, Never-married, Adm-clerical, Own-child, White, Female,≤5000,≤40,<40, United-States, <=50K

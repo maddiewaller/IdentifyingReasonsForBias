@@ -1,0 +1,8 @@
+Prevalence of individuals in each protected group in the Adult Census dataset
+male: Negative: 20988, Positive: 9539, Negative Percentage: 68.75%
+female: Negative: 13026, Positive: 1669, Negative Percentage: 88.64%
+white: Negative: 28696, Positive: 10207, Negative Percentage: 73.76%
+black: Negative: 3694, Positive: 534, Negative Percentage: 87.37%
+asian: Negative: 934, Positive: 369, Negative Percentage: 71.68%
+amer: Negative: 382, Positive: 53, Negative Percentage: 87.82%
+other: Negative: 308, Positive: 45, Negative Percentage: 87.25%

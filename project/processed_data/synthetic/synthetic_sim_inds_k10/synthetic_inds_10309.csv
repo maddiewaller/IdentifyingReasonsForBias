@@ -1,0 +1,12 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+>60,0, Private, Some-college, Widowed, Sales, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+>60,0, Private, Some-college, Widowed, Sales, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+>60,0, Private, Some-college, Widowed, Sales, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+>60,1, Private, Some-college, Widowed, Sales, Not-in-family, White, Male,≤5000,≤40,<40, United-States, >50K
+25-60,0, Private, Some-college, Divorced, Sales, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Private, HS-grad, Never-married, Craft-repair, Unmarried, White, Male,≤5000,≤40,<40, United-States, >50K
+25-60,1, Private, HS-grad, Never-married, Exec-managerial, Not-in-family, White, Female,≤5000,≤40,40-60, United-States, >50K
+>60,0, Self-emp-not-inc, Some-college, Widowed, Sales, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Some-college, Divorced, Sales, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Bachelors, Married-civ-spouse, Sales, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, 11th, Separated, Tech-support, Unmarried, White, Female,≤5000,≤40,<40, Puerto-Rico, <=50K

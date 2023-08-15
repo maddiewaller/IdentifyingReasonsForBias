@@ -1,0 +1,12 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+>60,0, Private, Assoc-voc, Widowed, Tech-support, Unmarried, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Assoc-voc, Divorced, Tech-support, Unmarried, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Assoc-voc, Divorced, Tech-support, Unmarried, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Assoc-voc, Divorced, Adm-clerical, Unmarried, White, Female,≤5000,≤40,<40, United-States, <=50K
+>60,0, Private, 10th, Widowed, Tech-support, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Assoc-voc, Divorced, Adm-clerical, Unmarried, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Assoc-voc, Widowed, Exec-managerial, Unmarried, White, Female,≤5000,>40,<40, United-States, <=50K
+>60,0, Private, HS-grad, Widowed, Craft-repair, Unmarried, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Assoc-voc, Divorced, Exec-managerial, Unmarried, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Assoc-acdm, Divorced, Tech-support, Unmarried, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Bachelors, Divorced, Tech-support, Unmarried, White, Female,≤5000,≤40,<40, United-States, <=50K

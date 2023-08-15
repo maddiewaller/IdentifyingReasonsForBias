@@ -1,0 +1,12 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60,0, Local-gov, Some-college, Divorced, Exec-managerial, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Private, HS-grad, Married-civ-spouse, Craft-repair, Wife, White, Female,≤5000,≤40,<40, United-States, >50K
+25-60,0, Private, Assoc-acdm, Never-married, Prof-specialty, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Private, 12th, Married-civ-spouse, Transport-moving, Husband, Black, Male,≤5000,≤40,40-60, United-States, >50K
+<25,0, Private, Some-college, Never-married, Handlers-cleaners, Own-child, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, 10th, Never-married, Other-service, Unmarried, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Some-college, Divorced, Machine-op-inspct, Own-child, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,1, State-gov, Some-college, Never-married, Exec-managerial, Not-in-family, White, Male,≤5000,≤40,<40, United-States, >50K
+25-60,0, Private, HS-grad, Married-civ-spouse, Craft-repair, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,1, Federal-gov, Masters, Married-civ-spouse, Other-service, Husband, Black, Male,≤5000,≤40,<40, Trinadad&Tobago, >50K
+>60,1, Private, HS-grad, Married-civ-spouse, Exec-managerial, Own-child, Black, Female,≤5000,≤40,<40, United-States, >50K

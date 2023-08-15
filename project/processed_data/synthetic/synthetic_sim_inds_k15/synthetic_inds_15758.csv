@@ -1,0 +1,17 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60,0, Private, HS-grad, Married-civ-spouse, Other-service, Husband, White, Male,≤5000,≤40,<40, Cuba, <=50K
+25-60,0, Private, HS-grad, Married-civ-spouse, Other-service, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, 1st-4th, Married-civ-spouse, Other-service, Husband, White, Male,≤5000,≤40,<40, Cuba, <=50K
+25-60,0, Private, HS-grad, Married-civ-spouse, Other-service, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Married-civ-spouse, Other-service, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Married-civ-spouse, Other-service, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Married-civ-spouse, Other-service, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Married-civ-spouse, Other-service, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Married-civ-spouse, Other-service, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Married-civ-spouse, Other-service, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Married-civ-spouse, Other-service, Husband, White, Male,≤5000,≤40,<40, El-Salvador, <=50K
+25-60,0, Private, HS-grad, Married-civ-spouse, Other-service, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Private, HS-grad, Married-civ-spouse, Other-service, Husband, White, Male,>5000,≤40,<40, Greece, <=50K
+25-60,0, Private, HS-grad, Married-civ-spouse, Adm-clerical, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Married-civ-spouse, Other-service, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Private, HS-grad, Married-civ-spouse, Other-service, Husband, White, Male,≤5000,≤40,40-60, Puerto-Rico, <=50K

@@ -1,0 +1,12 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60,0, State-gov, Masters, Married-civ-spouse, Exec-managerial, Wife, Black, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Private, HS-grad, Never-married, Craft-repair, Own-child, White, Male,≤5000,≤40,<40, United-States, >50K
+<25,0, Private, HS-grad, Never-married, Other-service, Not-in-family, White, Male,≤5000,>40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Separated, Craft-repair, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Private, Bachelors, Married-civ-spouse, Exec-managerial, Husband, White, Male,>5000,≤40,40-60, England, >50K
+25-60,1, Private, Masters, Separated, Exec-managerial, Not-in-family, White, Female,≤5000,≤40,40-60, United-States, >50K
+25-60,0, Local-gov, Masters, Married-civ-spouse, Exec-managerial, Husband, Black, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Private, Some-college, Never-married, Farming-fishing, Unmarried, White, Male,≤5000,≤40,40-60, United-States, >50K
+25-60,1, Private, Some-college, Married-civ-spouse, Adm-clerical, Husband, White, Male,≤5000,≤40,40-60, United-States, >50K
+25-60,1, Private, Bachelors, Married-civ-spouse, Prof-specialty, Husband, White, Male,>5000,≤40,40-60, United-States, >50K
+25-60,0, Private, 1st-4th, Never-married, Machine-op-inspct, Unmarried, Asian-Pac-Islander, Female,≤5000,≤40,<40, Vietnam, <=50K

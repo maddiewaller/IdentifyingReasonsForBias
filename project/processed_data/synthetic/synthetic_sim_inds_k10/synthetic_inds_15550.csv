@@ -1,0 +1,12 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60,0, Self-emp-not-inc, Assoc-voc, Divorced, Other-service, Unmarried, White, Female,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Self-emp-not-inc, Bachelors, Divorced, Other-service, Unmarried, White, Female,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Self-emp-not-inc, HS-grad, Never-married, Other-service, Unmarried, White, Female,≤5000,≤40,40-60, United-States, <=50K
+25-60,1, Self-emp-not-inc, HS-grad, Divorced, Other-service, Unmarried, White, Female,≤5000,≤40,40-60, United-States, >50K
+25-60,0, Self-emp-not-inc, Assoc-voc, Married-civ-spouse, Other-service, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Private, Assoc-voc, Divorced, Other-service, Unmarried, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, State-gov, HS-grad, Divorced, Other-service, Unmarried, White, Female,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Private, Some-college, Divorced, Other-service, Unmarried, White, Female,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Private, Assoc-voc, Divorced, Adm-clerical, Unmarried, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Federal-gov, 10th, Divorced, Adm-clerical, Unmarried, White, Female,≤5000,>40,40-60, United-States, <=50K
+25-60,0, Federal-gov, Assoc-voc, Never-married, Adm-clerical, Unmarried, White, Male,≤5000,≤40,40-60, United-States, <=50K

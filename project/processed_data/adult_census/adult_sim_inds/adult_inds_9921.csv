@@ -1,0 +1,7 @@
+age,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60, Private, Masters, Married-spouse-absent, Exec-managerial, Not-in-family, Asian-Pac-Islander, Male,≤5000,≤40,<40, India, <=50K
+25-60, Private, Masters, Never-married, Adm-clerical, Not-in-family, Asian-Pac-Islander, Male,≤5000,≤40,40-60, India, <=50K
+25-60, Private, Some-college, Married-civ-spouse, Other-service, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60, Private, Masters, Married-civ-spouse, Prof-specialty, Husband, Asian-Pac-Islander, Male,≤5000,≤40,<40, India, >50K
+25-60, Private, Masters, Divorced, Exec-managerial, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60, Private, Prof-school, Married-civ-spouse, Exec-managerial, Husband, Asian-Pac-Islander, Male,≤5000,≤40,<40, India, >50K

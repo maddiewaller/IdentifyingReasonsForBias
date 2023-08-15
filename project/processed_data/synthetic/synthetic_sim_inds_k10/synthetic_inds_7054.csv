@@ -1,0 +1,12 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60,0, Private, HS-grad, Widowed, Adm-clerical, Unmarried, White, Female,≤5000,≤40,<40, United-States, <=50K
+>60,1, Self-emp-not-inc, Prof-school, Divorced, Prof-specialty, Not-in-family, White, Male,≤5000,>40,40-60, United-States, >50K
+25-60,0, Private, HS-grad, Divorced, Sales, Not-in-family, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Some-college, Never-married, Craft-repair, Not-in-family, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,1, Private, Bachelors, Married-civ-spouse, Transport-moving, Husband, Black, Male,>5000,≤40,40-60, United-States, >50K
+<25,1, Private, Some-college, Divorced, Sales, Not-in-family, White, Female,≤5000,≤40,<40, United-States, >50K
+25-60,1, Private, Some-college, Separated, Tech-support, Unmarried, White, Female,≤5000,≤40,40-60, United-States, >50K
+25-60,0, Private, Some-college, Married-civ-spouse, Other-service, Wife, Asian-Pac-Islander, Female,≤5000,≤40,<40, Trinadad&Tobago, <=50K
+25-60,1, Federal-gov, Masters, Never-married, Exec-managerial, Not-in-family, White, Female,>5000,≤40,<40, United-States, >50K
+25-60,0, Self-emp-not-inc, HS-grad, Married-civ-spouse, Farming-fishing, Husband, White, Male,≤5000,≤40,>60, United-States, <=50K
+<25,0, Private, HS-grad, Never-married, Other-service, Unmarried, White, Female,≤5000,≤40,<40, United-States, <=50K

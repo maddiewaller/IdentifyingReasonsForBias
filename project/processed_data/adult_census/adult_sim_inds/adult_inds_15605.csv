@@ -1,0 +1,7 @@
+age,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+<25, Private, Some-college, Never-married, Adm-clerical, Own-child, Black, Female,≤5000,≤40,<40, United-States, <=50K
+<25, Private, Some-college, Never-married, Adm-clerical, Own-child, Black, Female,≤5000,≤40,<40, United-States, <=50K
+<25, Private, Some-college, Never-married, Adm-clerical, Own-child, Black, Female,≤5000,≤40,<40, United-States, <=50K
+<25, Private, Some-college, Never-married, Adm-clerical, Own-child, Black, Female,≤5000,≤40,<40, United-States, <=50K
+<25, Private, Some-college, Never-married, Sales, Own-child, Black, Female,≤5000,≤40,<40, United-States, <=50K
+<25, Private, Some-college, Never-married, Adm-clerical, Own-child, Black, Male,≤5000,≤40,<40, United-States, <=50K

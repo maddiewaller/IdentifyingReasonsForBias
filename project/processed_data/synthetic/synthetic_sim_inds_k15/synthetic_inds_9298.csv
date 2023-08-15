@@ -1,0 +1,17 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60,0, Private, Some-college, Married-civ-spouse, Adm-clerical, Wife, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Private, HS-grad, Divorced, Craft-repair, Not-in-family, White, Male,≤5000,≤40,40-60, United-States, >50K
+<25,0, Private, HS-grad, Married-spouse-absent, Transport-moving, Not-in-family, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,1, Private, Assoc-voc, Divorced, Other-service, Not-in-family, White, Male,≤5000,≤40,<40, United-States, >50K
+25-60,0, Private, Assoc-voc, Married-civ-spouse, Exec-managerial, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Private, HS-grad, Married-civ-spouse, Craft-repair, Husband, White, Male,≤5000,≤40,<40, United-States, >50K
+25-60,0, Private, Some-college, Married-civ-spouse, Adm-clerical, Wife, White, Female,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Private, Some-college, Married-civ-spouse, Exec-managerial, Wife, White, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Never-married, Craft-repair, Own-child, White, Male,≤5000,≤40,<40, United-States, <=50K
+>60,0, Private, 10th, Widowed, Machine-op-inspct, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+<25,1, Private, Some-college, Never-married, Adm-clerical, Own-child, White, Female,≤5000,≤40,<40, United-States, >50K
+25-60,1, Private, HS-grad, Never-married, Exec-managerial, Not-in-family, White, Female,≤5000,≤40,40-60, United-States, >50K
+25-60,0, Local-gov, Some-college, Married-civ-spouse, Farming-fishing, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Private, Masters, Married-civ-spouse, Prof-specialty, Husband, White, Male,≤5000,≤40,<40, United-States, >50K
+25-60,0, Private, HS-grad, Married-spouse-absent, Adm-clerical, Unmarried, White, Female,≤5000,≤40,<40, Ecuador, <=50K
+25-60,0, Private, Some-college, Married-civ-spouse, Adm-clerical, Wife, White, Female,≤5000,>40,<40, United-States, <=50K

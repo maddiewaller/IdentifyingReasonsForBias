@@ -1,0 +1,17 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60,0, State-gov, Some-college, Married-civ-spouse, Adm-clerical, Husband, Black, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, State-gov, Some-college, Married-civ-spouse, Other-service, Husband, Black, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Assoc-voc, Married-civ-spouse, Exec-managerial, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Private, Some-college, Married-civ-spouse, Adm-clerical, Husband, Black, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Federal-gov, Some-college, Married-civ-spouse, Adm-clerical, Husband, Black, Male,≤5000,≤40,<40, United-States, >50K
+25-60,0, State-gov, Bachelors, Married-civ-spouse, Protective-serv, Husband, Black, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Federal-gov, Some-college, Married-civ-spouse, Adm-clerical, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+<25,1, Private, Some-college, Never-married, Craft-repair, Own-child, White, Male,≤5000,≤40,<40, United-States, >50K
+25-60,1, Private, Some-college, Married-civ-spouse, Sales, Husband, White, Male,≤5000,≤40,<40, United-States, >50K
+25-60,1, Private, 7th-8th, Married-civ-spouse, Adm-clerical, Husband, White, Male,≤5000,≤40,<40, Italy, >50K
+25-60,0, Local-gov, Some-college, Married-civ-spouse, Handlers-cleaners, Husband, Black, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Married-civ-spouse, Craft-repair, Husband, White, Male,≤5000,≤40,>60, United-States, <=50K
+25-60,0, State-gov, Some-college, Married-civ-spouse, Exec-managerial, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Some-college, Married-civ-spouse, Tech-support, Husband, Black, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Federal-gov, Some-college, Married-civ-spouse, Adm-clerical, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Local-gov, Some-college, Married-civ-spouse, Craft-repair, Husband, Black, Male,≤5000,≤40,<40, United-States, <=50K

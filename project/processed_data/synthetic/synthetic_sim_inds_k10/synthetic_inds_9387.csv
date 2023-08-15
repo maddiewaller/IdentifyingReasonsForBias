@@ -1,0 +1,12 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60,0, Local-gov, Some-college, Married-civ-spouse, Prof-specialty, Husband, Other, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Federal-gov, Bachelors, Married-civ-spouse, Exec-managerial, Husband, White, Male,>5000,≤40,<40, United-States, >50K
+<25,1, Private, Some-college, Never-married, Machine-op-inspct, Own-child, White, Male,≤5000,≤40,<40, United-States, >50K
+25-60,0, Local-gov, Some-college, Married-civ-spouse, Exec-managerial, Husband, Amer-Indian-Eskimo, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Self-emp-not-inc, HS-grad, Never-married, Exec-managerial, Not-in-family, Other, Male,≤5000,≤40,<40, Iran, >50K
+25-60,0, Local-gov, Some-college, Married-civ-spouse, Adm-clerical, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,1, Local-gov, Some-college, Married-civ-spouse, Prof-specialty, Husband, White, Male,≤5000,≤40,<40, United-States, >50K
+25-60,1, Self-emp-not-inc, Bachelors, Married-civ-spouse, Farming-fishing, Husband, White, Male,≤5000,≤40,>60, United-States, >50K
+25-60,1, Local-gov, Some-college, Married-civ-spouse, Prof-specialty, Husband, Black, Male,≤5000,≤40,<40, United-States, >50K
+25-60,0, Local-gov, Bachelors, Married-civ-spouse, Prof-specialty, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Local-gov, HS-grad, Married-civ-spouse, Prof-specialty, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K

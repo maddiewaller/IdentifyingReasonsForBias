@@ -1,0 +1,17 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+25-60,0, Private, Assoc-acdm, Never-married, Exec-managerial, Own-child, Amer-Indian-Eskimo, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, 11th, Never-married, Exec-managerial, Own-child, White, Male,≤5000,≤40,<40, United-States, <=50K
+<25,0, Private, Assoc-acdm, Divorced, Other-service, Not-in-family, White, Female,≤5000,≤40,<40, United-States, <=50K
+>60,0, Private, 11th, Married-civ-spouse, Protective-serv, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Married-civ-spouse, Transport-moving, Husband, White, Male,≤5000,≤40,40-60, United-States, <=50K
+25-60,0, Private, Bachelors, Married-civ-spouse, Exec-managerial, Husband, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, HS-grad, Married-civ-spouse, Exec-managerial, Husband, White, Male,>5000,≤40,40-60, United-States, <=50K
+25-60,1, Private, Bachelors, Married-civ-spouse, Exec-managerial, Husband, White, Male,≤5000,≤40,40-60, United-States, >50K
+<25,0, Private, Some-college, Never-married, Adm-clerical, Own-child, White, Male,≤5000,≤40,<40, United-States, <=50K
+<25,0, Private, Some-college, Never-married, Exec-managerial, Own-child, White, Male,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Some-college, Never-married, Adm-clerical, Own-child, White, Male,≤5000,≤40,<40, United-States, <=50K
+<25,0, Federal-gov, Assoc-acdm, Never-married, Adm-clerical, Own-child, Black, Male,≤5000,≤40,<40, United-States, <=50K
+<25,0, Private, HS-grad, Never-married, Exec-managerial, Own-child, White, Male,≤5000,≤40,<40, United-States, <=50K
+<25,0, Private, Assoc-acdm, Never-married, Sales, Own-child, White, Male,≤5000,≤40,<40, United-States, <=50K
+<25,1, Private, Bachelors, Married-civ-spouse, Prof-specialty, Wife, White, Female,≤5000,≤40,<40, United-States, >50K
+<25,0, Private, Assoc-acdm, Never-married, Adm-clerical, Own-child, White, Female,≤5000,≤40,<40, United-States, <=50K

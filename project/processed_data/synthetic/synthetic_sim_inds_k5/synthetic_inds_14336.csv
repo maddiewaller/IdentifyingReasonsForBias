@@ -1,0 +1,7 @@
+age,bias-attr,workclass,education,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,Probability
+>60,0, Private, Assoc-acdm, Widowed, Machine-op-inspct, Unmarried, Black, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Assoc-acdm, Widowed, Adm-clerical, Unmarried, Black, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, Assoc-acdm, Divorced, Adm-clerical, Unmarried, Black, Female,≤5000,≤40,<40, United-States, <=50K
+25-60,0, Private, 10th, Widowed, Sales, Unmarried, Black, Female,≤5000,≤40,<40, United-States, <=50K
+>60,0, Private, 7th-8th, Widowed, Priv-house-serv, Unmarried, Black, Female,≤5000,≤40,<40, United-States, <=50K
+>60,0, Private, HS-grad, Divorced, Adm-clerical, Unmarried, Black, Female,≤5000,≤40,<40, United-States, <=50K

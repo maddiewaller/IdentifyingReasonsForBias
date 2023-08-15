@@ -1,0 +1,7 @@
+age,job,marital,education,default,balance,housing,loan,contact,day,month,duration,campaign,pdays,previous,poutcome,y
+MidAge,admin.,single,secondary,no,>0,no,no,cellular,≤15,jun,>600,≤1,≤30,1-5,failure,yes
+MidAge,admin.,single,secondary,no,>0,no,no,cellular,≤15,jun,121-600,≤1,31-180,1-5,other,no
+MidAge,management,married,tertiary,no,>0,yes,no,cellular,≤15,jun,121-600,2-5,31-180,>5,failure,no
+MidAge,technician,single,secondary,no,>0,no,no,cellular,≤15,jun,>600,≤1,≤30,0,unknown,yes
+MidAge,unemployed,single,secondary,no,>0,no,no,cellular,≤15,jun,>600,≤1,≤30,0,unknown,yes
+MidAge,management,married,secondary,no,>0,yes,no,cellular,≤15,jun,121-600,≤1,31-180,1-5,failure,no
